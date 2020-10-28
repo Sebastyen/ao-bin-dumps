@@ -4,129 +4,65 @@
     "@encoding": "utf-8",
     "@standalone": "yes"
   },
-  "blacklist": {
+  "profanityfilters": {
     "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
     "@xsi:noNamespaceSchemaLocation": "profanity.xsd",
-    "phrase": [
+    "filterbundle": [
       {
-        "@value": "f@gg0t"
+        "@id": "server",
+        "@filename": "profanity_server.dict",
+        "@loadon": "server"
       },
       {
-        "@value": "f@ggot"
+        "@id": "mandatory",
+        "@filename": "profanity_mandatory.dict",
+        "@loadon": "client",
+        "@alwayson": "true"
       },
       {
-        "@value": "f@qq0t"
+        "@id": "EN-US",
+        "@filename": "profanity_en.dict",
+        "@loadon": "client"
       },
       {
-        "@value": "f@qqot"
+        "@id": "DE-DE",
+        "@filename": "profanity_de.dict",
+        "@loadon": "client"
       },
       {
-        "@value": "fagg0t"
+        "@id": "FR-FR",
+        "@filename": "profanity_fr.dict",
+        "@loadon": "client"
       },
       {
-        "@value": "faggot"
+        "@id": "RU-RU",
+        "@filename": "profanity_ru.dict",
+        "@loadon": "client"
       },
       {
-        "@value": "faqqot"
+        "@id": "PL-PL",
+        "@filename": "profanity_pl.dict",
+        "@loadon": "client"
       },
       {
-        "@value": "n1gg3r"
+        "@id": "ES-ES",
+        "@filename": "profanity_es.dict",
+        "@loadon": "client"
       },
       {
-        "@value": "n1gg@"
+        "@id": "PT-BR",
+        "@filename": "profanity_pt.dict",
+        "@loadon": "client"
       },
       {
-        "@value": "n1gga"
+        "@id": "ZH-CN",
+        "@filename": "profanity_zh.dict",
+        "@loadon": "client"
       },
       {
-        "@value": "n1gger"
-      },
-      {
-        "@value": "n1qq3r"
-      },
-      {
-        "@value": "n1qqer"
-      },
-      {
-        "@value": "n1qq@"
-      },
-      {
-        "@value": "n1qqa"
-      },
-      {
-        "@value": "n!gg3r"
-      },
-      {
-        "@value": "n!gg@"
-      },
-      {
-        "@value": "n!gga"
-      },
-      {
-        "@value": "n!gger"
-      },
-      {
-        "@value": "n!qq@"
-      },
-      {
-        "@value": "n!qqa"
-      },
-      {
-        "@value": "nigg3r"
-      },
-      {
-        "@value": "nigg@"
-      },
-      {
-        "@value": "nigga"
-      },
-      {
-        "@value": "nigger"
-      },
-      {
-        "@value": "niqq@"
-      },
-      {
-        "@value": "niqqa"
-      },
-      {
-        "@value": "niqqer"
-      },
-      {
-        "@value": "nlgg3r"
-      },
-      {
-        "@value": "nlgg@"
-      },
-      {
-        "@value": "nlgga"
-      },
-      {
-        "@value": "nlgger"
-      },
-      {
-        "@value": "nlqq3r"
-      },
-      {
-        "@value": "nlqq@"
-      },
-      {
-        "@value": "nlqqa"
-      },
-      {
-        "@value": "nlqqer"
-      },
-      {
-        "@value": "n|gg3r"
-      },
-      {
-        "@value": "n|gger"
-      },
-      {
-        "@value": "n|qq3r"
-      },
-      {
-        "@value": "n|qqer"
+        "@id": "KO-KR",
+        "@filename": "profanity_ko.dict",
+        "@loadon": "client"
       }
     ]
   }
