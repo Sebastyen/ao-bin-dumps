@@ -17,30 +17,30 @@
         "@castlephasetimeoutinmin": "30",
         "@castlephasetimeoutwarninginmin": "25",
         "gvgseasonscoring": {
-          "@minutespercycle": "180",
+          "@minutespercycle": "1440",
           "pointsvalues": [
             {
               "@clustertype": "OPENPVP_BLACK_1",
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "8"
+                  "@pointspercycle": "30"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "8"
+                  "@pointspercycle": "30"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "8"
+                  "@pointspercycle": "30"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "8"
+                  "@pointspercycle": "30"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "8"
+                  "@pointspercycle": "30"
                 }
               ]
             },
@@ -49,23 +49,23 @@
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "16"
+                  "@pointspercycle": "60"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "16"
+                  "@pointspercycle": "60"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "16"
+                  "@pointspercycle": "60"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "16"
+                  "@pointspercycle": "60"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "16"
+                  "@pointspercycle": "60"
                 }
               ]
             },
@@ -74,23 +74,23 @@
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "24"
+                  "@pointspercycle": "90"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "24"
+                  "@pointspercycle": "90"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "24"
+                  "@pointspercycle": "90"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "24"
+                  "@pointspercycle": "90"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "24"
+                  "@pointspercycle": "90"
                 }
               ]
             },
@@ -99,23 +99,23 @@
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "32"
+                  "@pointspercycle": "120"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "32"
+                  "@pointspercycle": "120"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "32"
+                  "@pointspercycle": "120"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "32"
+                  "@pointspercycle": "120"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "32"
+                  "@pointspercycle": "120"
                 }
               ]
             },
@@ -124,23 +124,23 @@
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "40"
+                  "@pointspercycle": "150"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "40"
+                  "@pointspercycle": "150"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "40"
+                  "@pointspercycle": "150"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "40"
+                  "@pointspercycle": "150"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "40"
+                  "@pointspercycle": "150"
                 }
               ]
             },
@@ -149,23 +149,23 @@
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "48"
+                  "@pointspercycle": "180"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "48"
+                  "@pointspercycle": "180"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "48"
+                  "@pointspercycle": "180"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "48"
+                  "@pointspercycle": "180"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "48"
+                  "@pointspercycle": "180"
                 }
               ]
             }
@@ -280,10 +280,6 @@
             {
               "@id": "CASTLEINFO_POINTS",
               "@locatag": "@TERRITORYUI_CASTLEOUTPOSTINFO_POINTS"
-            },
-            {
-              "@id": "CASTLEINFO_TREASURE_DESC",
-              "@locatag": "@WORLDMAP_TERRITORY_CASTLE_OUTPOST_CHEST_INFO"
             }
           ]
         }
@@ -298,30 +294,30 @@
         "@castlephasetimeoutinmin": "30",
         "@castlephasetimeoutwarninginmin": "25",
         "gvgseasonscoring": {
-          "@minutespercycle": "360",
+          "@minutespercycle": "1440",
           "pointsvalues": [
             {
               "@clustertype": "OPENPVP_BLACK_1",
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "45"
+                  "@pointspercycle": "120"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "45"
+                  "@pointspercycle": "120"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "45"
+                  "@pointspercycle": "120"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "45"
+                  "@pointspercycle": "120"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "45"
+                  "@pointspercycle": "120"
                 }
               ]
             },
@@ -330,23 +326,23 @@
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "90"
+                  "@pointspercycle": "240"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "90"
+                  "@pointspercycle": "240"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "90"
+                  "@pointspercycle": "240"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "90"
+                  "@pointspercycle": "240"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "90"
+                  "@pointspercycle": "240"
                 }
               ]
             },
@@ -355,23 +351,23 @@
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "135"
+                  "@pointspercycle": "360"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "135"
+                  "@pointspercycle": "360"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "135"
+                  "@pointspercycle": "360"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "135"
+                  "@pointspercycle": "360"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "135"
+                  "@pointspercycle": "360"
                 }
               ]
             },
@@ -380,23 +376,23 @@
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "180"
+                  "@pointspercycle": "480"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "180"
+                  "@pointspercycle": "480"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "180"
+                  "@pointspercycle": "480"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "180"
+                  "@pointspercycle": "480"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "180"
+                  "@pointspercycle": "480"
                 }
               ]
             },
@@ -405,23 +401,23 @@
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "225"
+                  "@pointspercycle": "600"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "225"
+                  "@pointspercycle": "600"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "225"
+                  "@pointspercycle": "600"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "225"
+                  "@pointspercycle": "600"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "225"
+                  "@pointspercycle": "600"
                 }
               ]
             },
@@ -430,23 +426,23 @@
               "clustertier": [
                 {
                   "@tier": "4",
-                  "@pointspercycle": "270"
+                  "@pointspercycle": "720"
                 },
                 {
                   "@tier": "5",
-                  "@pointspercycle": "270"
+                  "@pointspercycle": "720"
                 },
                 {
                   "@tier": "6",
-                  "@pointspercycle": "270"
+                  "@pointspercycle": "720"
                 },
                 {
                   "@tier": "7",
-                  "@pointspercycle": "270"
+                  "@pointspercycle": "720"
                 },
                 {
                   "@tier": "8",
-                  "@pointspercycle": "270"
+                  "@pointspercycle": "720"
                 }
               ]
             }
@@ -561,10 +557,6 @@
             {
               "@id": "CASTLEINFO_POINTS",
               "@locatag": "@TERRITORYUI_CASTLEINFO_POINTS"
-            },
-            {
-              "@id": "CASTLEINFO_TREASURE_DESC",
-              "@locatag": "@WORLDMAP_TERRITORY_CASTLE_CHEST_INFO"
             }
           ]
         }

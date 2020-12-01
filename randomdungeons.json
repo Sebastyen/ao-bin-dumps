@@ -6488,15 +6488,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "solo"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "solo"
+            }
           },
           "Environments": {
             "Environment": {
@@ -7185,15 +7179,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "solo"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "solo"
+            }
           },
           "Environments": {
             "Environment": {
@@ -7882,15 +7870,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "solo"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "solo"
+            }
           },
           "Environments": {
             "Environment": {
@@ -8680,15 +8662,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": {
@@ -10093,15 +10069,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": {
@@ -11506,15 +11476,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": {
@@ -12919,15 +12883,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": {
@@ -15132,15 +15090,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "solo"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "solo"
+            }
           },
           "Environments": {
             "Environment": [
@@ -15850,15 +15802,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "solo"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "solo"
+            }
           },
           "Environments": {
             "Environment": [
@@ -16568,15 +16514,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "solo"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "solo"
+            }
           },
           "Environments": {
             "Environment": [
@@ -17286,15 +17226,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "solo"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "solo"
+            }
           },
           "Environments": {
             "Environment": [
@@ -18005,15 +17939,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": {
@@ -19411,15 +19339,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": {
@@ -20817,15 +20739,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": {
@@ -22223,15 +22139,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": {
@@ -23630,15 +23540,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": [
@@ -24847,15 +24751,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": [
@@ -26064,15 +25962,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": [
@@ -27281,15 +27173,9 @@
             }
           },
           "Flags": {
-            "Flag": [
-              {
-                "@name": "veteran"
-              },
-              {
-                "@name": "christmas",
-                "@requiresActiveFestivityFlag": "christmas"
-              }
-            ]
+            "Flag": {
+              "@name": "veteran"
+            }
           },
           "Environments": {
             "Environment": [

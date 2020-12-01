@@ -106,155 +106,56 @@
         "SpawnTimes": {
           "@startdate": "2017-07-28",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "00:30"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "01:30"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "02:30"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "03:30"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "04:30"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "05:30"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "06:30"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "07:30"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "08:30"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "09:30"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "10:30"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "11:30"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "12:30"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "13:30"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "14:30"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "15:30"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
-                "@utctime": "16:30"
-              },
-              {
-                "@utctime": "17:00"
-              },
-              {
-                "@utctime": "17:30"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "18:30"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "19:30"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "20:30"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "21:30"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "22:30"
-              },
-              {
-                "@utctime": "23:00"
-              },
-              {
-                "@utctime": "23:30"
+          "day": [
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "0:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "3:00"
+              }
+            },
+            {
+              "@number": "9",
+              "SpawnTime": {
+                "@utctime": "6:00"
+              }
+            },
+            {
+              "@number": "12",
+              "SpawnTime": {
+                "@utctime": "9:00"
+              }
+            },
+            {
+              "@number": "15",
+              "SpawnTime": {
+                "@utctime": "12:00"
+              }
+            },
+            {
+              "@number": "18",
+              "SpawnTime": {
+                "@utctime": "15:00"
+              }
+            },
+            {
+              "@number": "21",
+              "SpawnTime": {
+                "@utctime": "18:00"
+              }
+            },
+            {
+              "@number": "24",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -267,83 +168,134 @@
         "SpawnTimes": {
           "@startdate": "2017-07-30",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
                 "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "9",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "10",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "11",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "12",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "13",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "14",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "15",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "16",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "17",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "18",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "19",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "20",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "21",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -356,83 +308,134 @@
         "SpawnTimes": {
           "@startdate": "2017-07-30",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
                 "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "9",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "10",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "11",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "12",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "13",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "14",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "15",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "16",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "17",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "18",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "19",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "20",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "21",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -445,83 +448,134 @@
         "SpawnTimes": {
           "@startdate": "2017-07-30",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
                 "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "9",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "10",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "11",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "12",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "13",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "14",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "15",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "16",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "17",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "18",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "19",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "20",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "21",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -534,83 +588,134 @@
         "SpawnTimes": {
           "@startdate": "2017-07-30",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
                 "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "9",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "10",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "11",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "12",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "13",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "14",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "15",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "16",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "17",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "18",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "19",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "20",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "21",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -623,83 +728,134 @@
         "SpawnTimes": {
           "@startdate": "2017-07-30",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
                 "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "9",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "10",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "11",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "12",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "13",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "14",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "15",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "16",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "17",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "18",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "19",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "20",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "21",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -712,83 +868,134 @@
         "SpawnTimes": {
           "@startdate": "2017-07-30",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
                 "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "9",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "10",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "11",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "12",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "13",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "14",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "15",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "16",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "17",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "18",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            },
+            {
+              "@number": "19",
+              "SpawnTime": {
+                "@utctime": "17:00"
+              }
+            },
+            {
+              "@number": "20",
+              "SpawnTime": {
+                "@utctime": "1:00"
+              }
+            },
+            {
+              "@number": "21",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -801,155 +1008,56 @@
         "SpawnTimes": {
           "@startdate": "2017-07-22",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "00:30"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "01:30"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "02:30"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "03:30"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "04:30"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "05:30"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "06:30"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "07:30"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "08:30"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "09:30"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "10:30"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "11:30"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "12:30"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "13:30"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "14:30"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "15:30"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
-                "@utctime": "16:30"
-              },
-              {
-                "@utctime": "17:00"
-              },
-              {
-                "@utctime": "17:30"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "18:30"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "19:30"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "20:30"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "21:30"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "22:30"
-              },
-              {
-                "@utctime": "23:00"
-              },
-              {
-                "@utctime": "23:30"
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
+                "@utctime": "0:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "3:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "6:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "9:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "12:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "15:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "18:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -962,83 +1070,56 @@
         "SpawnTimes": {
           "@startdate": "2017-07-22",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
-                "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
+                "@utctime": "0:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "3:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "6:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "9:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "12:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "15:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "18:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -1051,83 +1132,56 @@
         "SpawnTimes": {
           "@startdate": "2017-07-22",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
-                "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
+                "@utctime": "0:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "3:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "6:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "9:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "12:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "15:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "18:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -1140,83 +1194,56 @@
         "SpawnTimes": {
           "@startdate": "2017-07-22",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
-                "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
+                "@utctime": "0:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "3:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "6:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "9:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "12:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "15:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "18:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -1229,83 +1256,56 @@
         "SpawnTimes": {
           "@startdate": "2017-07-22",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
-                "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
+                "@utctime": "0:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "3:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "6:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "9:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "12:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "15:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "18:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -1318,83 +1318,56 @@
         "SpawnTimes": {
           "@startdate": "2017-07-22",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
-                "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
+                "@utctime": "0:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "3:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "6:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "9:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "12:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "15:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "18:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
@@ -1407,83 +1380,56 @@
         "SpawnTimes": {
           "@startdate": "2017-07-22",
           "@calculateusingclustertimezone": "false",
-          "day": {
-            "@number": "1",
-            "SpawnTime": [
-              {
-                "@utctime": "00:00"
-              },
-              {
-                "@utctime": "01:00"
-              },
-              {
-                "@utctime": "02:00"
-              },
-              {
-                "@utctime": "03:00"
-              },
-              {
-                "@utctime": "04:00"
-              },
-              {
-                "@utctime": "05:00"
-              },
-              {
-                "@utctime": "06:00"
-              },
-              {
-                "@utctime": "07:00"
-              },
-              {
-                "@utctime": "08:00"
-              },
-              {
-                "@utctime": "09:00"
-              },
-              {
-                "@utctime": "10:00"
-              },
-              {
-                "@utctime": "11:00"
-              },
-              {
-                "@utctime": "12:00"
-              },
-              {
-                "@utctime": "13:00"
-              },
-              {
-                "@utctime": "14:00"
-              },
-              {
-                "@utctime": "15:00"
-              },
-              {
-                "@utctime": "16:00"
-              },
-              {
-                "@utctime": "17:00"
-              },
-              {
-                "@utctime": "18:00"
-              },
-              {
-                "@utctime": "19:00"
-              },
-              {
-                "@utctime": "20:00"
-              },
-              {
-                "@utctime": "21:00"
-              },
-              {
-                "@utctime": "22:00"
-              },
-              {
-                "@utctime": "23:00"
+          "day": [
+            {
+              "@number": "1",
+              "SpawnTime": {
+                "@utctime": "0:00"
               }
-            ]
-          }
+            },
+            {
+              "@number": "2",
+              "SpawnTime": {
+                "@utctime": "3:00"
+              }
+            },
+            {
+              "@number": "3",
+              "SpawnTime": {
+                "@utctime": "6:00"
+              }
+            },
+            {
+              "@number": "4",
+              "SpawnTime": {
+                "@utctime": "9:00"
+              }
+            },
+            {
+              "@number": "5",
+              "SpawnTime": {
+                "@utctime": "12:00"
+              }
+            },
+            {
+              "@number": "6",
+              "SpawnTime": {
+                "@utctime": "15:00"
+              }
+            },
+            {
+              "@number": "7",
+              "SpawnTime": {
+                "@utctime": "18:00"
+              }
+            },
+            {
+              "@number": "8",
+              "SpawnTime": {
+                "@utctime": "21:00"
+              }
+            }
+          ]
         }
       },
       {
