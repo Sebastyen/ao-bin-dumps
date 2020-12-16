@@ -13554,9 +13554,8 @@
   <!-- FISHING LOOTLISTS -->
   <Lootlist name="FISHING_TRASH">
     <OR>
-      <Item type="T1_SEAWEED" weight="8" />
       <Item type="T1_ROCK" />
-      <Item type="T1_WOOD" />      
+      <Item type="T1_WOOD" weight="10"/>      
     </OR>
   </Lootlist>
 

@@ -42750,14 +42750,11 @@
         "OR": {
           "Item": [
             {
-              "@type": "T1_SEAWEED",
-              "@weight": "8"
-            },
-            {
               "@type": "T1_ROCK"
             },
             {
-              "@type": "T1_WOOD"
+              "@type": "T1_WOOD",
+              "@weight": "10"
             }
           ]
         }
