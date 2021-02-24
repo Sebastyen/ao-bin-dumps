@@ -8,8 +8,4620 @@
     "@xsi:noNamespaceSchemaLocation": "lootchests.xsd",
     "LootChest": [
       {
+        "@uniquename": "HELL_STD_PVP_NORMAL_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "0.48779"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.020845"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.006383"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.257715"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.18485"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.151842"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.284045"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.070552"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.000045"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.002606"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "0.043165"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "1.723515"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.01259"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.010162"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_PVP_NORMAL_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "1.463368"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.062535"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.01915"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "3.773142"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "3.554547"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "3.455523"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.852135"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.211654"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.000136"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.007817"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "0.129495"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "5.17054"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.037771"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.030487"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_PVP_NORMAL_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "4.877894"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.20845"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.063834"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "12.577146"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "11.848496"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "11.518413"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.840452"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.705515"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.000454"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.026056"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "0.431651"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "17.235139"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.125904"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.101623"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_PVP_NORMAL_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "1.951157"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.833801"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.255336"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "50.308576"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "47.393977"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "46.073645"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "11.361808"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.822059"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.001816"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.104225"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "1.726605"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "68.940547"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.503616"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.406491"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_PVP_VETERAN_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "1.202161"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.051373"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.015732"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "3.099649"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.920072"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.838723"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.700032"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.173875"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.000112"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.006422"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "0.106381"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "4.247615"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.031029"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.025045"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_PVP_VETERAN_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "3.606481"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.154118"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.047196"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "9.298937"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "8.760208"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "8.516161"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.100094"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.521624"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.000336"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.019265"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "0.319142"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "12.742833"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.093087"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.075135"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_PVP_VETERAN_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "12.021607"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.513727"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.157319"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "30.996469"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "29.200706"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "28.387213"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "7.000316"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.738746"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.001119"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.064216"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "1.063808"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "42.476128"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.310291"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.25045"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_PVP_VETERAN_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "4.808642"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "2.054908"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.629277"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "123.985858"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "116.802807"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "113.548837"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "28.001259"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "6.954985"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.004475"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.256863"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "4.255231"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "169.904486"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "1.241164"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "1.001801"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_PVP_ELITE_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "4.344054"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.185637"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.056848"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "11.200694"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "10.551788"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "10.257829"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.529591"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.628303"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.000404"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.023205"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "0.384411"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "15.348913"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.112125"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.090501"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_PVP_ELITE_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "13.03215"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.556911"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.170544"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "33.60205"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "31.655334"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "30.773459"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "7.588766"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.884906"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.001213"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.069614"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "1.153232"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "46.046695"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.336374"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.271503"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_PVP_ELITE_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "4.344052"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "1.856372"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.568479"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "112.006876"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "105.51782"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "102.578235"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "25.295897"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "6.283024"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.004042"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.232046"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "3.844109"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "153.489042"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "1.121248"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.905011"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_PVP_ELITE_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "17.376204"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "7.425485"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "2.273916"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "448.027438"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "422.071219"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "410.31288"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "101.183575"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "25.132092"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.016169"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.928186"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "15.376434"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "613.95608"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "4.484993"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "3.620045"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_NORMAL_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "6",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "1.019305"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.043559"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.013339"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.628172"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.47591"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.406935"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.593553"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.147427"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.000095"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.005445"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "0.0902"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "3.601525"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.026309"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.021236"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_NORMAL_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "6",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "3.057911"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.130676"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.040017"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "7.884508"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "7.427723"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "7.220797"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.780656"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.442281"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.000285"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.016334"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "0.270599"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "10.804565"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.078928"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.063707"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_NORMAL_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "6",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "1.019304"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.435586"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.13339"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "26.281703"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "24.759087"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "24.069332"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "5.935522"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.474272"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.000948"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.054448"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "0.901996"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "36.01523"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.263094"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.212355"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_NORMAL_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "6",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "4.077216"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "1.742343"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.53356"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "105.126795"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "99.036333"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "96.277313"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "23.742084"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "5.897086"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.003794"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.217793"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "3.607983"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "144.060898"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "1.052375"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.84942"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_VETERAN_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "7",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "4.995072"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.213458"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.065367"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "12.879277"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "12.133123"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "11.79511"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.908686"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.722463"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.000465"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.026682"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "0.442021"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "17.649165"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.128928"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.104064"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_VETERAN_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "7",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "14.985202"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "0.640372"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.196102"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "38.637793"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "36.399334"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "35.385297"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "8.72605"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.167386"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.001394"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.080047"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "1.32606"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "52.947444"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.386785"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.312192"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_VETERAN_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "7",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "4.995069"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "2.134575"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.653674"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "128.792692"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "121.331159"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "117.951036"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "29.086846"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "7.224624"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.004648"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.266822"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "4.420203"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "176.491549"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "1.289283"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "1.04064"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_VETERAN_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "7",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "19.980274"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "8.538299"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "2.614694"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "515.170693"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "485.324567"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "471.804075"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "116.347366"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "28.898492"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.018592"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "1.067287"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "17.680811"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "705.966092"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "5.157133"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "4.16256"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_ELITE_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "8",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "24.370241"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "1.041429"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.318918"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "62.836145"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "59.195768"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "57.546653"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "14.191063"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "3.524793"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.002268"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.130179"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "2.156555"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "86.107747"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.629023"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.507714"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_ELITE_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "8",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "7.311065"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "3.124285"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "0.956754"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "188.508253"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "177.587133"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "172.639793"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "42.573149"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "10.574368"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.006803"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "0.390536"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "6.469659"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "258.322992"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "1.887068"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "1.523139"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_ELITE_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "8",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "24.370226"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "10.414286"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "3.18918"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "628.361086"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "591.957338"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "575.4662"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "141.910552"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "35.247905"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.022677"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "1.301786"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "21.565539"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "861.076972"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "6.290229"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "5.077134"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_PVP_ELITE_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "PVP",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "10",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "8",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "97.480892"
+            },
+            "LootListReference": [
+              {
+                "@name": "HELLGATE_ARTEFACT_LOOT",
+                "@chance": "41.657137"
+              },
+              {
+                "@name": "LOOT_DEMON_FACTION_CAPES",
+                "@chance": "12.756717"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "515.443982"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "369.829012"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "303.864466"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "567.642125"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "140.991601"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
+                "@chance": "0.090708"
+              },
+              {
+                "@name": "HELLGATE_FACTION_CAPES",
+                "@chance": "5.207142"
+              },
+              {
+                "@name": "FAME_BOOKS_LOOT",
+                "@chance": "86.262142"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "HELL_FRAGMENT_LOOT",
+                "@chance": "447.307391"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "25.160911"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "20.308531"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_NORMAL_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "2.379214"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.379357"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "8.155093"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.242139"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.314679"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.000453"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "8.149253"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.007434"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.101252"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_NORMAL_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "7.137643"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "7.138072"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "24.46528"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "3.726417"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.944038"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.001358"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "24.44776"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.022302"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.303755"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_NORMAL_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "2.379216"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "23.793587"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "81.550976"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "12.421397"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "3.146795"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.004526"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "81.492577"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.07434"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "1.012518"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_NORMAL_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "9.51686"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "95.174324"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "326.203821"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "49.685573"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "12.587176"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.018103"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "325.970223"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.297358"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "4.050071"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_BOSS_NORMAL_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "1.189607"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "11.896787"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "40.775467"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "6.210695"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.573397"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.002263"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "40.746267"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.03717"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.506259"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_BOSS_NORMAL_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "3.568823"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "35.690375"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "122.326443"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "18.632092"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "4.720191"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.006789"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "122.238844"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.111509"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "1.518777"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_BOSS_NORMAL_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "14.275291"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "142.761498"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "489.305773"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "74.528366"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "18.880766"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.027154"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "488.955376"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.446037"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "6.075107"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_VETERAN_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "16.250039"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "11.083465"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "37.987858"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "5.786101"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.465835"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.003029"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "16.385218"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.678272"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.044819"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_VETERAN_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "4.875012"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "33.250396"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "113.963573"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "17.358303"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "4.397504"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.009088"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "49.155654"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "2.034817"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.134457"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_VETERAN_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "16.250048"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "110.834712"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "379.878774"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "57.86104"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "14.658354"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.030292"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "163.852264"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "6.782727"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.448191"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_VETERAN_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "65.000174"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "443.338734"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "520.514704"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "231.444099"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "58.633402"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.121168"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "655.408888"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "27.1309"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "1.792762"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_BOSS_VETERAN_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "8.12502"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "55.417327"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "189.939289"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "28.930505"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "7.329173"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.015146"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "81.92609"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "3.391362"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.224095"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_BOSS_VETERAN_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "24.375067"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "166.252039"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "569.818063"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "86.791545"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "21.987528"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.045438"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "245.778354"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "10.174089"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.672286"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_BOSS_VETERAN_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "97.50027"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "665.008158"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "281.272252"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "347.166179"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "87.950111"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.181752"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "983.113417"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "40.696354"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "2.689143"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_ELITE_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "6.620508"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "45.155685"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "154.768178"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "23.573435"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "5.972028"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.012341"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "66.755813"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "2.763382"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.182599"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_ELITE_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "19.861523"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "135.467056"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "464.304534"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "70.720306"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "17.916085"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.037024"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "200.267439"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "8.290147"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.547798"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_ELITE_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "66.20511"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "451.557087"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "548.682578"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "235.734474"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "59.720314"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.123414"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "667.558474"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "27.633837"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "1.825995"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_CHEST_ELITE_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "264.82037"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "807.227884"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "196.728716"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "942.937654"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "238.881193"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.493657"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "672.233209"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "110.53532"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "7.303978"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_BOSS_ELITE_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "33.102538"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "225.778427"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "773.84089"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "117.867176"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "29.860141"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.061707"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "333.779065"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "13.816911"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "0.912997"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_BOSS_ELITE_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "99.307647"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "677.335515"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "323.523468"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "353.601651"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "89.580455"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.185122"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "2.337539"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "41.450749"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "2.738992"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_STD_BOSS_ELITE_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "5",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "397.230589"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "711.342059"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "295.093871"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "415.406603"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "358.32182"
+              },
+              {
+                "@name": "T5_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.740486"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_FRAGMENT_LOOT",
+                "@chance": "9.350157"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "165.802995"
+              },
+              {
+                "@name": "T5_LOOT_RD_TOKEN",
+                "@chance": "10.955968"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_NORMAL_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "6",
+            "Item": {
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "2.81415"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.305378"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.846112"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "3.596727"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.609791"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.153485"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.000508"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "9.165084"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.008361"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.113874"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_NORMAL_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "6",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "0.844245"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "6.916134"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "8.538335"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "10.790181"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.829374"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.460455"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.001524"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "27.495251"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.025083"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.341622"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_NORMAL_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "6",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "2.814151"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "23.053792"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "28.46113"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "35.967287"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "6.097916"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.53485"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.005081"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "91.650883"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.08361"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "1.138739"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_NORMAL_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "6",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "11.256602"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "92.215143"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "113.84449"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "143.869112"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "24.391656"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "6.139399"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.020325"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "366.603437"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.334438"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "4.554956"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_BOSS_NORMAL_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "6",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "1.407075"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "11.52689"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "14.230558"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "17.983634"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "3.048956"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "0.767425"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.002541"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "45.825418"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.041805"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "0.569369"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_BOSS_NORMAL_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "6",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "4.221226"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "34.580681"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "42.691687"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "53.950921"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "9.146872"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "2.302275"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.007622"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "137.476301"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.125414"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "1.708109"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_BOSS_NORMAL_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "6",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "16.884904"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "138.322726"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "170.766749"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "215.803686"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "36.587488"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "9.2091"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.030487"
+              },
+              {
+                "@name": "T4_FRAGMENT_LOOT",
+                "@chance": "549.905203"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.501657"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "6.832434"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_VETERAN_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "7",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "2.879656"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "16.613554"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "20.510312"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "25.919577"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "4.394421"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "1.106078"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.005419"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "29.314381"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "1.213479"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.080185"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_VETERAN_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "7",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "8.638968"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "49.840662"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "61.530935"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "77.758731"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "13.183264"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "3.318234"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.016258"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "87.943142"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "3.640437"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.240556"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_VETERAN_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "7",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "28.796573"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "166.135624"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "205.103224"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "259.195903"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "43.944234"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "11.060786"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.054192"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "293.143956"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "12.134797"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.801852"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_VETERAN_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "7",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "115.186264"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "664.542326"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "820.412684"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "37.783347"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "175.776892"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "44.243131"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.216768"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "173.575524"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "48.539177"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "3.207408"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_BOSS_VETERAN_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "7",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "14.398279"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "83.067769"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "102.551559"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "129.597885"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "21.972106"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "5.53039"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.027096"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "146.571903"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "6.067396"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.400926"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_BOSS_VETERAN_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "7",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "43.194853"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "249.203394"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "307.654783"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "388.793788"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "65.91634"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "16.591176"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.081288"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "439.715859"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "18.202193"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "1.202778"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_BOSS_VETERAN_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "7",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "172.779411"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "996.813575"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "231.619132"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "556.175153"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "263.665361"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "66.364703"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.325152"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "759.863437"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "72.808771"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "4.811112"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_ELITE_STANDARD",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_standard",
+        "@spawnsoundevent": "Play_spawn_loot_standard",
+        "@namelocatag": "@HELL_CHEST_STANDARD",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "8",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "11.98846"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "69.164834"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "85.387649"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "107.907269"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "18.294665"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "4.604776"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.022561"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "122.040369"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "5.051904"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "0.333823"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_ELITE_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "8",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "35.965379"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "207.494501"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "256.162946"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "323.721807"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "54.883996"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "13.814329"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.067683"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "366.121108"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "15.155712"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "1.00147"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_ELITE_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "8",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "119.884657"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "691.648692"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "853.876928"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "80.073247"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "182.946748"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "46.047788"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.22561"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "221.404322"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "50.519067"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "3.338236"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_CHEST_ELITE_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "15",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "8",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "479.538506"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "768.594055"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "418.506832"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "320.291874"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "731.786804"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "184.191103"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.902439"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "885.616031"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "202.076215"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "13.352941"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_BOSS_ELITE_UNCOMMON",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_uncommon",
+        "@spawnsoundevent": "Play_spawn_loot_uncommon",
+        "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "8",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "59.942298"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "345.824168"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "426.938244"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "539.536345"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "91.473327"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "23.023882"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.112805"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "610.201847"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "25.25952"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "1.669117"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_BOSS_ELITE_RARE",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_rare",
+        "@spawnsoundevent": "Play_spawn_loot_rare",
+        "@namelocatag": "@HELL_CHEST_RARE",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "8",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "179.826955"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "38.47286"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "281.815172"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "619.609592"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "274.420075"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "69.07167"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "0.338415"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "831.606169"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "75.778587"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "5.007353"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@uniquename": "HELL_HRD_BOSS_ELITE_LEGENDARY",
+        "@avatar": "CD_LOOTCHEST_DEMON",
+        "@faction": "DEMON",
+        "@maximumwatchersallowed": "10",
+        "@alertradius": "20",
+        "@spell": "OPEN_LOOTCHEST",
+        "@respawntimesecondsmin": "84000",
+        "@respawntimesecondsmax": "84000",
+        "@opensoundevent": "Play_open_chest_legendary",
+        "@spawnsoundevent": "Play_spawn_loot_legendary",
+        "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "Loot": {
+          "LootByTier": {
+            "@tier": "8",
+            "Item": {
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "719.30782"
+            },
+            "LootListReference": [
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T4_DIRECTLOOTDROP_WHITE",
+                "@chance": "153.891439"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T5_DIRECTLOOTDROP_WHITE",
+                "@chance": "128.260687"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_DIRECTLOOTDROP_WHITE",
+                "@chance": "480.438367"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "999"
+              },
+              {
+                "@name": "T7_DIRECTLOOTDROP_WHITE",
+                "@chance": "98.680301"
+              },
+              {
+                "@name": "T8_DIRECTLOOTDROP_WHITE",
+                "@chance": "276.286678"
+              },
+              {
+                "@name": "T6_LOOT_EXPEDITION_TOKEN",
+                "@chance": "1.353658"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "999"
+              },
+              {
+                "@name": "T6_FRAGMENT_LOOT",
+                "@chance": "329.424675"
+              },
+              {
+                "@name": "TREASURES_STANDARD_LOOT",
+                "@chance": "303.114348"
+              },
+              {
+                "@name": "T6_LOOT_RD_TOKEN",
+                "@chance": "20.029413"
+              }
+            ]
+          }
+        }
+      },
+      {
         "@uniquename": "HELL_CHEST_VETERAN",
-        "@avatar": "HELL_CHEST",
+        "@avatar": "CD_LOOTCHEST_DEMON",
         "@faction": "DEMON",
         "@maximumwatchersallowed": "5",
         "@alertradius": "20",
@@ -95,7 +4707,7 @@
       },
       {
         "@uniquename": "DEMON_CHEST_BOSS_RARE",
-        "@avatar": "HELL_CHEST",
+        "@avatar": "CD_LOOTCHEST_DEMON",
         "@faction": "DEMON",
         "@maximumwatchersallowed": "5",
         "@alertradius": "20",
@@ -4886,10 +9498,6 @@
             },
             {
               "@tier": "5",
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.03146"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -4919,10 +9527,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.037804"
               },
               "LootListReference": [
                 {
@@ -4954,10 +9558,6 @@
                   }
                 ]
               },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.045344"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -4987,10 +9587,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.054444"
               },
               "LootListReference": [
                 {
@@ -5047,10 +9643,6 @@
             },
             {
               "@tier": "5",
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.10527"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -5080,10 +9672,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.126498"
               },
               "LootListReference": [
                 {
@@ -5115,10 +9703,6 @@
                   }
                 ]
               },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.151728"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -5148,10 +9732,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.182178"
               },
               "LootListReference": [
                 {
@@ -5204,10 +9784,6 @@
             },
             {
               "@tier": "5",
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.42108"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -5237,10 +9813,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.505992"
               },
               "LootListReference": [
                 {
@@ -5272,10 +9844,6 @@
                   }
                 ]
               },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.606912"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -5305,10 +9873,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.728712"
               },
               "LootListReference": [
                 {
@@ -8880,16 +13444,10 @@
             },
             {
               "@tier": "5",
-              "Item": [
-                {
-                  "@type": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2020",
-                  "@chance": "0.12"
-                },
-                {
-                  "@type": "T5_FARM_COUGAR_BABY",
-                  "@chance": "0.10527"
-                }
-              ],
+              "Item": {
+                "@type": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2020",
+                "@chance": "0.12"
+              },
               "LootListReference": [
                 {
                   "@name": "KEEPER_ANNIVERSARY_LOOT",
@@ -8914,16 +13472,10 @@
             },
             {
               "@tier": "6",
-              "Item": [
-                {
-                  "@type": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2020",
-                  "@chance": "0.12"
-                },
-                {
-                  "@type": "T5_FARM_COUGAR_BABY",
-                  "@chance": "0.126498"
-                }
-              ],
+              "Item": {
+                "@type": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2020",
+                "@chance": "0.12"
+              },
               "LootListReference": [
                 {
                   "@name": "KEEPER_ANNIVERSARY_LOOT",
@@ -8962,16 +13514,10 @@
             },
             {
               "@tier": "7",
-              "Item": [
-                {
-                  "@type": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2020",
-                  "@chance": "0.12"
-                },
-                {
-                  "@type": "T5_FARM_COUGAR_BABY",
-                  "@chance": "0.151728"
-                }
-              ],
+              "Item": {
+                "@type": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2020",
+                "@chance": "0.12"
+              },
               "LootListReference": [
                 {
                   "@name": "KEEPER_ANNIVERSARY_LOOT",
@@ -9010,16 +13556,10 @@
             },
             {
               "@tier": "8",
-              "Item": [
-                {
-                  "@type": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2020",
-                  "@chance": "0.12"
-                },
-                {
-                  "@type": "T5_FARM_COUGAR_BABY",
-                  "@chance": "0.182178"
-                }
-              ],
+              "Item": {
+                "@type": "T3_FURNITUREITEM_ANNIVERSARYBANNER_2020",
+                "@chance": "0.12"
+              },
               "LootListReference": [
                 {
                   "@name": "KEEPER_ANNIVERSARY_LOOT",
@@ -9095,10 +13635,6 @@
             },
             {
               "@tier": "5",
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.03146"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -9128,10 +13664,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.037804"
               },
               "LootListReference": [
                 {
@@ -9163,10 +13695,6 @@
                   }
                 ]
               },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.045344"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -9196,10 +13724,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.054444"
               },
               "LootListReference": [
                 {
@@ -9254,10 +13778,6 @@
             },
             {
               "@tier": "5",
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.10527"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -9287,10 +13807,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.126498"
               },
               "LootListReference": [
                 {
@@ -9322,10 +13838,6 @@
                   }
                 ]
               },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.151728"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -9355,10 +13867,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.182178"
               },
               "LootListReference": [
                 {
@@ -9409,10 +13917,6 @@
             },
             {
               "@tier": "5",
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.42108"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -9442,10 +13946,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.505992"
               },
               "LootListReference": [
                 {
@@ -9477,10 +13977,6 @@
                   }
                 ]
               },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.606912"
-              },
               "LootListReference": [
                 {
                   "@name": "LOOT_KEEPER_FURNITURE",
@@ -9510,10 +14006,6 @@
                     "@type": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"
                   }
                 ]
-              },
-              "Item": {
-                "@type": "T5_FARM_COUGAR_BABY",
-                "@chance": "0.728712"
               },
               "LootListReference": [
                 {
@@ -16180,6 +20672,478 @@
           {
             "@name": "FOREST_GREEN_LOOTCHEST_CORRUPTED_HERETIC_CHEST_LEGENDARY",
             "@weight": "15"
+          }
+        ]
+      },
+      {
+        "@name": "HELLGATE_CHEST_BOSS",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_BOSS_UNCOMMON",
+            "@weight": "60"
+          },
+          {
+            "@name": "FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_BOSS_RARE",
+            "@weight": "39"
+          },
+          {
+            "@name": "FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_BOSS_LEGENDARY",
+            "@weight": "1"
+          }
+        ]
+      },
+      {
+        "@name": "HELLGATE_CHEST_STANDARD",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_STD_BOSS_NORMAL",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_BOSS_NORMAL_UNCOMMON",
+            "@weight": "60"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_BOSS_NORMAL_RARE",
+            "@weight": "39"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_BOSS_NORMAL_LEGENDARY",
+            "@weight": "1"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_STD_CHEST_NORMAL",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_NORMAL_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_NORMAL_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_NORMAL_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_NORMAL_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_STD_PVP_NORMAL",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_NORMAL_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_NORMAL_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_NORMAL_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_NORMAL_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_STD_BOSS_VETERAN",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_BOSS_VETERAN_UNCOMMON",
+            "@weight": "60"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_BOSS_VETERAN_RARE",
+            "@weight": "39"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_BOSS_VETERAN_LEGENDARY",
+            "@weight": "1"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_STD_CHEST_VETERAN",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_VETERAN_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_VETERAN_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_VETERAN_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_VETERAN_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_STD_PVP_VETERAN",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_VETERAN_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_VETERAN_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_VETERAN_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_VETERAN_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_STD_BOSS_ELITE",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_BOSS_ELITE_UNCOMMON",
+            "@weight": "60"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_BOSS_ELITE_RARE",
+            "@weight": "39"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_BOSS_ELITE_LEGENDARY",
+            "@weight": "1"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_STD_CHEST_ELITE",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_ELITE_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_ELITE_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_ELITE_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_CHEST_ELITE_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_STD_PVP_ELITE",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_ELITE_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_ELITE_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_ELITE_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_ELITE_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_HRD_BOSS_NORMAL",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_BOSS_NORMAL_UNCOMMON",
+            "@weight": "60"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_BOSS_NORMAL_RARE",
+            "@weight": "39"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_BOSS_NORMAL_LEGENDARY",
+            "@weight": "1"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_HRD_CHEST_NORMAL",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_NORMAL_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_NORMAL_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_NORMAL_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_NORMAL_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_HRD_PVP_NORMAL",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_NORMAL_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_NORMAL_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_NORMAL_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_NORMAL_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_HRD_BOSS_VETERAN",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_BOSS_VETERAN_UNCOMMON",
+            "@weight": "60"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_BOSS_VETERAN_RARE",
+            "@weight": "39"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_BOSS_VETERAN_LEGENDARY",
+            "@weight": "1"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_HRD_CHEST_VETERAN",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_VETERAN_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_VETERAN_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_VETERAN_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_VETERAN_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_HRD_PVP_VETERAN",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_VETERAN_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_VETERAN_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_VETERAN_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_VETERAN_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_HRD_BOSS_ELITE",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_BOSS_ELITE_UNCOMMON",
+            "@weight": "60"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_BOSS_ELITE_RARE",
+            "@weight": "39"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_BOSS_ELITE_LEGENDARY",
+            "@weight": "1"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_HRD_CHEST_ELITE",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_ELITE_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_ELITE_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_ELITE_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_CHEST_ELITE_LEGENDARY",
+            "@weight": "10"
+          }
+        ]
+      },
+      {
+        "@name": "HELL_HRD_PVP_ELITE",
+        "@despawntimeseconds": "0",
+        "@initialspawntimeseconds": "0",
+        "@respawntimesecondsmin": "86400",
+        "@respawntimesecondsmax": "86400",
+        "LootChestPrefab": [
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_ELITE_STANDARD",
+            "@weight": "590"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_ELITE_UNCOMMON",
+            "@weight": "300"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_ELITE_RARE",
+            "@weight": "100"
+          },
+          {
+            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_ELITE_LEGENDARY",
+            "@weight": "10"
           }
         ]
       }
