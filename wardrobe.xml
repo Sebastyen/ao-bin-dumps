@@ -2,7 +2,7 @@
 <wardrobe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wardrobe.xsd">
 
   <wardrobecategory uniquename="MAIN_HAND" icon="ICON_HORSE">
-    <item                 reference="UNIQUE_HEAD_VANITY_NO_MAIN_HAND"			state="Unlocked"/>
+    <!--<item                 reference="UNIQUE_HEAD_VANITY_NO_MAIN_HAND"			state="Unlocked"/>-->
 	<item                 reference="UNIQUE_VANITY_2H_PORTALGUN_TELLAFRIEND"	state="Locked"/>
 	<item                 reference="UNIQUE_VANITY_MAIN_BEERMUG_TELLAFRIEND"	state="Locked"/>
 	<item                 reference="UNIQUE_VANITY_MAIN_BEERMUG_02_TELLAFRIEND"	state="Locked"/>
@@ -22,7 +22,7 @@
   </wardrobecategory>
 
   <wardrobecategory uniquename="OFF_HAND" icon="ICON_HORSE">
-    <item                 reference="UNIQUE_HEAD_VANITY_NO_OFF_HAND"			state="Unlocked"/>
+    <!--<item                 reference="UNIQUE_HEAD_VANITY_NO_OFF_HAND"			state="Unlocked"/>-->
 	<item goldprice="350" reference="UNIQUE_OFF_VANITY_PRIEST"/>
 	<item goldprice="350" reference="UNIQUE_OFF_VANITY_WEDDING_DRESS"/>
 	<item goldprice="350" reference="UNIQUE_OFF_VANITY_WEDDING_TUXEDO"/>

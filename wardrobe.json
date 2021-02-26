@@ -12,10 +12,6 @@
         "@icon": "ICON_HORSE",
         "item": [
           {
-            "@reference": "UNIQUE_HEAD_VANITY_NO_MAIN_HAND",
-            "@state": "Unlocked"
-          },
-          {
             "@reference": "UNIQUE_VANITY_2H_PORTALGUN_TELLAFRIEND",
             "@state": "Locked"
           },
@@ -88,10 +84,6 @@
         "@uniquename": "OFF_HAND",
         "@icon": "ICON_HORSE",
         "item": [
-          {
-            "@reference": "UNIQUE_HEAD_VANITY_NO_OFF_HAND",
-            "@state": "Unlocked"
-          },
           {
             "@goldprice": "350",
             "@reference": "UNIQUE_OFF_VANITY_PRIEST"

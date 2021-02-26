@@ -2489,7 +2489,7 @@
   <!--SPELLEFFECTAREAS-->
   <!--*************************************************************************************************************************************************************-->
   <SocketInfo name="SEA_CIRC">
-    <Socket socketname="center" bonename="center" positionOffset="0 2 0" />
+    <Socket socketname="center" bonename="center" positionOffset="0 2 0" />    
     <Socket socketname="centerGround" bonename="center" />
     <Socket socketname="centerJustAboveGround" bonename="center" positionOffset="0 0.2 0" />
     <Socket socketname="centerAboveGround" bonename="center" positionOffset="0 1 0" />
@@ -2506,6 +2506,7 @@
   <SocketInfo name="SEA_RECT">
     <Socket socketname="center" bonename="center" positionOffset="0 2 0" />
     <Socket socketname="centerBarrel" bonename="center" positionOffset="0 1 0" />
+    <Socket socketname="centerProjectileOffset" bonename="center" positionOffset="0 1 1" />
     <Socket socketname="centerGround" bonename="center" />
     <Socket socketname="centerJustAboveGround" bonename="center" positionOffset="0 0.2 0" />
     <Socket socketname="frontleft" bonename="frontleft" positionOffset="0 2 0" />

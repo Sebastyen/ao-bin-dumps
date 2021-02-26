@@ -1,4 +1,4 @@
-<template path="Assets/Levels/LEVEL_TEMPLATES/HELL/Master/Hellgate_05.unity" unityguid="098081a73fba6b54b86e115d24a39997" editorBoundsMin="-186 -186" editorBoundsMax="186 186" colBoundsMin="-275 -185" colBoundsMax="215 295">
+<template path="Assets/Levels/LEVEL_TEMPLATES/HELL/Master/Hellgate_05.unity" unityguid="098081a73fba6b54b86e115d24a39997" editorBoundsMin="-186 -186" editorBoundsMax="186 186" colBoundsMin="-275 -185" colBoundsMax="205 295">
   <criticalscenemembers>
     <criticalscenemember id="shrine_07" type="shrine" layerId="">
       <tile name="SHRINE_HELL_FAME_STANDARD" pos="2 -8 -120" roty="45">
@@ -1077,12 +1077,11 @@
       <layer id="Layer_09" name="reward_10v10_std" />
     </layergroup>
     <tile name="HELL_ROCK_ARCH_BACKDROP_A" pos="179 21 49" rot="16.86 282.54 354.08" />
-    <tile name="HELL_NEW_WALL_BACKDROP_INNERCORNER_A_1M_SNAP" pos="210 26 36" roty="180" />
-    <tile name="HELL_NEW_WALL_BACKDROP_CORNER_COLUMN_A_1M_SNAP" pos="202 31 37" roty="270" />
     <tile name="HELL_ROCK_GAMEPLAY_BLOCKER_WALL_MEDIUM_B" pos="-83 4 -29" />
     <tile name="HELL_ROCK_ARCH_BACKDROP_A" pos="-104 25 -124" rot="8 332 344" />
     <tile name="HELL_NEW_WALL_BACKDROP_CORNER_COLUMN_A_1M_SNAP" pos="-95 23 -137" roty="90" />
     <tile name="HELL_NEW_WALL_BACKDROP_INNERCORNER_A_1M_SNAP" pos="-103 18 -136" />
+    <tile name="HELL_ROCK_GAMEPLAY_BLOCKER_WALL_MEDIUM_B" pos="137 -8 16" roty="90" />
     <tile name="HELL_PLATEAU_BASIC_4M_STAIRS_INNERCORNER" pos="-90 0 -50" />
     <tile name="HELL_PLATEAU_BASIC_CORNER_A" pos="150 -8 0" roty="90" />
     <tile name="HELL_PLATEAU_BASIC_CORNER_A" pos="-70 4 -20" roty="270" />
@@ -1409,7 +1408,6 @@
     <tile name="HELL_PLATEAU_BASIC_INNERCORNER_A_NO_LAVAFALL" pos="30 -8 -10" roty="180" />
     <tile name="HELL_PLATEAU_BASIC_INNERCORNER_A_NO_LAVAFALL" pos="170 -4 50" roty="270" />
     <tile name="HELL_PLATEAU_BASIC_INNERCORNER_A_NO_LAVAFALL" pos="20 -8 -40" />
-    <tile name="HELL_PLATEAU_BASIC_CORNER_A_NO_LAVAFALL" pos="40 0 80" roty="270" />
     <tile name="HELL_PLATEAU_BASIC_INNERCORNER_A_NO_LAVAFALL" pos="0 -8 -50" />
     <tile name="HELL_PLATEAU_BASIC_INNERCORNER_A_NO_LAVAFALL" pos="20 -8 -20" roty="180" />
     <tile name="HELL_PLATEAU_BASIC_INNERCORNER_A_NO_LAVAFALL" pos="30 -8 -20" />
@@ -1417,7 +1415,6 @@
     <tile name="HELL_PLATEAU_BASIC_INNERCORNER_A_NO_LAVAFALL" pos="-20 -8 -60" roty="180" />
     <tile name="HELL_PLATEAU_BASIC_STRAIGHT_A_NO_LAVAFALL" pos="-110 4 -30" roty="270" />
     <tile name="HELL_PLATEAU_BASIC_INNERCORNER_A_NO_LAVAFALL" pos="10 -12 -10" roty="270" />
-    <tile name="HELL_PLATEAU_BASIC_CORNER_A_NO_LAVAFALL" pos="50 0 90" roty="270" />
     <tile name="HELL_PLATEAU_BASIC_INNERCORNER_A_NO_LAVAFALL" pos="-10 -8 -50" roty="180" />
     <tile name="HELL_PLATEAU_BASIC_CORNER_A_NO_LAVAFALL" pos="-100 4 -20" roty="270" />
     <tile name="HELL_PLATEAU_BASIC_CORNER_A_NO_LAVAFALL" pos="-20 -12 -30" roty="180" />
@@ -1438,7 +1435,6 @@
     <tile name="HELL_PLATEAU_BASIC_STRAIGHT_A_NO_LAVAFALL" pos="50 0 40" roty="90" />
     <tile name="HELL_PLATEAU_BASIC_CORNER_A_NO_LAVAFALL" pos="-120 4 -30" roty="270" />
     <tile name="HELL_PLATEAU_BASIC_CORNER_A_NO_LAVAFALL" pos="170 -4 60" />
-    <tile name="HELL_PLATEAU_BASIC_INNERCORNER_A_NO_LAVAFALL" pos="50 0 80" roty="180" />
     <tile name="HELL_PLATEAU_BASIC_CORNER_A" pos="120 -8 -20" roty="90" />
     <tile name="HELL_PLATEAU_BASIC_STRAIGHT_A_NO_LAVAFALL" pos="180 -4 40" />
     <tile name="HELL_PLATEAU_BASIC_CORNER_A_NO_LAVAFALL" pos="180 -4 30" roty="90" />
@@ -1451,7 +1447,10 @@
     <tile name="HELL_PLATEAU_BASIC_STRAIGHT_A_NO_LAVAFALL" pos="0 -12 0" roty="270" />
     <tile name="HELL_PLATEAU_BASIC_4M_CORNER_A" pos="100 -4 50" roty="90" />
     <tile name="HELL_GROUND_A" pos="-80 0 -70" roty="270" />
+    <tile name="HELL_GROUND_A" pos="50 0 90" roty="270" />
     <tile name="HELL_GROUND_A" pos="130 -8 10" roty="270" />
+    <tile name="HELL_GROUND_A" pos="40 0 80" roty="270" />
+    <tile name="HELL_GROUND_A" pos="50 0 80" roty="270" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="-81 0 -43" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="-96 4 -23" roty="275" />
     <tile name="HELL_ROCK_SPIKES_PLATEAU_DECO_A" pos="15 -9 -48" rot="0 251 0" />
@@ -1497,7 +1496,7 @@
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_A" pos="-83 -18 17" scale="0.76 0.76 0.76" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_B" pos="46 -34 21" scale="1.221867 1.221867 1.221867" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_B" pos="83 -30 37" rot="4 10 357" scale="1.336324 1.336324 1.336324" />
-    <tile name="HELL_ROCK_ARCH_BACKDROP_A" pos="55 0 39" rot="346.58 286.3 356.02" />
+    <tile name="HELL_ROCK_ARCH_BACKDROP_A" pos="55 0 39" rot="347 279.95 356" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_A" pos="38 -12 70" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_B" pos="-22 -19 -24" roty="270" scale="0.8 0.8 0.8" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_A" pos="52 -8 94" rot="353.34 177.82 358.9" />
@@ -1567,7 +1566,7 @@
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_B" pos="142 -29 86" rot="5 350 350" scale="1.366633 1.366633 1.366633" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="133 -3 91" rot="351 131 318" scale="1.0583 1.0583 1.0583" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A_NOCOL" pos="144 -15 68" rot="342 86 15" scale="1.996624 1.996625 1.996625" />
-    <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_B" pos="153 -21 61" rot="3 268 346" scale="1.2259 1.2259 1.2259" />
+    <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_B" pos="155 -21 62" rot="3 268 346" scale="1.2259 1.2259 1.2259" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="163 -23 112" rot="5 4 19" scale="2.589474 2.589474 2.589474" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_B" pos="177 -21 82" rot="340 78 358" scale="1.2259 1.2259 1.2259" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A" pos="155 -4 55" roty="180" />
@@ -1575,7 +1574,7 @@
     <tile name="HELL_ROCK_SPIKES_LARGE_A_NOCOL" pos="-26 -30 -42" rot="10 273 295" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_A" pos="163 -25 113" rot="322.19 115.32 339.09" scale="1.0341 1.0341 1.0341" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="157 -19 117" rot="5 338 19" scale="2.589474 2.589474 2.589474" />
-    <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="140 -15 74" rot="350 111 17" scale="3.281868 3.281868 3.281868" />
+    <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="140 -15 74" rot="0.28 111.8 13.57" scale="3.281868 3.281868 3.281868" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="164 -23 103" rot="9.64 332.75 2.03" scale="2.132017 2.132017 2.132017" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="81 -11 125" rot="12.95 328.28 19.4" scale="2.589474 2.589474 2.589474" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A_NOCOL" pos="55 -30 -7" rot="354 117 354" scale="1.523876 1.523875 1.523876" />
@@ -1628,7 +1627,7 @@
     <tile name="HELL_ROCK_ARCH_BACKDROP_A" pos="62 -5 13" rot="277 39 276" scale="0.5633815 0.5633817 0.6344238" />
     <tile name="HELL_ROCK_ARCH_BACKDROP_A" pos="140 -5 -51" rot="0.01 331.18 11.31" scale="1.8477 1.847701 1.8477" />
     <tile name="HELL_ARCHITECTURE_FIREBOWL_A" pos="65.5 0 42.5" roty="180" />
-    <tile name="HELL_ARCHITECTURE_FIREBOWL_A" pos="54.5 0 41.5" roty="270" />
+    <tile name="HELL_ARCHITECTURE_FIREBOWL_A" pos="54.5 0 42.5" roty="270" />
     <tile name="HELL_ARCHITECTURE_FIREBOWL_A" pos="96.5 0 55.5" roty="180" />
     <tile name="HELL_ARCHITECTURE_FIREBOWL_A" pos="98.5 0 65.5" roty="270" />
     <tile name="HELL_ROCK_SPIKES_SMALL_A" pos="73 -4 46" roty="110" scale="1.1765 1.1765 1.1765" />
@@ -1643,7 +1642,7 @@
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="-66 -4 -106" rot="8 351 322" scale="0.89172 0.89172 0.89172" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="-57 -4 -100" rot="354 161 316" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="-62 -4 -95" rot="1 108 321" scale="0.92343 0.92343 0.92343" />
-    <tile name="HELL_ROCK_ARCH_BACKDROP_A" pos="135 -5 21" rot="353.9 133.97 3.06" scale="1.107872 1.107872 0.9080782" />
+    <tile name="HELL_ROCK_ARCH_BACKDROP_A" pos="135 -5 21" rot="354 134 3" scale="1.107872 1.107872 0.9080782" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A" pos="155 -4 14" rot="355 73 336" scale="0.8482 0.8482 0.8482" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A_NOCOL" pos="177 -19 18" rot="18 260 300" scale="1.624928 1.624929 1.624929" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A_NOCOL" pos="186 -19 27" rot="354.03 168.85 287.53" scale="2.097037 2.097038 2.097038" />
@@ -1924,7 +1923,6 @@
     <tile name="HELL_NEW_WALL_BACKDROP_STRAIGHT_20M_A" pos="115 -5 -40" rot="0 270 26" />
     <tile name="HELL_NEW_WALL_BACKDROP_STRAIGHT_20M_A" pos="145 14 110" roty="90" />
     <tile name="HELL_NEW_WALL_BACKDROP_STRAIGHT_20M_A" pos="160 14 95" roty="180" />
-    <tile name="HELL_NEW_WALL_BACKDROP_STRAIGHT_20M_A" pos="195 18 30" roty="90" />
     <tile name="HELL_NEW_WALL_BACKDROP_STRAIGHT_A" pos="60 18 100" />
     <tile name="HELL_NEW_WALL_BACKDROP_STRAIGHT_A" pos="-140 18 -50" />
     <tile name="HELL_NEW_WALL_BACKDROP_STRAIGHT_A" pos="-90 18 -10" roty="90" />
@@ -2023,7 +2021,6 @@
     <tile name="HELL_ARCHITECTURE_RAILING_STAIRS_A_RIGHT_SHORT" pos="-80 4 -44" scale="0.7 0.88 1" />
     <tile name="HELL_ARCHITECTURE_RAILING_STAIRS_A_RIGHT_SHORT_NOCOL" pos="71 -4 45" rot="52 14 301" scale="0.7 0.88 1" />
     <tile name="HELL_ARCHITECTURE_RAILING_STAIRS_A_RIGHT_SHORT_NOCOL" pos="102 -8 8" rot="52 14 301" scale="0.7 0.88 1" />
-    <tile name="HELL_ARCHITECTURE_RAILING_STAIRS_A_RIGHT_SHORT_NOCOL" pos="139 -8 17" rot="54.45 59.84 282.6" scale="0.6999999 0.8800001 1" />
     <tile name="HELL_ARCHITECTURE_RAILING_STAIRS_A_RIGHT_SHORT_NOCOL" pos="135 -5 19" rot="349 213.66 264" scale="0.449764 0.5654175 0.64252" />
     <tile name="HELL_GROUND_GROUND_CRACK_LAVA_A_MEDIUM" pos="-49 -4 -113" roty="180" />
     <tile name="HELL_ARCHITECTURE_RAILING_STAIRS_A_LEFT_SHORT_NOCOL" pos="87 -11 41" rot="348 220 123" scale="0.83475 0.6423622 1.042567" />
@@ -2079,7 +2076,6 @@
     <tile name="HELL_GROUND_GROUND_CRACK_LAVA_A_HALF_NOCOL" pos="102 -8 4" roty="127" scale="0.8787799 0.87878 0.8787799" />
     <tile name="HELL_ROCK_DEBRIS_A" pos="-99 -4 -111" roty="180" />
     <tile name="HELL_ROCK_DEBRIS_A" pos="-87 4 -28" roty="211" />
-    <tile name="HELL_GROUND_CRACK_IMPACT_A" pos="-71 -4 -106" roty="288" />
     <tile name="HELL_GROUND_GROUND_CRACK_LAVA_A_HALF_NOCOL" pos="-43 0 -42" roty="260.28" />
     <tile name="HELL_ROCK_DEBRIS_SMALL_A" pos="-74 -4 -94" roty="270" />
     <tile name="HELL_ROCK_DEBRIS_A" pos="-58 0 -42" roty="121" />

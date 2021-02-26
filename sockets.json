@@ -10823,6 +10823,11 @@
             "@positionOffset": "0 1 0"
           },
           {
+            "@socketname": "centerProjectileOffset",
+            "@bonename": "center",
+            "@positionOffset": "0 1 1"
+          },
+          {
             "@socketname": "centerGround",
             "@bonename": "center"
           },

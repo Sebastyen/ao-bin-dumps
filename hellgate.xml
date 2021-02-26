@@ -40,12 +40,12 @@
       rewardscaling="1.0"
       ratingscaling="0.5"
 
-      infamymin="0.3" 
-      infamymax="0.6"
+      infamymin="-0.1" 
+      infamymax="0.9"
       
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
-      mmrkillbonus="300"
+      mmrkillbonus="0"
       pointsrequirement="100"
       minmatchmmr="10000"
       lowerscalingbase="1.004062882"
@@ -80,12 +80,12 @@
       rewardscaling="1.0"
       ratingscaling="0.5"
       
-      infamymin="0.3" 
-      infamymax="0.6"
+     infamymin="-0.1" 
+      infamymax="0.9"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
-      mmrkillbonus="300"
+      mmrkillbonus="0"
       minmatchmmr="10000"
       lowerscalingbase="1.004062882"
       upperscalingbase="0.995953558"
@@ -118,12 +118,12 @@
       rewardscaling="1.0"
       ratingscaling="0.5"
       
-      infamymin="0.2" 
-      infamymax="0.5"
+      infamymin="-0.1" 
+      infamymax="0.9"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
-      mmrkillbonus="300"
+      mmrkillbonus="0"
       minmatchmmr="10000"
       lowerscalingbase="1.004062882"
       upperscalingbase="0.995953558"
@@ -156,12 +156,12 @@
       rewardscaling="1.0"
       ratingscaling="0.5"
       
-      infamymin="0.1" 
-      infamymax="0.3"
+      infamymin="-0.1" 
+      infamymax="0.9"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
-      mmrkillbonus="300"
+      mmrkillbonus="0"
       minmatchmmr="10000"
       lowerscalingbase="1.004062882"
       upperscalingbase="0.995953558"
@@ -196,12 +196,12 @@
       ratingscaling="0.5"
       
         
-      infamymin="0.3" 
-      infamymax="0.6"
+      infamymin="-0.1" 
+      infamymax="0.9"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
-      mmrkillbonus="300"
+      mmrkillbonus="0"
       minmatchmmr="2000"
       lowerscalingbase="1.004062882"
       upperscalingbase="0.995953558"
@@ -234,13 +234,12 @@
       rewardscaling="1.0"
       ratingscaling="0.5"
       
-       
-      infamymin="0.2" 
-      infamymax="0.5"
+      infamymin="-0.1" 
+      infamymax="0.9"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
-      mmrkillbonus="300"
+      mmrkillbonus="0"
       minmatchmmr="2000"
       lowerscalingbase="1.004062882"
       upperscalingbase="0.995953558"
@@ -273,12 +272,12 @@
       rewardscaling="1.0"
       ratingscaling="0.5"
       
-      infamymin="0.1" 
-      infamymax="0.3"
+      infamymin="-0.1" 
+      infamymax="0.9"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
-      mmrkillbonus="300"
+      mmrkillbonus="0"
       minmatchmmr="2000"
       lowerscalingbase="1.004062882"
       upperscalingbase="0.995953558"

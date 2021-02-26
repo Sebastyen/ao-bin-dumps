@@ -2064,7 +2064,7 @@
     <tile name="HELL_GROUND_CRACK_IMPACT_A" pos="-47 0 -97" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_A" pos="-41 -6 -111" roty="180" />
     <tile name="HELL_ROCK_ARCH_BACKDROP_A" pos="-42 7 -110" rot="337 0 0" />
-    <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_A" pos="-58 -7 -106" roty="123" scale="0.7 1 0.7" />
+    <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_A" pos="-58 -7 -106" rot="11.48 121.15 341.78" scale="0.7 1 0.7" />
     <tile name="HELL_ROCK_ARCH_BACKDROP_A" pos="-21 3 -115" rot="302.5 336.57 0" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_B" pos="6 -4 -99" rot="345 151 8" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_B" pos="27 -4 -91" rot="345 185.77 8" />
@@ -2233,7 +2233,7 @@
     <tile name="HELL_ROCK_SPIKES_MEDIUM_LAVA_A" pos="-68 -4 -26" rot="326 159 9" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_LAVA_A" pos="-12 -12 5" roty="76" scale="1 0.47213 0.91766" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_LAVA_A" pos="47 -4 75" roty="325" />
-    <tile name="HELL_ROCK_SPIKES_MEDIUM_LAVA_A" pos="-77 -4 -32" rot="354.01 294.41 8.56" />
+    <tile name="HELL_ROCK_SPIKES_MEDIUM_LAVA_A" pos="-77 -4 -32" rot="354 294 9" />
     <tile name="HELL_GROUND_GROUND_CRACK_FLAT_A" pos="-23 -8 -43" />
     <tile name="HELL_GROUND_GROUND_CRACK_FLAT_A" pos="0 -8 -56" roty="288.38" />
     <tile name="HELL_ROCK_ARCH_BACKDROP_A" pos="-95 -21 43" rot="35.82 37.73 65.44" scale="1.365001 1.365001 1.365001" />
@@ -2249,6 +2249,11 @@
     <tile name="HELL_FOG_BASE_A" pos="31 -13 77" rot="0 90 301" scale="120 1 120" />
     <tile name="HELL_FOG_BASE_A" pos="9 -13 88" rot="0 90 301" scale="120 1 120" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="44 -4 78" rot="12.03 310.21 1.97" />
+    <tile name="HELL_ROCK_GAMEPLAY_BLOCKER_WALL_MEDIUM_B" pos="-71 -4 -30" roty="180" />
+    <tile name="HELL_NEW_WALL_BACKDROP_CORNER_COLUMN_A_1M_SNAP" pos="94 20 63" roty="90" />
+    <tile name="HELL_NEW_WALL_BACKDROP_INNERCORNER_A_1M_SNAP" pos="94 21 73" />
+    <tile name="HELL_NEW_WALL_BACKDROP_INNERCORNER_A_1M_SNAP" pos="-87 21 -99" />
+    <tile name="HELL_NEW_WALL_BACKDROP_CORNER_COLUMN_A_1M_SNAP" pos="-87 20 -89" roty="270" />
     <tile name="CAM_fx_env_hellgate_sparks" pos="500 0 0" />
     <tile name="HellgateExitPortal" pos="-60.5 -20 49.5" />
     <tile name="HellgateObjectiveChest" pos="-48.5 -20 62.5" roty="22" />

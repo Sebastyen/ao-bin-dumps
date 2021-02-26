@@ -362,9 +362,6 @@
           <RandomExit name="HELLGATE_2V2_LETHAL" weight="8" />
           <RandomExit name="HELLGATE_5V5_LETHAL" weight="0" />
           <RandomExit name="HELLGATE_10V10_LETHAL" weight="0" />
-          <RandomExit name="HELLGATE_2V2_NON_LETHAL" weight="0" />
-          <RandomExit name="HELLGATE_5V5_NON_LETHAL" weight="0" />
-          <RandomExit name="HELLGATE_10V10_NON_LETHAL" weight="0" />
         </ClusterTier>
         <ClusterTier tier="7" maxfillratio="0.72">
           <RandomExit name="CORRUPTED_SOLO" weight="40" />
@@ -373,9 +370,6 @@
           <RandomExit name="HELLGATE_2V2_LETHAL" weight="9" />
           <RandomExit name="HELLGATE_5V5_LETHAL" weight="0" />
           <RandomExit name="HELLGATE_10V10_LETHAL" weight="0" />
-          <RandomExit name="HELLGATE_2V2_NON_LETHAL" weight="0" />
-          <RandomExit name="HELLGATE_5V5_NON_LETHAL" weight="0" />
-          <RandomExit name="HELLGATE_10V10_NON_LETHAL" weight="0" />
         </ClusterTier>
         <ClusterTier tier="8" maxfillratio="0.33">
           <RandomExit name="CORRUPTED_SOLO" weight="40" />
@@ -384,9 +378,6 @@
           <RandomExit name="HELLGATE_2V2_LETHAL" weight="8" />
           <RandomExit name="HELLGATE_5V5_LETHAL" weight="0" />
           <RandomExit name="HELLGATE_10V10_LETHAL" weight="0" />
-          <RandomExit name="HELLGATE_2V2_NON_LETHAL" weight="0" />
-          <RandomExit name="HELLGATE_5V5_NON_LETHAL" weight="0" />
-          <RandomExit name="HELLGATE_10V10_NON_LETHAL" weight="0" />
         </ClusterTier>
       </Subtype>
       <Subtype name="VETERAN">

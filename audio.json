@@ -12204,6 +12204,15 @@
         }
       },
       {
+        "@name": "SPELL_CITY_FOREST_BOARIS_ENRAGE",
+        "OnCastStart": {
+          "@name": "Play_mob_hide_direboar_cast_spell"
+        },
+        "OnCastFinished": {
+          "@name": "Play_mob_damage_increase"
+        }
+      },
+      {
         "@name": "SPELL_CITY_FOREST_BOARIS_DIE",
         "OnCastFinished": {
           "@name": "Play_forest_commander_boaris_die"
@@ -12213,6 +12222,15 @@
         "@name": "SPELL_CITY_FOREST_WINDWALL_CAST",
         "OnCastStart": {
           "@name": "Play_forest_commander_tornado_cast_start"
+        },
+        "OnCastCanceled": {
+          "@name": "Stop_forest_commander_tornado_cast_start"
+        },
+        "OnCastInterrupted": {
+          "@name": "Stop_forest_commander_tornado_cast_start"
+        },
+        "OnCastFinished": {
+          "@name": "Play_forest_shoot_windwall"
         }
       },
       {
@@ -12231,12 +12249,18 @@
         "@name": "SPELL_CITY_SWAMP_METEOR_CAST",
         "OnCastStart": {
           "@name": "Play_swamp_commander_meteor_cast_vo"
+        },
+        "OnCastFinished": {
+          "@name": "Play_fire_cast_big"
         }
       },
       {
         "@name": "SPELL_CITY_SWAMP_FIREWALL_CAST",
         "OnCastStart": {
           "@name": "Play_swamp_commander_cast_firewall"
+        },
+        "OnCastFinished": {
+          "@name": "Play_fire_cast_medium"
         }
       },
       {

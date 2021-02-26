@@ -6858,7 +6858,7 @@
 6858: T1_FACTION_STEPPE_TOKEN_1                                        : Beastheart
 6859: T1_FACTION_MOUNTAIN_TOKEN_1                                      : Mountainheart
 6860: T1_FACTION_SWAMP_TOKEN_1                                         : Vineheart
-6861: T1_FACTION_CAERLEON_TOKEN_1                                      
+6861: T1_FACTION_CAERLEON_TOKEN_1                                      : Shadowheart
 6862: T4_LOOTCHEST_CRYSTAL_LEAGUE                                      : Adept's Crystal League Chest
 6863: T5_LOOTCHEST_CRYSTAL_LEAGUE                                      : Expert's Crystal League Chest
 6864: T6_LOOTCHEST_CRYSTAL_LEAGUE                                      : Master's Crystal League Chest
@@ -6907,31 +6907,31 @@
 6907: T6_GVGSEASONREWARD_FAMEBUFF                                      : Master's Knight Vow
 6908: T5_GVGSEASONREWARD_FAMEBUFF                                      : Expert's Knight Vow
 6909: T4_GVGSEASONREWARD_FAMEBUFF                                      : Adept's Knight Vow
-6910: UNIQUE_FACTIONCAMPAIGN_REWARD_NEUTRAL                            
-6911: UNIQUE_FACTIONCAMPAIGN_REWARD_SWAMP_01                           
-6912: UNIQUE_FACTIONCAMPAIGN_REWARD_SWAMP_02                           
-6913: UNIQUE_FACTIONCAMPAIGN_REWARD_SWAMP_03                           
-6914: UNIQUE_FACTIONCAMPAIGN_REWARD_SWAMP_04                           
-6915: UNIQUE_FACTIONCAMPAIGN_REWARD_MOUNTAIN_01                        
-6916: UNIQUE_FACTIONCAMPAIGN_REWARD_MOUNTAIN_02                        
-6917: UNIQUE_FACTIONCAMPAIGN_REWARD_MOUNTAIN_03                        
-6918: UNIQUE_FACTIONCAMPAIGN_REWARD_MOUNTAIN_04                        
-6919: UNIQUE_FACTIONCAMPAIGN_REWARD_FOREST_01                          
-6920: UNIQUE_FACTIONCAMPAIGN_REWARD_FOREST_02                          
-6921: UNIQUE_FACTIONCAMPAIGN_REWARD_FOREST_03                          
-6922: UNIQUE_FACTIONCAMPAIGN_REWARD_FOREST_04                          
-6923: UNIQUE_FACTIONCAMPAIGN_REWARD_STEPPE_01                          
-6924: UNIQUE_FACTIONCAMPAIGN_REWARD_STEPPE_02                          
-6925: UNIQUE_FACTIONCAMPAIGN_REWARD_STEPPE_03                          
-6926: UNIQUE_FACTIONCAMPAIGN_REWARD_STEPPE_04                          
-6927: UNIQUE_FACTIONCAMPAIGN_REWARD_HIGHLAND_01                        
-6928: UNIQUE_FACTIONCAMPAIGN_REWARD_HIGHLAND_02                        
-6929: UNIQUE_FACTIONCAMPAIGN_REWARD_HIGHLAND_03                        
-6930: UNIQUE_FACTIONCAMPAIGN_REWARD_HIGHLAND_04                        
-6931: UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_01                        
-6932: UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_02                        
-6933: UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_03                        
-6934: UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_04                        
+6910: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_NEUTRAL                  
+6911: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_01                 : Iron Campaign Chest: Thetford
+6912: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_02                 : Bronze Campaign Chest: Thetford
+6913: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_03                 : Silver Campaign Chest: Thetford
+6914: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_04                 : Gold Campaign Chest: Thetford
+6915: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_01              : Iron Campaign Chest: Fort Sterling
+6916: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_02              : Bronze Campaign Chest: Fort Sterling
+6917: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_03              : Silver Campaign Chest: Fort Sterling
+6918: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_04              : Gold Campaign Chest: Fort Sterling
+6919: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_01                : Iron Campaign Chest: Lymhurst
+6920: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_02                : Bronze Campaign Chest: Lymhurst
+6921: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_03                : Silver Campaign Chest: Lymhurst
+6922: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_04                : Gold Campaign Chest: Lymhurst
+6923: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_01                : Iron Campaign Chest: Bridgewatch
+6924: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_02                : Bronze Campaign Chest: Bridgewatch
+6925: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_03                : Silver Campaign Chest: Bridgewatch
+6926: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_04                : Gold Campaign Chest: Bridgewatch
+6927: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_01              : Iron Campaign Chest: Martlock
+6928: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_02              : Bronze Campaign Chest: Martlock
+6929: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_03              : Silver Campaign Chest: Martlock
+6930: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_04              : Gold Campaign Chest: Martlock
+6931: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_01              : Iron Campaign Chest: Caerleon
+6932: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_02              : Bronze Campaign Chest: Caerleon
+6933: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_03              : Silver Campaign Chest: Caerleon
+6934: UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_04              : Gold Campaign Chest: Caerleon
 6935: UNIQUE_LOOTCHEST_BATTLEMOUNT_CRYSTAL                             : Crystal Battle Mount Chest
 6936: UNIQUE_LOOTCHEST_BATTLEMOUNT_GOLD                                : Gold Battle Mount Chest
 6937: UNIQUE_LOOTCHEST_BATTLEMOUNT_SILVER                              : Silver Battle Mount Chest

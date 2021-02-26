@@ -125,25 +125,25 @@
     <campaignrewards>
       <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_01" unlockday="0" pointrequirement="50000">
         <rewards>
-          <itemreward id="FACTIONCAMPAIGN_REWARD_01" highlanditem="UNIQUE_FACTIONCAMPAIGN_REWARD_HIGHLAND_01" steppeitem="UNIQUE_FACTIONCAMPAIGN_REWARD_STEPPE_01" forestitem="UNIQUE_FACTIONCAMPAIGN_REWARD_FOREST_01" mountainitem="UNIQUE_FACTIONCAMPAIGN_REWARD_MOUNTAIN_01" swampitem="UNIQUE_FACTIONCAMPAIGN_REWARD_SWAMP_01" caerleonitem="UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_01" boughtpremium="true" premium="false" nonpremium="false"/>
+          <itemreward id="FACTIONCAMPAIGN_REWARD_01" highlanditem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_01" steppeitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_01" forestitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_01" mountainitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_01" swampitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_01" caerleonitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_01" boughtpremium="true" premium="false" nonpremium="false"/>
         </rewards>
       </rewardtrigger>
 
       <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_02" unlockday="7" pointrequirement="100000">
         <rewards>
-          <itemreward id="UNIQUE_FACTIONCAMPAIGN_REWARD_02" highlanditem="UNIQUE_FACTIONCAMPAIGN_REWARD_HIGHLAND_02" steppeitem="UNIQUE_FACTIONCAMPAIGN_REWARD_STEPPE_02" forestitem="UNIQUE_FACTIONCAMPAIGN_REWARD_FOREST_02" mountainitem="UNIQUE_FACTIONCAMPAIGN_REWARD_MOUNTAIN_02" swampitem="UNIQUE_FACTIONCAMPAIGN_REWARD_SWAMP_02" caerleonitem="UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_02" boughtpremium="true" premium="false" nonpremium="false"/>
+          <itemreward id="FACTIONCAMPAIGN_REWARD_02" highlanditem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_02" steppeitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_02" forestitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_02" mountainitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_02" swampitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_02" caerleonitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_02" boughtpremium="true" premium="false" nonpremium="false"/>
         </rewards>
       </rewardtrigger>
 
-      <rewardtrigger id="FACTIONCAMPAIGN_REWARD_03" unlockday="14" pointrequirement="150000">
+      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_03" unlockday="14" pointrequirement="150000">
         <rewards>
-          <itemreward id="UNIQUE_FACTIONCAMPAIGN_TRIGGER_03" highlanditem="UNIQUE_FACTIONCAMPAIGN_REWARD_HIGHLAND_03" steppeitem="UNIQUE_FACTIONCAMPAIGN_REWARD_STEPPE_03" forestitem="UNIQUE_FACTIONCAMPAIGN_REWARD_FOREST_03" mountainitem="UNIQUE_FACTIONCAMPAIGN_REWARD_MOUNTAIN_03" swampitem="UNIQUE_FACTIONCAMPAIGN_REWARD_SWAMP_03" caerleonitem="UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_03" boughtpremium="true" premium="false" nonpremium="false"/>
+          <itemreward id="FACTIONCAMPAIGN_REWARD_03" highlanditem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_03" steppeitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_03" forestitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_03" mountainitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_03" swampitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_03" caerleonitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_03" boughtpremium="true" premium="false" nonpremium="false"/>
         </rewards>
       </rewardtrigger>
 
-      <rewardtrigger id="FACTIONCAMPAIGN_REWARD_04" unlockday="21" pointrequirement="200000">
+      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_03" unlockday="21" pointrequirement="200000">
         <rewards>
-          <itemreward id="UNIQUE_FACTIONCAMPAIGN_TRIGGER_04" highlanditem="UNIQUE_FACTIONCAMPAIGN_REWARD_HIGHLAND_04" steppeitem="UNIQUE_FACTIONCAMPAIGN_REWARD_STEPPE_04" forestitem="UNIQUE_FACTIONCAMPAIGN_REWARD_FOREST_04" mountainitem="UNIQUE_FACTIONCAMPAIGN_REWARD_MOUNTAIN_04" swampitem="UNIQUE_FACTIONCAMPAIGN_REWARD_SWAMP_04" caerleonitem="UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_04" boughtpremium="true" premium="false" nonpremium="false"/>
+          <itemreward id="FACTIONCAMPAIGN_REWARD_03" highlanditem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_04" steppeitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_04" forestitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_04" mountainitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_04" swampitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_04" caerleonitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_04" boughtpremium="true" premium="false" nonpremium="false"/>
         </rewards>
       </rewardtrigger>
     </campaignrewards>
@@ -152,172 +152,172 @@
   <!-- ranks -->
   <factionstanding standingmultiplier="1" rankretentionmultiplier="2" rankretentionmax="240000">
     <rank minstanding="0" pointmultiplier="1" standingmultiplier="0.4" weeklyupkeep="0">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_01_HIGHLANDS" title="@FACTIONWARFARE_RANK_1_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_01_STEPPE" title="@FACTIONWARFARE_RANK_1_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_01_FOREST" title="@FACTIONWARFARE_RANK_1_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_01_MOUNTAINS" title="@FACTIONWARFARE_RANK_1_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_01_SWAMP" title="@FACTIONWARFARE_RANK_1_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_01_CAERLEON" title="@FACTIONWARFARE_RANK_1_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_01_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_1_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_1_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_01_STEPPE" maletitle="@FACTIONWARFARE_RANK_1_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_1_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_01_FOREST" maletitle="@FACTIONWARFARE_RANK_1_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_1_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_01_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_1_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_1_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_01_SWAMP" maletitle="@FACTIONWARFARE_RANK_1_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_1_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_01_CAERLEON" maletitle="@FACTIONWARFARE_RANK_1_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_1_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="4000" pointmultiplier="1" standingmultiplier="0.4" weeklyupkeep="0">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_02_HIGHLANDS" title="@FACTIONWARFARE_RANK_2_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_02_STEPPE" title="@FACTIONWARFARE_RANK_2_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_02_FOREST" title="@FACTIONWARFARE_RANK_2_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_02_MOUNTAINS" title="@FACTIONWARFARE_RANK_2_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_02_SWAMP" title="@FACTIONWARFARE_RANK_2_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_02_CAERLEON" title="@FACTIONWARFARE_RANK_2_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_02_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_2_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_2_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_02_STEPPE" maletitle="@FACTIONWARFARE_RANK_2_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_2_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_02_FOREST" maletitle="@FACTIONWARFARE_RANK_2_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_2_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_02_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_2_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_2_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_02_SWAMP" maletitle="@FACTIONWARFARE_RANK_2_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_2_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_02_CAERLEON" maletitle="@FACTIONWARFARE_RANK_2_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_2_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="9000" pointmultiplier="1" standingmultiplier="0.4" weeklyupkeep="0">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_03_HIGHLANDS" title="@FACTIONWARFARE_RANK_3_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_03_STEPPE" title="@FACTIONWARFARE_RANK_3_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_03_FOREST" title="@FACTIONWARFARE_RANK_3_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_03_MOUNTAINS" title="@FACTIONWARFARE_RANK_3_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_03_SWAMP" title="@FACTIONWARFARE_RANK_3_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_03_CAERLEON" title="@FACTIONWARFARE_RANK_3_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_03_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_3_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_3_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_03_STEPPE" maletitle="@FACTIONWARFARE_RANK_3_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_3_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_03_FOREST" maletitle="@FACTIONWARFARE_RANK_3_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_3_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_03_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_3_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_3_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_03_SWAMP" maletitle="@FACTIONWARFARE_RANK_3_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_3_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_03_CAERLEON" maletitle="@FACTIONWARFARE_RANK_3_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_3_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="15000" pointmultiplier="1" standingmultiplier="0.3810" weeklyupkeep="0">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_04_HIGHLANDS" title="@FACTIONWARFARE_RANK_4_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_04_STEPPE" title="@FACTIONWARFARE_RANK_4_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_04_FOREST" title="@FACTIONWARFARE_RANK_4_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_04_MOUNTAINS" title="@FACTIONWARFARE_RANK_4_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_04_SWAMP" title="@FACTIONWARFARE_RANK_4_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_04_CAERLEON" title="@FACTIONWARFARE_RANK_4_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_05_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_4_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_4_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_05_STEPPE" maletitle="@FACTIONWARFARE_RANK_4_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_4_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_05_FOREST" maletitle="@FACTIONWARFARE_RANK_4_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_4_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_05_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_4_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_4_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_05_SWAMP" maletitle="@FACTIONWARFARE_RANK_4_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_4_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_05_CAERLEON" maletitle="@FACTIONWARFARE_RANK_4_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_4_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="22000" pointmultiplier="1" standingmultiplier="0.3810" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_05_HIGHLANDS" title="@FACTIONWARFARE_RANK_5_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_05_STEPPE" title="@FACTIONWARFARE_RANK_5_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_05_FOREST" title="@FACTIONWARFARE_RANK_5_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_05_MOUNTAINS" title="@FACTIONWARFARE_RANK_5_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_05_SWAMP" title="@FACTIONWARFARE_RANK_5_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_05_CAERLEON" title="@FACTIONWARFARE_RANK_5_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_06_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_5_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_5_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_06_STEPPE" maletitle="@FACTIONWARFARE_RANK_5_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_5_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_06_FOREST" maletitle="@FACTIONWARFARE_RANK_5_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_5_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_06_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_5_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_5_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_06_SWAMP" maletitle="@FACTIONWARFARE_RANK_5_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_5_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_06_CAERLEON" maletitle="@FACTIONWARFARE_RANK_5_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_5_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="30000" pointmultiplier="1" standingmultiplier="0.3810" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_06_HIGHLANDS" title="@FACTIONWARFARE_RANK_6_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_06_STEPPE" title="@FACTIONWARFARE_RANK_6_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_06_FOREST" title="@FACTIONWARFARE_RANK_6_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_06_MOUNTAINS" title="@FACTIONWARFARE_RANK_6_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_06_SWAMP" title="@FACTIONWARFARE_RANK_6_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_06_CAERLEON" title="@FACTIONWARFARE_RANK_6_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_07_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_6_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_6_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_07_STEPPE" maletitle="@FACTIONWARFARE_RANK_6_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_6_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_07_FOREST" maletitle="@FACTIONWARFARE_RANK_6_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_6_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_07_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_6_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_6_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_07_SWAMP" maletitle="@FACTIONWARFARE_RANK_6_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_6_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_07_CAERLEON" maletitle="@FACTIONWARFARE_RANK_6_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_6_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="42000" pointmultiplier="1" standingmultiplier="0.3636" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_07_HIGHLANDS" title="@FACTIONWARFARE_RANK_7_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_07_STEPPE" title="@FACTIONWARFARE_RANK_7_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_07_FOREST" title="@FACTIONWARFARE_RANK_7_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_07_MOUNTAINS" title="@FACTIONWARFARE_RANK_7_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_07_SWAMP" title="@FACTIONWARFARE_RANK_7_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_07_CAERLEON" title="@FACTIONWARFARE_RANK_7_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_09_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_7_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_7_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_09_STEPPE" maletitle="@FACTIONWARFARE_RANK_7_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_7_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_09_FOREST" maletitle="@FACTIONWARFARE_RANK_7_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_7_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_09_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_7_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_7_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_09_SWAMP" maletitle="@FACTIONWARFARE_RANK_7_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_7_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_09_CAERLEON" maletitle="@FACTIONWARFARE_RANK_7_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_7_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="60000" pointmultiplier="1" standingmultiplier="0.3636" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_08_HIGHLANDS" title="@FACTIONWARFARE_RANK_8_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_08_STEPPE" title="@FACTIONWARFARE_RANK_8_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_08_FOREST" title="@FACTIONWARFARE_RANK_8_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_08_MOUNTAINS" title="@FACTIONWARFARE_RANK_8_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_08_SWAMP" title="@FACTIONWARFARE_RANK_8_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_08_CAERLEON" title="@FACTIONWARFARE_RANK_8_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_10_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_8_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_8_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_10_STEPPE" maletitle="@FACTIONWARFARE_RANK_8_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_8_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_10_FOREST" maletitle="@FACTIONWARFARE_RANK_8_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_8_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_10_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_8_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_8_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_10_SWAMP" maletitle="@FACTIONWARFARE_RANK_8_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_8_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_10_CAERLEON" maletitle="@FACTIONWARFARE_RANK_8_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_8_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="85000" pointmultiplier="1" standingmultiplier="0.3636" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_09_HIGHLANDS" title="@FACTIONWARFARE_RANK_9_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_09_STEPPE" title="@FACTIONWARFARE_RANK_9_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_09_FOREST" title="@FACTIONWARFARE_RANK_9_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_09_MOUNTAINS" title="@FACTIONWARFARE_RANK_9_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_09_SWAMP" title="@FACTIONWARFARE_RANK_9_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_09_CAERLEON" title="@FACTIONWARFARE_RANK_9_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_11_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_9_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_9_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_11_STEPPE" maletitle="@FACTIONWARFARE_RANK_9_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_9_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_11_FOREST" maletitle="@FACTIONWARFARE_RANK_9_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_9_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_11_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_9_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_9_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_11_SWAMP" maletitle="@FACTIONWARFARE_RANK_9_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_9_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_11_CAERLEON" maletitle="@FACTIONWARFARE_RANK_9_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_9_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="120000" pointmultiplier="1" standingmultiplier="0.3333" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_10_HIGHLANDS" title="@FACTIONWARFARE_RANK_10_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_10_STEPPE" title="@FACTIONWARFARE_RANK_10_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_10_FOREST" title="@FACTIONWARFARE_RANK_10_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_10_MOUNTAINS" title="@FACTIONWARFARE_RANK_10_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_10_SWAMP" title="@FACTIONWARFARE_RANK_10_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_10_CAERLEON" title="@FACTIONWARFARE_RANK_10_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_13_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_10_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_10_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_13_STEPPE" maletitle="@FACTIONWARFARE_RANK_10_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_10_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_13_FOREST" maletitle="@FACTIONWARFARE_RANK_10_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_10_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_13_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_10_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_10_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_13_SWAMP" maletitle="@FACTIONWARFARE_RANK_10_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_10_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_13_CAERLEON" maletitle="@FACTIONWARFARE_RANK_10_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_10_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="180000" pointmultiplier="1" standingmultiplier="0.3333" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_11_HIGHLANDS" title="@FACTIONWARFARE_RANK_11_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_11_STEPPE" title="@FACTIONWARFARE_RANK_11_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_11_FOREST" title="@FACTIONWARFARE_RANK_11_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_11_MOUNTAINS" title="@FACTIONWARFARE_RANK_11_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_11_SWAMP" title="@FACTIONWARFARE_RANK_11_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_11_CAERLEON" title="@FACTIONWARFARE_RANK_11_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_14_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_11_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_11_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_14_STEPPE" maletitle="@FACTIONWARFARE_RANK_11_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_11_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_14_FOREST" maletitle="@FACTIONWARFARE_RANK_11_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_11_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_14_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_11_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_11_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_14_SWAMP" maletitle="@FACTIONWARFARE_RANK_11_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_11_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_14_CAERLEON" maletitle="@FACTIONWARFARE_RANK_11_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_11_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="240000" pointmultiplier="1" standingmultiplier="0.3333" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_12_HIGHLANDS" title="@FACTIONWARFARE_RANK_12_NONPRESTIGE"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_12_STEPPE" title="@FACTIONWARFARE_RANK_12_NONPRESTIGE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_12_FOREST" title="@FACTIONWARFARE_RANK_12_NONPRESTIGE"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_12_MOUNTAINS" title="@FACTIONWARFARE_RANK_12_NONPRESTIGE"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_12_SWAMP" title="@FACTIONWARFARE_RANK_12_NONPRESTIGE"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_12_CAERLEON" title="@FACTIONWARFARE_RANK_12_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_15_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_12_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_12_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_15_STEPPE" maletitle="@FACTIONWARFARE_RANK_12_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_12_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_15_FOREST" maletitle="@FACTIONWARFARE_RANK_12_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_12_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_15_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_12_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_12_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_15_SWAMP" maletitle="@FACTIONWARFARE_RANK_12_NONPRESTIGE_MALE" femaletitle="@FACTIONWARFARE_RANK_12_NONPRESTIGE_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_15_CAERLEON" maletitle="@FACTIONWARFARE_RANK_12_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_12_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="330000" pointmultiplier="1.05" standingmultiplier="0.3077" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_13_HIGHLANDS" title="@FACTIONWARFARE_RANK_13_HIGHLAND"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_13_STEPPE" title="@FACTIONWARFARE_RANK_13_STEPPE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_13_FOREST" title="@FACTIONWARFARE_RANK_13_FOREST"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_13_MOUNTAINS" title="@FACTIONWARFARE_RANK_13_MOUNTAIN"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_13_SWAMP" title="@FACTIONWARFARE_RANK_13_SWAMP"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_13_CAERLEON" title="@FACTIONWARFARE_RANK_13_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_17_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_13_HIGHLAND_MALE" femaletitle="@FACTIONWARFARE_RANK_13_HIGHLAND_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_17_STEPPE" maletitle="@FACTIONWARFARE_RANK_13_STEPPE_MALE" femaletitle="@FACTIONWARFARE_RANK_13_STEPPE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_17_FOREST" maletitle="@FACTIONWARFARE_RANK_13_FOREST_MALE" femaletitle="@FACTIONWARFARE_RANK_13_FOREST_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_17_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_13_MOUNTAIN_MALE" femaletitle="@FACTIONWARFARE_RANK_13_MOUNTAIN_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_17_SWAMP" maletitle="@FACTIONWARFARE_RANK_13_SWAMP_MALE" femaletitle="@FACTIONWARFARE_RANK_13_SWAMP_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_17_CAERLEON" maletitle="@FACTIONWARFARE_RANK_13_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_13_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="450000" pointmultiplier="1.1" standingmultiplier="0.3077" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_14_HIGHLANDS" title="@FACTIONWARFARE_RANK_14_HIGHLAND"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_14_STEPPE" title="@FACTIONWARFARE_RANK_14_STEPPE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_14_FOREST" title="@FACTIONWARFARE_RANK_14_FOREST"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_14_MOUNTAINS" title="@FACTIONWARFARE_RANK_14_MOUNTAIN"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_14_SWAMP" title="@FACTIONWARFARE_RANK_14_SWAMP"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_14_CAERLEON" title="@FACTIONWARFARE_RANK_14_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_18_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_14_HIGHLAND_MALE" femaletitle="@FACTIONWARFARE_RANK_14_HIGHLAND_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_18_STEPPE" maletitle="@FACTIONWARFARE_RANK_14_STEPPE_MALE" femaletitle="@FACTIONWARFARE_RANK_14_STEPPE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_18_FOREST" maletitle="@FACTIONWARFARE_RANK_14_FOREST_MALE" femaletitle="@FACTIONWARFARE_RANK_14_FOREST_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_18_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_14_MOUNTAIN_MALE" femaletitle="@FACTIONWARFARE_RANK_14_MOUNTAIN_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_18_SWAMP" maletitle="@FACTIONWARFARE_RANK_14_SWAMP_MALE" femaletitle="@FACTIONWARFARE_RANK_14_SWAMP_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_18_CAERLEON" maletitle="@FACTIONWARFARE_RANK_14_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_14_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="650000" pointmultiplier="1.15" standingmultiplier="0.3077" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_15_HIGHLANDS" title="@FACTIONWARFARE_RANK_15_HIGHLAND"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_15_STEPPE" title="@FACTIONWARFARE_RANK_15_STEPPE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_15_FOREST" title="@FACTIONWARFARE_RANK_15_FOREST"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_15_MOUNTAINS" title="@FACTIONWARFARE_RANK_15_MOUNTAIN"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_15_SWAMP" title="@FACTIONWARFARE_RANK_15_SWAMP"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_15_CAERLEON" title="@FACTIONWARFARE_RANK_15_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_19_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_15_HIGHLAND_MALE" femaletitle="@FACTIONWARFARE_RANK_15_HIGHLAND_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_19_STEPPE" maletitle="@FACTIONWARFARE_RANK_15_STEPPE_MALE" femaletitle="@FACTIONWARFARE_RANK_15_STEPPE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_19_FOREST" maletitle="@FACTIONWARFARE_RANK_15_FOREST_MALE" femaletitle="@FACTIONWARFARE_RANK_15_FOREST_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_19_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_15_MOUNTAIN_MALE" femaletitle="@FACTIONWARFARE_RANK_15_MOUNTAIN_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_19_SWAMP" maletitle="@FACTIONWARFARE_RANK_15_SWAMP_MALE" femaletitle="@FACTIONWARFARE_RANK_15_SWAMP_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_19_CAERLEON" maletitle="@FACTIONWARFARE_RANK_15_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_15_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="1000000" pointmultiplier="1.2" standingmultiplier="0.3077" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_16_HIGHLANDS" title="@FACTIONWARFARE_RANK_16_HIGHLAND"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_16_STEPPE" title="@FACTIONWARFARE_RANK_16_STEPPE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_16_FOREST" title="@FACTIONWARFARE_RANK_16_FOREST"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_16_MOUNTAINS" title="@FACTIONWARFARE_RANK_16_MOUNTAIN"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_16_SWAMP" title="@FACTIONWARFARE_RANK_16_SWAMP"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_16_CAERLEON" title="@FACTIONWARFARE_RANK_16_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_20_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_16_HIGHLAND_MALE" femaletitle="@FACTIONWARFARE_RANK_16_HIGHLAND_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_20_STEPPE" maletitle="@FACTIONWARFARE_RANK_16_STEPPE_MALE" femaletitle="@FACTIONWARFARE_RANK_16_STEPPE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_20_FOREST" maletitle="@FACTIONWARFARE_RANK_16_FOREST_MALE" femaletitle="@FACTIONWARFARE_RANK_16_FOREST_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_20_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_16_MOUNTAIN_MALE" femaletitle="@FACTIONWARFARE_RANK_16_MOUNTAIN_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_20_SWAMP" maletitle="@FACTIONWARFARE_RANK_16_SWAMP_MALE" femaletitle="@FACTIONWARFARE_RANK_16_SWAMP_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_20_CAERLEON" maletitle="@FACTIONWARFARE_RANK_16_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_16_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="1400000" pointmultiplier="1.25" standingmultiplier="0.2857" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_17_HIGHLANDS" title="@FACTIONWARFARE_RANK_17_HIGHLAND"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_17_STEPPE" title="@FACTIONWARFARE_RANK_17_STEPPE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_17_FOREST" title="@FACTIONWARFARE_RANK_17_FOREST"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_17_MOUNTAINS" title="@FACTIONWARFARE_RANK_17_MOUNTAIN"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_17_SWAMP" title="@FACTIONWARFARE_RANK_17_SWAMP"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_17_CAERLEON" title="@FACTIONWARFARE_RANK_17_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_21_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_17_HIGHLAND_MALE" femaletitle="@FACTIONWARFARE_RANK_17_HIGHLAND_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_21_STEPPE" maletitle="@FACTIONWARFARE_RANK_17_STEPPE_MALE" femaletitle="@FACTIONWARFARE_RANK_17_STEPPE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_21_FOREST" maletitle="@FACTIONWARFARE_RANK_17_FOREST_MALE" femaletitle="@FACTIONWARFARE_RANK_17_FOREST_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_21_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_17_MOUNTAIN_MALE" femaletitle="@FACTIONWARFARE_RANK_17_MOUNTAIN_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_21_SWAMP" maletitle="@FACTIONWARFARE_RANK_17_SWAMP_MALE" femaletitle="@FACTIONWARFARE_RANK_17_SWAMP_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_21_CAERLEON" maletitle="@FACTIONWARFARE_RANK_17_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_17_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="2000000" pointmultiplier="1.3" standingmultiplier="0.2857" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_18_HIGHLANDS" title="@FACTIONWARFARE_RANK_18_HIGHLAND"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_18_STEPPE" title="@FACTIONWARFARE_RANK_18_STEPPE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_18_FOREST" title="@FACTIONWARFARE_RANK_18_FOREST"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_18_MOUNTAINS" title="@FACTIONWARFARE_RANK_18_MOUNTAIN"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_18_SWAMP" title="@FACTIONWARFARE_RANK_18_SWAMP"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_18_CAERLEON" title="@FACTIONWARFARE_RANK_18_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_22_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_18_HIGHLAND_MALE" femaletitle="@FACTIONWARFARE_RANK_18_HIGHLAND_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_22_STEPPE" maletitle="@FACTIONWARFARE_RANK_18_STEPPE_MALE" femaletitle="@FACTIONWARFARE_RANK_18_STEPPE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_22_FOREST" maletitle="@FACTIONWARFARE_RANK_18_FOREST_MALE" femaletitle="@FACTIONWARFARE_RANK_18_FOREST_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_22_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_18_MOUNTAIN_MALE" femaletitle="@FACTIONWARFARE_RANK_18_MOUNTAIN_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_22_SWAMP" maletitle="@FACTIONWARFARE_RANK_18_SWAMP_MALE" femaletitle="@FACTIONWARFARE_RANK_18_SWAMP_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_22_CAERLEON" maletitle="@FACTIONWARFARE_RANK_18_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_18_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="2800000" pointmultiplier="1.35" standingmultiplier="0.2857" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_19_HIGHLANDS" title="@FACTIONWARFARE_RANK_19_HIGHLAND"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_19_STEPPE" title="@FACTIONWARFARE_RANK_19_STEPPE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_19_FOREST" title="@FACTIONWARFARE_RANK_19_FOREST"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_19_MOUNTAINS" title="@FACTIONWARFARE_RANK_19_MOUNTAIN"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_19_SWAMP" title="@FACTIONWARFARE_RANK_19_SWAMP"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_19_CAERLEON" title="@FACTIONWARFARE_RANK_19_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_23_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_19_HIGHLAND_MALE" femaletitle="@FACTIONWARFARE_RANK_19_HIGHLAND_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_23_STEPPE" maletitle="@FACTIONWARFARE_RANK_19_STEPPE_MALE" femaletitle="@FACTIONWARFARE_RANK_19_STEPPE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_23_FOREST" maletitle="@FACTIONWARFARE_RANK_19_FOREST_MALE" femaletitle="@FACTIONWARFARE_RANK_19_FOREST_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_23_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_19_MOUNTAIN_MALE" femaletitle="@FACTIONWARFARE_RANK_19_MOUNTAIN_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_23_SWAMP" maletitle="@FACTIONWARFARE_RANK_19_SWAMP_MALE" femaletitle="@FACTIONWARFARE_RANK_19_SWAMP_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_23_CAERLEON" maletitle="@FACTIONWARFARE_RANK_19_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_19_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="4000000" pointmultiplier="1.4" standingmultiplier="0.2857" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_20_HIGHLANDS" title="@FACTIONWARFARE_RANK_20_HIGHLAND"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_20_STEPPE" title="@FACTIONWARFARE_RANK_20_STEPPE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_20_FOREST" title="@FACTIONWARFARE_RANK_20_FOREST"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_20_MOUNTAINS" title="@FACTIONWARFARE_RANK_20_MOUNTAIN"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_20_SWAMP" title="@FACTIONWARFARE_RANK_20_SWAMP"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_20_CAERLEON" title="@FACTIONWARFARE_RANK_20_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_24_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_20_HIGHLAND_MALE" femaletitle="@FACTIONWARFARE_RANK_20_HIGHLAND_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_24_STEPPE" maletitle="@FACTIONWARFARE_RANK_20_STEPPE_MALE" femaletitle="@FACTIONWARFARE_RANK_20_STEPPE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_24_FOREST" maletitle="@FACTIONWARFARE_RANK_20_FOREST_MALE" femaletitle="@FACTIONWARFARE_RANK_20_FOREST_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_24_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_20_MOUNTAIN_MALE" femaletitle="@FACTIONWARFARE_RANK_20_MOUNTAIN_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_24_SWAMP" maletitle="@FACTIONWARFARE_RANK_20_SWAMP_MALE" femaletitle="@FACTIONWARFARE_RANK_20_SWAMP_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_24_CAERLEON" maletitle="@FACTIONWARFARE_RANK_20_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_20_CAERLEON_FEMALE"/>
     </rank>
     <rank minstanding="6000000" pointmultiplier="1.5" standingmultiplier="0.2667" weeklyupkeep="0.1">
-      <byfaction faction="Highland" icon="ICON_FACTION_RANK_21_HIGHLANDS" title="@FACTIONWARFARE_RANK_21_HIGHLAND"/>
-      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_21_STEPPE" title="@FACTIONWARFARE_RANK_21_STEPPE"/>
-      <byfaction faction="Forest" icon="ICON_FACTION_RANK_21_FOREST" title="@FACTIONWARFARE_RANK_21_FOREST"/>
-      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_21_MOUNTAINS" title="@FACTIONWARFARE_RANK_21_MOUNTAIN"/>
-      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_21_SWAMP" title="@FACTIONWARFARE_RANK_21_SWAMP"/>
-      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_21_CAERLEON" title="@FACTIONWARFARE_RANK_21_CAERLEON"/>
+      <byfaction faction="Highland" icon="ICON_FACTION_RANK_25_HIGHLANDS" maletitle="@FACTIONWARFARE_RANK_21_HIGHLAND_MALE" femaletitle="@FACTIONWARFARE_RANK_21_HIGHLAND_FEMALE"/>
+      <byfaction faction="Steppe" icon="ICON_FACTION_RANK_25_STEPPE" maletitle="@FACTIONWARFARE_RANK_21_STEPPE_MALE" femaletitle="@FACTIONWARFARE_RANK_21_STEPPE_FEMALE"/>
+      <byfaction faction="Forest" icon="ICON_FACTION_RANK_25_FOREST" maletitle="@FACTIONWARFARE_RANK_21_FOREST_MALE" femaletitle="@FACTIONWARFARE_RANK_21_FOREST_FEMALE"/>
+      <byfaction faction="Mountain" icon="ICON_FACTION_RANK_25_MOUNTAINS" maletitle="@FACTIONWARFARE_RANK_21_MOUNTAIN_MALE" femaletitle="@FACTIONWARFARE_RANK_21_MOUNTAIN_FEMALE"/>
+      <byfaction faction="Swamp" icon="ICON_FACTION_RANK_25_SWAMP" maletitle="@FACTIONWARFARE_RANK_21_SWAMP_MALE" femaletitle="@FACTIONWARFARE_RANK_21_SWAMP_FEMALE"/>
+      <byfaction faction="Caerleon" icon="ICON_FACTION_RANK_25_CAERLEON" maletitle="@FACTIONWARFARE_RANK_21_CAERLEON_MALE" femaletitle="@FACTIONWARFARE_RANK_21_CAERLEON_FEMALE"/>
     </rank>
   </factionstanding>
 
@@ -325,57 +325,57 @@
   <objective uniquename="OUTPOST" percentregen="0.15" percentmax="0.1" groupsize="20" caerleongroupsize="10"/>
   <objective uniquename="OUTPOST_ELITE" percentregen="0.3" percentmax="0.2" groupsize="20" caerleongroupsize="10"/>
 
-  <objective uniquename="OUTPOST_SAFE_1" percentregen="0.4644" percentmax="0.2229" groupsize="20" caerleongroupsize="10"/>
-  <objective uniquename="OUTPOST_SAFE_3" percentregen="0.1548" percentmax="0.0797" groupsize="20" caerleongroupsize="10"/>
-  <objective uniquename="OUTPOST_SAFE_5" percentregen="0.0929" percentmax="0.0411" groupsize="20" caerleongroupsize="10"/>
-  <objective uniquename="OUTPOST_LETHAL_1" percentregen="0.4644" percentmax="0.2391" groupsize="20" caerleongroupsize="10"/>
-  <objective uniquename="OUTPOST_LETHAL_3" percentregen="0.1642" percentmax="0.0762" groupsize="20" caerleongroupsize="10"/>
+  <objective uniquename="OUTPOST_SAFE_1" percentregen="0.4644" percentmax="0.2229" groupsize="20" caerleongroupsize="20"/>
+  <objective uniquename="OUTPOST_SAFE_3" percentregen="0.1548" percentmax="0.1166" groupsize="20" caerleongroupsize="20"/>
+  <objective uniquename="OUTPOST_SAFE_5" percentregen="0.0929" percentmax="0.0490" groupsize="20" caerleongroupsize="20"/>
+  <objective uniquename="OUTPOST_LETHAL_1" percentregen="0.4644" percentmax="0.3498" groupsize="20" caerleongroupsize="10"/>
+  <objective uniquename="OUTPOST_LETHAL_3" percentregen="0.1642" percentmax="0.0847" groupsize="20" caerleongroupsize="10"/>
 
   <!-- cluster type -->
-  <clustertype uniquename="FW_DEFAULT_SAFE" groupsize="40" caerleongroupsize="10" regenrate="0">
+  <clustertype uniquename="FW_DEFAULT_SAFE" groupsize="20" caerleongroupsize="20" regenrate="0">
   </clustertype>
-  <clustertype uniquename="FW_DEFAULT_RED" groupsize="20" caerleongroupsize="10" regenrate="0">
+  <clustertype uniquename="FW_DEFAULT_RED" groupsize="20" caerleongroupsize="20" regenrate="0">
   </clustertype>
-  <clustertype uniquename="FW_DEFAULT_SAFE_1" groupsize="20" caerleongroupsize="10" regenrate="1.2312">
+  <clustertype uniquename="FW_DEFAULT_SAFE_1" groupsize="20" caerleongroupsize="20" regenrate="1.2312">
     <level requirement="3863.15" bankingfactor="0.4083"/>
     <level requirement="11217.74" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_DEFAULT_SAFE_3" groupsize="20" caerleongroupsize="10" regenrate="3.6936">
+  <clustertype uniquename="FW_DEFAULT_SAFE_3" groupsize="20" caerleongroupsize="20" regenrate="3.6936">
     <level requirement="3863.15" bankingfactor="0.1361"/>
     <level requirement="11217.74" bankingfactor="0.3333"/>
     <level requirement="21441.45" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_DEFAULT_SAFE_5" groupsize="20" caerleongroupsize="10" regenrate="6.1560">
+  <clustertype uniquename="FW_DEFAULT_SAFE_5" groupsize="20" caerleongroupsize="20" regenrate="6.1560">
     <level requirement="3863.15" bankingfactor="0.0817"/>
     <level requirement="11217.74" bankingfactor="0.2000"/>
     <level requirement="21441.45" bankingfactor="0.6000"/>
     <level requirement="50971.46" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_LOW_SAFE_1" groupsize="20" caerleongroupsize="10" regenrate="1.1908">
+  <clustertype uniquename="FW_LOW_SAFE_1" groupsize="20" caerleongroupsize="20" regenrate="1.1908">
     <level requirement="3863.15" bankingfactor="0.4083"/>
     <level requirement="11217.74" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_LOW_SAFE_3" groupsize="20" caerleongroupsize="10" regenrate="3.5725">
+  <clustertype uniquename="FW_LOW_SAFE_3" groupsize="20" caerleongroupsize="20" regenrate="3.5725">
     <level requirement="3863.15" bankingfactor="0.1361"/>
     <level requirement="11217.74" bankingfactor="0.3333"/>
     <level requirement="21441.45" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_LOW_SAFE_5" groupsize="20" caerleongroupsize="10" regenrate="5.9542">
+  <clustertype uniquename="FW_LOW_SAFE_5" groupsize="20" caerleongroupsize="20" regenrate="5.9542">
     <level requirement="3863.15" bankingfactor="0.0817"/>
     <level requirement="11217.74" bankingfactor="0.2000"/>
     <level requirement="21441.45" bankingfactor="0.6000"/>
     <level requirement="50971.46" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_HIGH_SAFE_1" groupsize="20" caerleongroupsize="10" regenrate="1.2524">
+  <clustertype uniquename="FW_HIGH_SAFE_1" groupsize="20" caerleongroupsize="20" regenrate="1.2524">
     <level requirement="3863.15" bankingfactor="0.4083"/>
     <level requirement="11217.74" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_HIGH_SAFE_3" groupsize="20" caerleongroupsize="10" regenrate="3.7573">
+  <clustertype uniquename="FW_HIGH_SAFE_3" groupsize="20" caerleongroupsize="20" regenrate="3.7573">
     <level requirement="3863.15" bankingfactor="0.1361"/>
     <level requirement="11217.74" bankingfactor="0.3333"/>
     <level requirement="21441.45" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_HIGH_SAFE_5" groupsize="20" caerleongroupsize="10" regenrate="6.2622">
+  <clustertype uniquename="FW_HIGH_SAFE_5" groupsize="20" caerleongroupsize="20" regenrate="6.2622">
     <level requirement="3863.15" bankingfactor="0.0817"/>
     <level requirement="11217.74" bankingfactor="0.2000"/>
     <level requirement="21441.45" bankingfactor="0.6000"/>

@@ -153,7 +153,7 @@
         "OR": {
           "OR": [
             {
-              "@weight": "20",
+              "@weight": "25",
               "Item": [
                 {
                   "@type": "T5_HELLGATE_2V2_NON_LETHAL_1_MAP",
@@ -164,6 +164,11 @@
                   "@type": "T5_HELLGATE_5V5_NON_LETHAL_1_MAP",
                   "@enchantmentlevel": "0",
                   "@weight": "2"
+                },
+                {
+                  "@type": "T5_HELLGATE_10V10_NON_LETHAL_1_MAP",
+                  "@enchantmentlevel": "0",
+                  "@weight": "1"
                 }
               ]
             },
@@ -225,7 +230,15 @@
         "OR": {
           "OR": [
             {
-              "@weight": "1",
+              "@weight": "20",
+              "Item": {
+                "@type": "T6_HELLGATE_2V2_NON_LETHAL_1_MAP",
+                "@enchantmentlevel": "0",
+                "@weight": "1"
+              }
+            },
+            {
+              "@weight": "2",
               "Item": [
                 {
                   "@type": "T6_RANDOM_DUNGEON_ELITE_TOKEN_1",
@@ -250,7 +263,7 @@
               ]
             },
             {
-              "@weight": "8",
+              "@weight": "16",
               "Item": [
                 {
                   "@type": "T6_RANDOM_DUNGEON_TOKEN_1",
@@ -275,7 +288,7 @@
               ]
             },
             {
-              "@weight": "80",
+              "@weight": "160",
               "Item": [
                 {
                   "@type": "T6_RANDOM_DUNGEON_SOLO_TOKEN_1",
@@ -307,7 +320,15 @@
         "OR": {
           "OR": [
             {
-              "@weight": "1",
+              "@weight": "4",
+              "Item": {
+                "@type": "T7_HELLGATE_5V5_NON_LETHAL_1_MAP",
+                "@enchantmentlevel": "0",
+                "@weight": "1"
+              }
+            },
+            {
+              "@weight": "2",
               "Item": [
                 {
                   "@type": "T7_RANDOM_DUNGEON_ELITE_TOKEN_1",
@@ -332,7 +353,7 @@
               ]
             },
             {
-              "@weight": "8",
+              "@weight": "16",
               "Item": [
                 {
                   "@type": "T7_RANDOM_DUNGEON_TOKEN_1",
@@ -357,7 +378,7 @@
               ]
             },
             {
-              "@weight": "80",
+              "@weight": "160",
               "Item": [
                 {
                   "@type": "T7_RANDOM_DUNGEON_SOLO_TOKEN_1",
@@ -390,6 +411,14 @@
           "OR": [
             {
               "@weight": "1",
+              "Item": {
+                "@type": "T8_HELLGATE_10V10_NON_LETHAL_1_MAP",
+                "@enchantmentlevel": "0",
+                "@weight": "1"
+              }
+            },
+            {
+              "@weight": "2",
               "Item": [
                 {
                   "@type": "T8_RANDOM_DUNGEON_ELITE_TOKEN_1",
@@ -414,7 +443,7 @@
               ]
             },
             {
-              "@weight": "8",
+              "@weight": "16",
               "Item": [
                 {
                   "@type": "T8_RANDOM_DUNGEON_TOKEN_1",
@@ -439,7 +468,7 @@
               ]
             },
             {
-              "@weight": "80",
+              "@weight": "160",
               "Item": [
                 {
                   "@type": "T8_RANDOM_DUNGEON_SOLO_TOKEN_1",

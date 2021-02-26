@@ -1465,6 +1465,7 @@
     <tile name="HELL_GROUND_A_DECO_OBJ_DARK" pos="130 0 -20" />
     <tile name="HELL_GROUND_A_DECO_OBJ_DARK" pos="140 0 -20" />
     <tile name="HELL_PLATEAU_BASIC_STRAIGHT_A_NO_LAVAFALL_OBJ_DARK" pos="130 0 0" roty="180" />
+    <tile name="HELL_GROUND_A" pos="130 -4 10" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A" pos="-15 -8 -47" rot="359.39 79.77 329.49" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="-14 -8 47" roty="310" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A" pos="49 -10 -27" rot="3 10.44 3" />
@@ -1475,7 +1476,6 @@
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="50 -10 -29" roty="348" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="-14 -4 -52" rot="24 329 339" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A" pos="15 -4 52" rot="3 231 3" />
-    <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="11 -10 33" roty="290.29" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="48 -8 13" roty="36" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="18 -4 53" roty="247" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="15 -8 52" roty="193" />
@@ -1557,7 +1557,7 @@
     <tile name="HELL_ROCK_SPIKES_DECO_STRAIGHT_A_10M" pos="-18 -3 99" roty="180" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A_NOCOL" pos="52 -8 15" rot="3 32 3" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_LAVA_A_NOCOL" pos="54 -11 -10" rot="2 91 346" />
-    <tile name="HELL_ROCK_SPIKES_LARGE_LAVA_A_NOCOL" pos="10 -13 29" rot="351.39 323 337.93" scale="0.9767585 0.9767585 0.9767585" />
+    <tile name="HELL_ROCK_SPIKES_LARGE_LAVA_A_NOCOL" pos="10 -13 29" rot="351 323 338" scale="0.9767585 0.9767585 0.9767585" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A_NOCOL" pos="-12 -13 -68" rot="358 160 354" />
     <tile name="HELL_ROCK_SPIKES_DECO_STRAIGHT_A_10M" pos="104 4 28" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_A" pos="-44 -30 106" roty="319" />
@@ -1724,7 +1724,7 @@
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="32 -15 -6" rot="350.64 41.6 338.32" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="95 -4 32" rot="359 2 317" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="-51 -8 -6" rot="356.31 73.68 334.33" scale="0.7800003 0.78 0.7799998" />
-    <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="-124 -7 16" rot="359.01 197.48 339.69" scale="2.186501 2.1865 2.186501" />
+    <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="-124 -7 16" rot="359 197 340" scale="2.186501 2.1865 2.186501" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_PLATEAU_COL" pos="-7 -16 25" />
     <tile name="HELL_ROCK_SPIKES_SMALL_A" pos="-93 -4 12" rot="19.86 180.62 3.93" scale="1.3511 1.3511 1.3511" />
     <tile name="HELL_ROCK_SPIKES_SMALL_A" pos="29 -8 -49" roty="114.8" />
@@ -1749,6 +1749,9 @@
     <tile name="HELL_ROCK_SPIKES_SMALL_A" pos="73 -8 -6" rot="0 275.74 0" />
     <tile name="HELL_ROCK_COLUMN_HUGE_BACKDROP_A" pos="-20 -6 -132" rot="322.27 196.22 1.65" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="14 -4 87" roty="325" />
+    <tile name="HELL_ROCK_SPIKES_LARGE_A" pos="-77 5 -80" rot="2 152.44 359" />
+    <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="10 -10 33" roty="290" />
+    <tile name="HELL_ROCK_SPIKES_LARGE_A" pos="-76 5 -85" rot="2 162.14 359" />
     <tile name="HELL_GROUND_80x80_OBJ_NOCLICK" pos="-55 -44 45" roty="90" />
     <tile name="HELL_GROUND_80x80_OBJ_NOCLICK" pos="25 -44 45" roty="90" />
     <tile name="HELL_GROUND_80x80_OBJ_NOCLICK" pos="-55 -44 125" roty="90" />
@@ -2152,7 +2155,7 @@
     <tile name="HELL_GROUND_GROUND_CRACK_LAVA_A_HALF" pos="-27 -8 27" roty="270" />
     <tile name="HELL_GROUND_GROUND_CRACK_LAVA_A_HALF" pos="-27 -8 27" roty="90" />
     <tile name="HELL_GROUND_GROUND_CRACK_LAVA_A_HALF" pos="-14 -8 34" roty="262.03" scale="0.90094 1 1" />
-    <tile name="HELL_GROUND_GROUND_CRACK_LAVA_A_HALF" pos="-34 -8 13" roty="11.39" />
+    <tile name="HELL_GROUND_GROUND_CRACK_LAVA_A_HALF" pos="-34 -8 13" roty="11" />
     <tile name="HELL_GROUND_GROUND_CRACK_LAVA_A_HALF" pos="-53 -8 31" roty="90" />
     <tile name="HELL_POINT_LIGHT_STANDARD_C" pos="-39.88 -2.11 61.83">
       <pointlight range="10" intensity="4" color="1 0.4333746 0.04313725" />
