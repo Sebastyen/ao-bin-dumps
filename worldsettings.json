@@ -161,7 +161,7 @@
           "@spellcooldownsonenteringseconds": "0",
           "@buildingcraftcapacityregenfactor": "1",
           "@itempowersoftcap": "1200",
-          "@itempowerscalingfactor": "0.35",
+          "@itempowerscalingfactor": "0.2",
           "@animalgrowthfactor": "0.2",
           "@cropyieldfactor": "2",
           "@clusterdangerbonustype": "hell",

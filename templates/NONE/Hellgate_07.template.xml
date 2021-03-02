@@ -2259,7 +2259,7 @@
     <tile name="HellgateObjectiveChest" pos="-48.5 -20 62.5" roty="22" />
     <tile name="Hellgate_ChainExit" pos="-64.5 -20 64.5" roty="135" />
     <tile name="HellgateFxManager" pos="6 14 -6">
-      <lavasettings center="6 -6" startradius="100" endradius="25" startwidth="20" endwidth="20" />
+      <lavasettings center="6 -6" startradius="100" endradius="25" startwidth="15" endwidth="15" />
     </tile>
     <tile name="InvasionFXHellgatesManager" pos="0.65 -22.42 -93.44" />
     <criticaltile name="SHRINE_HELL_FAME_STANDARD" pos="60 -4 -69" roty="315" id="shrine_06" type="shrine">

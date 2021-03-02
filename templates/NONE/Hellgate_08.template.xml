@@ -2199,7 +2199,7 @@
     <tile name="InvasionFXHellgatesManager" pos="0.65 -22.42 -93.44" />
     <tile name="HellgateExitPortal" pos="-42.5 -4 77.5" />
     <tile name="HellgateFxManager" pos="1 14 20">
-      <lavasettings center="1 20" startradius="100" endradius="20" startwidth="20" endwidth="20" />
+      <lavasettings center="1 20" startradius="100" endradius="20" startwidth="15" endwidth="15" />
     </tile>
     <tile name="HellgateObjectiveChest" pos="-26.5 -4 92.5" />
     <tile name="Hellgate_ChainExit" pos="-43.5 -4 92.5" roty="135" />

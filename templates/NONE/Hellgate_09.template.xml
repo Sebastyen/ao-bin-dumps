@@ -2035,7 +2035,7 @@
     <tile name="HELL_GROUND_GROUND_CRACK_A_HALF_NOCOL" pos="-66 4 -83" roty="116.14" />
     <tile name="HELL_GROUND_GROUND_CRACK_A_HALF_NOCOL" pos="-50 4 -92" roty="296" />
     <tile name="HellgateFxManager" pos="-5 14 15">
-      <lavasettings center="-5 15" startradius="100" endradius="25" startwidth="20" endwidth="20" />
+      <lavasettings center="-5 15" startradius="100" endradius="27" startwidth="15" endwidth="15" />
     </tile>
     <tile name="Hellgate_ChainExit" pos="-70.5 4 80.5" roty="135" />
     <tile name="HellgateObjectiveChest" pos="-52.5 4 81.5" />

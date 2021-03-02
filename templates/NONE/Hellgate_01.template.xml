@@ -1810,7 +1810,7 @@
     <tile name="HellgateObjectiveChest" pos="10 0 62" roty="314" />
     <tile name="HellgateExitPortal" pos="-7.5 0 45.5" roty="314" />
     <tile name="HellgateFxManager" pos="14 0 41">
-      <lavasettings center="14 41" startradius="154.6" endradius="25" startwidth="20" endwidth="20" />
+      <lavasettings center="14 41" startradius="154.6" endradius="25" startwidth="15" endwidth="15" />
     </tile>
     <compoundtile name="_HELL_GATE_ENTRANCE_RIGHT" pos="91 -4 164" roty="90" />
     <compoundtile name="_HELL_GATE_ENTRANCE_LEFT" pos="-60 -4 -64" roty="270" />

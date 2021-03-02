@@ -1240,18 +1240,18 @@ HELLGATE-10-5v5-01: The Citadel
 FOCUS-DNG-001-MAIN#3: Hallowed Crypt                                                   
 FOCUS-DNG-001-SUB#3: Hallowed Undercrypt                                              
 FOCUS-DNG-002#1: Stoneroot Caverns                                                
-PSG-0006#1: Creag's Way                                                      
+PSG-0006#1: PSG-0006#1                                                       
 FOCUS-DNG-002-MAIN#1: Exalted Crypt                                                    
 FOCUS-DNG-002-SUB#1: Exalted Undercrypt                                               
-PSG-0006#2: Chasmlight Cave                                                  
+PSG-0006#2: PSG-0006#2                                                       
 FOCUS-DNG-001-MAIN#4: Hallowed Crypt                                                   
 FOCUS-DNG-001-SUB#4: Hallowed Undercrypt                                              
 PSG-H-0001: PSG-H-0001                                                       
-PSG-H-0001#1: Boulder Deep                                                     
+PSG-H-0001#1: PSG-H-0001#1                                                     
 PSG-H-0002: PSG-H-0002                                                       
 FOCUS-DNG-002-SUB#2: Exalted Undercrypt                                               
 FOCUS-DNG-002-MAIN#2: Exalted Crypt                                                    
-PSG-H-0002#1: Drystone Channel                                                 
+PSG-H-0002#1: PSG-H-0002#1                                                     
 FOCUS-DNG-001-MAIN#5: Hallowed Crypt                                                   
 FOCUS-DNG-001-SUB#5: Hallowed Undercrypt                                              
 FOCUS-DNG-003-MAIN#1: Cathedral of Light                                               

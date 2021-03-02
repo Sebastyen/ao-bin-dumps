@@ -203,7 +203,7 @@
   <factionbuilding uniquename="CAERLEON_GREEN_FACTION_TRADER" tier="8" questgivertype="FACTIONSTORE_CAERLEON" namegenerator="FACTIONSTORE_CAERLEON" craftanimation="none" faction="Caerleon" uisoundevent="Play_ui_select_artifactfoundry" iconSprite="outpost_caerleon" uispritename="Gui/Avatars/Buildings/NPC_FACTIONTRADER_CAERLEON" hideonclustermap="true">
     <craftingitemlist recipefilter="CAERLEON_GREEN_FACTION_TRADER">
       <craftitem uniquename="T1_FACTION_CAERLEON_TOKEN_1" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
-      <craftitem uniquename="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
+      <craftitem uniquename="UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T4_CAPEITEM_FW_CAERLEON_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T5_CAPEITEM_FW_CAERLEON_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T6_CAPEITEM_FW_CAERLEON_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
@@ -219,7 +219,7 @@
   <factionbuilding uniquename="FOREST_GREEN_FACTION_TRADER" tier="8" questgivertype="FACTIONSTORE_FOREST" namegenerator="FACTIONSTORE_FOREST" craftanimation="none" faction="Forest" uisoundevent="Play_ui_select_artifactfoundry" iconSprite="outpost_forest" uispritename="Gui/Avatars/Buildings/NPC_FACTIONTRADER_FOREST" hideonclustermap="true">
     <craftingitemlist recipefilter="FOREST_GREEN_FACTION_TRADER">
       <craftitem uniquename="T1_FACTION_FOREST_TOKEN_1" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
-      <craftitem uniquename="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
+      <craftitem uniquename="UNIQUE_FACTIONCAMPAIGN_REWARD_FOREST_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T4_CAPEITEM_FW_LYMHURST_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T5_CAPEITEM_FW_LYMHURST_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T6_CAPEITEM_FW_LYMHURST_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
@@ -234,7 +234,7 @@
   <factionbuilding uniquename="HIGHLAND_GREEN_FACTION_TRADER" tier="8" questgivertype="FACTIONSTORE_HIGHLAND" namegenerator="FACTIONSTORE_HIGHLAND" craftanimation="none" faction="Highland" uisoundevent="Play_ui_select_artifactfoundry" iconSprite="outpost_highland" uispritename="Gui/Avatars/Buildings/NPC_FACTIONTRADER_HIGHLAND" hideonclustermap="true">
     <craftingitemlist recipefilter="HIGHLAND_GREEN_FACTION_TRADER">
       <craftitem uniquename="T1_FACTION_HIGHLAND_TOKEN_1" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
-      <craftitem uniquename="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
+      <craftitem uniquename="UNIQUE_FACTIONCAMPAIGN_REWARD_HIGHLAND_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T4_CAPEITEM_FW_MARTLOCK_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T5_CAPEITEM_FW_MARTLOCK_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T6_CAPEITEM_FW_MARTLOCK_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
@@ -249,7 +249,7 @@
   <factionbuilding uniquename="STEPPE_GREEN_FACTION_TRADER" tier="8" questgivertype="FACTIONSTORE_STEPPE" namegenerator="FACTIONSTORE_STEPPE" craftanimation="none" faction="Steppe" uisoundevent="Play_ui_select_artifactfoundry" iconSprite="outpost_steppe" uispritename="Gui/Avatars/Buildings/NPC_FACTIONTRADER_STEPPE" hideonclustermap="true">
     <craftingitemlist recipefilter="STEPPE_GREEN_FACTION_TRADER">
       <craftitem uniquename="T1_FACTION_STEPPE_TOKEN_1" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
-      <craftitem uniquename="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
+      <craftitem uniquename="UNIQUE_FACTIONCAMPAIGN_REWARD_STEPPE_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T4_CAPEITEM_FW_BRIDGEWATCH_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T5_CAPEITEM_FW_BRIDGEWATCH_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T6_CAPEITEM_FW_BRIDGEWATCH_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
@@ -264,7 +264,7 @@
   <factionbuilding uniquename="MOUNTAIN_GREEN_FACTION_TRADER" tier="8" questgivertype="FACTIONSTORE_MOUNTAIN" namegenerator="FACTIONSTORE_MOUNTAIN" craftanimation="none" faction="Mountain" uisoundevent="Play_ui_select_artifactfoundry" iconSprite="outpost_mountain" uispritename="Gui/Avatars/Buildings/NPC_FACTIONTRADER_MOUNTAIN" hideonclustermap="true">
     <craftingitemlist recipefilter="MOUNTAIN_GREEN_FACTION_TRADER">
       <craftitem uniquename="T1_FACTION_MOUNTAIN_TOKEN_1" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
-      <craftitem uniquename="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
+      <craftitem uniquename="UNIQUE_FACTIONCAMPAIGN_REWARD_MOUNTAIN_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T4_CAPEITEM_FW_FORTSTERLING_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T5_CAPEITEM_FW_FORTSTERLING_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T6_CAPEITEM_FW_FORTSTERLING_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
@@ -279,7 +279,7 @@
   <factionbuilding uniquename="SWAMP_GREEN_FACTION_TRADER" tier="8" questgivertype="FACTIONSTORE_SWAMP" namegenerator="FACTIONSTORE_SWAMP" craftanimation="none" faction="Swamp" uisoundevent="Play_ui_select_artifactfoundry" iconSprite="outpost_swamp" uispritename="Gui/Avatars/Buildings/NPC_FACTIONTRADER_SWAMP" hideonclustermap="true">
     <craftingitemlist recipefilter="SWAMP_GREEN_FACTION_TRADER">
       <craftitem uniquename="T1_FACTION_SWAMP_TOKEN_1" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
-      <craftitem uniquename="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
+      <craftitem uniquename="UNIQUE_FACTIONCAMPAIGN_REWARD_SWAMP_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T4_CAPEITEM_FW_THETFORD_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T5_CAPEITEM_FW_THETFORD_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T6_CAPEITEM_FW_THETFORD_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
@@ -294,7 +294,7 @@
   <factionbuilding uniquename="HIGHLAND_DEAD_CENTER_CITY_FACTION_TRADER" tier="8" questgivertype="FACTIONSTORE_CAERLEON" namegenerator="FACTIONSTORE_CAERLEON" craftanimation="none" faction="Caerleon" uisoundevent="Play_ui_select_artifactfoundry" iconSprite="outpost_caerleon" uispritename="Gui/Avatars/Buildings/NPC_FACTIONTRADER_CAERLEON" hideonclustermap="true">
     <craftingitemlist recipefilter="CAERLEON_GREEN_FACTION_TRADER">
       <craftitem uniquename="T1_FACTION_CAERLEON_TOKEN_1" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
-      <craftitem uniquename="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
+      <craftitem uniquename="UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_01" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T4_CAPEITEM_FW_CAERLEON_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T5_CAPEITEM_FW_CAERLEON_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />
       <craftitem uniquename="T6_CAPEITEM_FW_CAERLEON_BP" displaygroup="4" category="@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE" />

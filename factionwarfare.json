@@ -470,7 +470,6 @@
           "@pointmultiplier": "1",
           "@standingmultiplier": "0.4",
           "@weeklyupkeep": "0",
-          "@usedByNameplate": "true",
           "byfaction": [
             {
               "@faction": "Highland",
@@ -603,7 +602,6 @@
           "@pointmultiplier": "1",
           "@standingmultiplier": "0.3810",
           "@weeklyupkeep": "0",
-          "@usedByNameplate": "true",
           "byfaction": [
             {
               "@faction": "Highland",
@@ -736,7 +734,6 @@
           "@pointmultiplier": "1",
           "@standingmultiplier": "0.3636",
           "@weeklyupkeep": "0.1",
-          "@usedByNameplate": "true",
           "byfaction": [
             {
               "@faction": "Highland",
@@ -869,7 +866,6 @@
           "@pointmultiplier": "1",
           "@standingmultiplier": "0.3333",
           "@weeklyupkeep": "0.1",
-          "@usedByNameplate": "true",
           "byfaction": [
             {
               "@faction": "Highland",
@@ -1002,7 +998,6 @@
           "@pointmultiplier": "1.05",
           "@standingmultiplier": "0.3077",
           "@weeklyupkeep": "0.1",
-          "@usedByNameplate": "true",
           "byfaction": [
             {
               "@faction": "Highland",
@@ -1179,7 +1174,6 @@
           "@pointmultiplier": "1.25",
           "@standingmultiplier": "0.2857",
           "@weeklyupkeep": "0.1",
-          "@usedByNameplate": "true",
           "byfaction": [
             {
               "@faction": "Highland",
@@ -1356,7 +1350,6 @@
           "@pointmultiplier": "1.5",
           "@standingmultiplier": "0.2667",
           "@weeklyupkeep": "0.1",
-          "@usedByNameplate": "true",
           "byfaction": [
             {
               "@faction": "Highland",

@@ -82,10 +82,10 @@
   <templateinstance id="instanceslot_29" ref="S_FR_FactionOutpost" pos="90 0 190">
     <activelayer id="Layer_03" />
   </templateinstance>
-  <templateinstance id="instanceslot_30" ref="S_FR_FactionOutpost" pos="-350 0 200">
+  <templateinstance id="instanceslot_30" ref="S_FR_FactionOutpost" pos="-350 -4 200">
     <activelayer id="Layer_03" />
   </templateinstance>
-  <templateinstance id="instanceslot_31" ref="S_FR_FactionOutpost" pos="-350 0 -220">
+  <templateinstance id="instanceslot_31" ref="S_FR_FactionOutpost" pos="-350 -4 -220">
     <activelayer id="Layer_03" />
   </templateinstance>
 </cluster>
