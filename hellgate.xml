@@ -75,12 +75,12 @@
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="1.0"
-      rewardceiling="0.0"
-      rewardscaling="1.0"
+      rewardconstant="241.1029227"
+      rewardceiling="1.0"
+      rewardscaling="0.456"
       ratingscaling="0.5"
       
-     infamymin="-0.1" 
+      infamymin="-0.1" 
       infamymax="0.9"
 
       pvpmmrloss="0.1"
@@ -113,9 +113,9 @@
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="1.0"
-      rewardceiling="0.0"
-      rewardscaling="1.0"
+      rewardconstant="241.1029227"
+      rewardceiling="1.0"
+      rewardscaling="0.456"
       ratingscaling="0.5"
       
       infamymin="-0.1" 
@@ -144,16 +144,16 @@
       mapset="10v10"
       
       arearestrictiondelay="90"
-       arearestrictionvelocity="0.45"
+      arearestrictionvelocity="0.45"
       arearestrictionspellwarningarea="HELLGATE_WARNING"
       arearestrictionspelldamagearea="HELLGATE_DAMAGE"
       arearestrictionspellentered="HELLGATE_ENTERED"
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="1.0"
-      rewardceiling="0.0"
-      rewardscaling="1.0"
+      rewardconstant="241.1029227"
+      rewardceiling="1.0"
+      rewardscaling="0.456"
       ratingscaling="0.5"
       
       infamymin="-0.1" 
@@ -190,9 +190,9 @@
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="1.0"
-      rewardceiling="0.0"
-      rewardscaling="1.0"
+      rewardconstant="115.7369819"
+      rewardceiling="1.0"
+      rewardscaling="0.456"
       ratingscaling="0.5"
       
         
@@ -229,9 +229,9 @@
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="1.0"
-      rewardceiling="0.0"
-      rewardscaling="1.0"
+      rewardconstant="115.7369819"
+      rewardceiling="1.0"
+      rewardscaling="0.456"
       ratingscaling="0.5"
       
       infamymin="-0.1" 
@@ -267,9 +267,9 @@
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="1.0"
-      rewardceiling="0.0"
-      rewardscaling="1.0"
+      rewardconstant="115.7369819"
+      rewardceiling="1.0"
+      rewardscaling="0.456"
       ratingscaling="0.5"
       
       infamymin="-0.1" 

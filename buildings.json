@@ -41304,7 +41304,7 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
             {
-              "@uniquename": "UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_01",
+              "@uniquename": "UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_01",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
@@ -41374,7 +41374,7 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
             {
-              "@uniquename": "UNIQUE_FACTIONCAMPAIGN_REWARD_FOREST_01",
+              "@uniquename": "UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_01",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
@@ -41444,7 +41444,7 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
             {
-              "@uniquename": "UNIQUE_FACTIONCAMPAIGN_REWARD_HIGHLAND_01",
+              "@uniquename": "UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_01",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
@@ -41514,7 +41514,7 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
             {
-              "@uniquename": "UNIQUE_FACTIONCAMPAIGN_REWARD_STEPPE_01",
+              "@uniquename": "UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_01",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
@@ -41584,7 +41584,7 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
             {
-              "@uniquename": "UNIQUE_FACTIONCAMPAIGN_REWARD_MOUNTAIN_01",
+              "@uniquename": "UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_01",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
@@ -41654,7 +41654,7 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
             {
-              "@uniquename": "UNIQUE_FACTIONCAMPAIGN_REWARD_SWAMP_01",
+              "@uniquename": "UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_01",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
@@ -41724,7 +41724,7 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },
             {
-              "@uniquename": "UNIQUE_FACTIONCAMPAIGN_REWARD_CAERLEON_01",
+              "@uniquename": "UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_01",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_FACTIONWARFARE"
             },

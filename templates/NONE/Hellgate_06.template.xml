@@ -2325,8 +2325,8 @@
     <tile name="HELL_GROUND_GROUND_CRACK_A_HALF_NOCOL" pos="58 -8 35" roty="357.93" />
     <tile name="HellgateObjectiveChest" pos="-52.5 4 68.5" />
     <tile name="HellgateExitPortal" pos="-69.5 4 54.5" />
-    <tile name="HellgateFxManager" pos="10 14 -10">
-      <lavasettings center="10 -10" startradius="100" endradius="30" startwidth="15" endwidth="15" />
+    <tile name="HellgateFxManager" pos="9 14 -9">
+      <lavasettings center="9 -9" startradius="100" endradius="30" startwidth="20" endwidth="20" />
     </tile>
     <tile name="Hellgate_ChainExit" pos="-69.5 4 69.5" roty="135" />
     <tile name="InvasionFXHellgatesManager" pos="0.65 -22.42 -93.44" />

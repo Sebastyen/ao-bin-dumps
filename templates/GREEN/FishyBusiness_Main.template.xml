@@ -2059,8 +2059,8 @@
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-43 -14 -134" roty="354" />
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-51 -6 -164" />
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-49 -6 -164" roty="338.62" />
-    <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-37 -6 -146" />
-    <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-37 -8 -146" />
+    <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-36 -6 -146" />
+    <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-36 -8 -146" />
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-19 -14 -118" />
     <tile name="FOREST_GREEN_FILL_PILE_B" pos="-51 -8 -104" rot="1 271 0" />
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-19 -16 -118" />
@@ -2123,8 +2123,6 @@
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_TRANSPORT_CART_B" pos="-55.5 -16 -14.5" />
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_TRANSPORT_CART_B" pos="-102.5 -20 -22.5" roty="270" />
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_TRANSPORT_CART_BROKEN_A" pos="-25.5 -8 -196.5" />
-    <tile name="FOREST_GREEN_HER_WALKWAYS_FLOOR_10_B" pos="-50 -4 -150" />
-    <tile name="FOREST_GREEN_HER_WALKWAYS_FLOOR_10_B" pos="-40 -4 -150" />
     <tile name="FOREST_GREEN_HER_WALKWAYS_FLOOR_RAMP_4M_10_A" pos="-50 -16 -50" roty="90" />
     <tile name="FOREST_GREEN_HER_WALKWAYS_RAILING_10_A_HANGING" pos="-50 -4 -144" />
     <tile name="FOREST_GREEN_HER_WALKWAYS_RAILING_10_B" pos="-50 -12 -35" roty="180" />
@@ -2212,7 +2210,6 @@
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_BARRELSTACK_A" pos="-24.5 -8 -180.5" />
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_BARRELSTACK_A" pos="-24.5 -8 -178.5" rot="359 100 1" />
     <tile name="FOREST_GREEN_HER_WALKWAYS_RAILING_10_B" pos="-40 -4 -144" roty="180" />
-    <tile name="FOREST_GREEN_HER_WALKWAYS_FLOOR_10_B" pos="-50 -4 -160" />
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-13 -10 -36" rot="0 337.96 359" />
     <tile name="FOREST_GREEN_HER_FILL_SACK_A" pos="-15.5 -16 -34.5" roty="270" />
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-16 -15 -36" />
@@ -2338,6 +2335,9 @@
     <tile name="FOREST_GREEN_HER_WALKWAYS_WALL_5_A" pos="-44.5 -7 -160" rot="0 180 90" />
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_BARRELSTACK_A" pos="-40.5 -8 -156.5" />
     <tile name="FOREST_GREEN_HER_FILL_STORAGE_CRATE_LARGE_A" pos="-42 -16 -63" />
+    <tile name="FOREST_GREEN_HER_WALKWAYS_FLOOR_10_B_OBJ_NOCOL" pos="-40 -4 -150" />
+    <tile name="FOREST_GREEN_HER_WALKWAYS_FLOOR_10_B_OBJ_NOCOL" pos="-50 -4 -160" />
+    <tile name="FOREST_GREEN_HER_WALKWAYS_FLOOR_10_B_OBJ_NOCOL" pos="-50 -4 -150" />
     <tile name="FOREST_GREEN_DNG_FILL_ROCK_MINE_LARGE_D_NOCOL_LOW" pos="-59.5 -35 -50.5" />
     <tile name="FOREST_GREEN_DNG_FILL_ROCK_MINE_LARGE_D_NOCOL_LOW" pos="-60.5 -44 -38.5" />
     <tile name="FOREST_GREEN_DNG_FILL_ROCK_MINE_BACKDROP_D_NOCOL_LOW" pos="-60.5 -52 -114.5" roty="147" />

@@ -1688,7 +1688,7 @@
       <shrine shrinetype="HELL_SHRINE_FAME_STANDARD" />
     </criticaltile>
     <tile name="HellgateFxManager" pos="0 26 0">
-      <lavasettings center="0 0" startradius="130" endradius="25" startwidth="15" endwidth="15" />
+      <lavasettings center="0 0" startradius="130" endradius="25" startwidth="20" endwidth="20" />
     </tile>
     <tile name="HellgateExitPortal" pos="-76.5 0 59.5" />
     <tile name="HellgateObjectiveChest" pos="-57.5 0 75.5" />
