@@ -24,60 +24,60 @@
             "@tier": "5",
             "Item": {
               "@type": "T1_SILVERBAG_NONTRADABLE",
-              "@chance": "1.921681"
+              "@chance": "0"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.08212"
+                "@chance": "0"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.025148"
+                "@chance": "0"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "4.011273"
+                "@chance": "0"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "4.126774"
+                "@chance": "0"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "4.188154"
+                "@chance": "0"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.061015"
+                "@chance": "0"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "0.267058"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.000179"
+                "@chance": "0"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.010265"
+                "@chance": "0"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "0.170052"
+                "@chance": "0"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "6.789905"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.049601"
+                "@chance": "0"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.040035"
+                "@chance": "0"
               }
             ]
           }
@@ -100,60 +100,60 @@
             "@tier": "5",
             "Item": {
               "@type": "T1_SILVERBAG_NONTRADABLE",
-              "@chance": "2.306018"
+              "@chance": "1.216736"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.098545"
+                "@chance": "0.051996"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.030177"
+                "@chance": "0.015923"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "4.81353"
+                "@chance": "2.539786"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "4.952132"
+                "@chance": "2.612918"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "5.025787"
+                "@chance": "2.651781"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.273218"
+                "@chance": "0.671794"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "0.32047"
+                "@chance": "0.169091"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.000215"
+                "@chance": "0.000113"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.012318"
+                "@chance": "0.006499"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "0.204063"
+                "@chance": "0.107671"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "8.147891"
+                "@chance": "4.299111"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.059521"
+                "@chance": "0.031405"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.048042"
+                "@chance": "0.025349"
               }
             ]
           }
@@ -176,60 +176,60 @@
             "@tier": "5",
             "Item": {
               "@type": "T1_SILVERBAG_NONTRADABLE",
-              "@chance": "2.882523"
+              "@chance": "2.43347"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.123181"
+                "@chance": "0.103991"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.037722"
+                "@chance": "0.031845"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "6.016912"
+                "@chance": "5.07957"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "6.190164"
+                "@chance": "5.225832"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "6.282233"
+                "@chance": "5.303558"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.591523"
+                "@chance": "1.343588"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "0.400587"
+                "@chance": "0.338182"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.000268"
+                "@chance": "0.000226"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.015398"
+                "@chance": "0.012999"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "0.255078"
+                "@chance": "0.215341"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "10.184861"
+                "@chance": "8.598217"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.074401"
+                "@chance": "0.062811"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.060053"
+                "@chance": "0.050697"
               }
             ]
           }
@@ -252,60 +252,60 @@
             "@tier": "5",
             "Item": {
               "@type": "T1_SILVERBAG_NONTRADABLE",
-              "@chance": "3.843362"
+              "@chance": "4.866941"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.164241"
+                "@chance": "0.207982"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.050296"
+                "@chance": "0.063691"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "8.022546"
+                "@chance": "10.159142"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "8.253549"
+                "@chance": "10.451667"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "8.376308"
+                "@chance": "10.607119"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "2.122029"
+                "@chance": "2.687177"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "0.534116"
+                "@chance": "0.676364"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.000358"
+                "@chance": "0.000453"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.02053"
+                "@chance": "0.025998"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "0.340104"
+                "@chance": "0.430682"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "13.57981"
+                "@chance": "17.196439"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.099201"
+                "@chance": "0.125621"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.08007"
+                "@chance": "0.101395"
               }
             ]
           }
@@ -328,60 +328,60 @@
             "@tier": "5",
             "Item": {
               "@type": "T1_SILVERBAG_NONTRADABLE",
-              "@chance": "7.107713"
+              "@chance": "0"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.303738"
+                "@chance": "0"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.093014"
+                "@chance": "0"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "14.836479"
+                "@chance": "0"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "15.263683"
+                "@chance": "0"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "15.490707"
+                "@chance": "0"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "3.924371"
+                "@chance": "0"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "0.987766"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.000661"
+                "@chance": "0"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.037967"
+                "@chance": "0"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "0.628971"
+                "@chance": "0"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "25.113793"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.183458"
+                "@chance": "0"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.148077"
+                "@chance": "0"
               }
             ]
           }
@@ -403,61 +403,61 @@
           "LootByTier": {
             "@tier": "5",
             "Item": {
-              "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "8.529261"
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "4.500335"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.364486"
+                "@chance": "0.192316"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.111617"
+                "@chance": "0.058893"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "17.803784"
+                "@chance": "9.393898"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "18.31643"
+                "@chance": "9.664387"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "18.588859"
+                "@chance": "9.80813"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "4.709248"
+                "@chance": "2.484763"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.18532"
+                "@chance": "0.625416"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.000794"
+                "@chance": "0.000419"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.045561"
+                "@chance": "0.024039"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "0.754766"
+                "@chance": "0.398241"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "30.136569"
+                "@chance": "15.901105"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.22015"
+                "@chance": "0.116159"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.177693"
+                "@chance": "0.093757"
               }
             ]
           }
@@ -480,60 +480,60 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "10.661574"
+              "@chance": "9.000665"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.455608"
+                "@chance": "0.384631"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.139521"
+                "@chance": "0.117786"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "22.254726"
+                "@chance": "18.787783"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "22.895533"
+                "@chance": "19.328762"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "23.236069"
+                "@chance": "19.616247"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "5.886558"
+                "@chance": "4.969523"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.481649"
+                "@chance": "1.250831"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.000992"
+                "@chance": "0.000838"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.056951"
+                "@chance": "0.048079"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "0.943457"
+                "@chance": "0.796481"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "37.670704"
+                "@chance": "31.802188"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.275187"
+                "@chance": "0.232317"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.222116"
+                "@chance": "0.187514"
               }
             ]
           }
@@ -556,60 +556,60 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "14.215427"
+              "@chance": "18.001336"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.607477"
+                "@chance": "0.769263"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.186028"
+                "@chance": "0.235572"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "29.672957"
+                "@chance": "37.575578"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "30.527366"
+                "@chance": "38.657536"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "30.981414"
+                "@chance": "39.232508"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "7.848742"
+                "@chance": "9.93905"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.975532"
+                "@chance": "2.501663"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.001323"
+                "@chance": "0.001675"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.075935"
+                "@chance": "0.096158"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "1.257942"
+                "@chance": "1.592962"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "50.227586"
+                "@chance": "63.604397"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.366916"
+                "@chance": "0.464635"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.296155"
+                "@chance": "0.375028"
               }
             ]
           }
@@ -631,61 +631,61 @@
           "LootByTier": {
             "@tier": "5",
             "Item": {
-              "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "18.822448"
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "0"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.804352"
+                "@chance": "0"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.246318"
+                "@chance": "0"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "39.289549"
+                "@chance": "0"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "40.42086"
+                "@chance": "0"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "41.022059"
+                "@chance": "0"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "10.392409"
+                "@chance": "0"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "2.615774"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.001751"
+                "@chance": "0"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.100544"
+                "@chance": "0"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "1.665624"
+                "@chance": "0"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "66.505648"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.485828"
+                "@chance": "0"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.392135"
+                "@chance": "0"
               }
             ]
           }
@@ -708,60 +708,60 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "22.586951"
+              "@chance": "11.917663"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.965223"
+                "@chance": "0.509285"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.295581"
+                "@chance": "0.155959"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "47.147486"
+                "@chance": "24.876658"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "48.505059"
+                "@chance": "25.592961"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "49.226498"
+                "@chance": "25.973617"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "12.470898"
+                "@chance": "6.580081"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "3.138931"
+                "@chance": "1.656209"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.002102"
+                "@chance": "0.001109"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.120653"
+                "@chance": "0.063661"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "1.998749"
+                "@chance": "1.05461"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "79.806822"
+                "@chance": "42.108863"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.582995"
+                "@chance": "0.307608"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.470562"
+                "@chance": "0.248285"
               }
             ]
           }
@@ -784,60 +784,60 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "28.233683"
+              "@chance": "23.83531"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "1.206528"
+                "@chance": "1.01857"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.369477"
+                "@chance": "0.311918"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "58.934346"
+                "@chance": "49.753283"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "60.631313"
+                "@chance": "51.185888"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "61.533111"
+                "@chance": "51.9472"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "15.58862"
+                "@chance": "13.160153"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "3.923663"
+                "@chance": "3.312417"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.002627"
+                "@chance": "0.002218"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.150816"
+                "@chance": "0.127321"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "2.498436"
+                "@chance": "2.109218"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "99.758509"
+                "@chance": "84.217669"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.728743"
+                "@chance": "0.615216"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.588202"
+                "@chance": "0.496569"
               }
             ]
           }
@@ -860,60 +860,60 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "3.76449"
+              "@chance": "4.767064"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "1.608704"
+                "@chance": "2.03714"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.492635"
+                "@chance": "0.623836"
               },
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "78.579099"
+                "@chance": "99.506598"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "80.841721"
+                "@chance": "102.37181"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "82.044118"
+                "@chance": "103.894435"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "20.784819"
+                "@chance": "26.320315"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "5.231548"
+                "@chance": "6.624835"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.003503"
+                "@chance": "0.004436"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.201088"
+                "@chance": "0.254642"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "3.331247"
+                "@chance": "4.218438"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "133.011295"
+                "@chance": "168.435394"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.971657"
+                "@chance": "1.230433"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.784269"
+                "@chance": "0.993139"
               }
             ]
           }
@@ -935,57 +935,57 @@
           "LootByTier": {
             "@tier": "6",
             "Item": {
-              "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "1.202543"
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "0"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.513891"
+                "@chance": "0"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.157369"
+                "@chance": "0"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "38.736592"
+                "@chance": "0"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "26.208493"
+                "@chance": "0"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "6.639584"
+                "@chance": "0"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.671186"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.001119"
+                "@chance": "0"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.064236"
+                "@chance": "0"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "1.064147"
+                "@chance": "0"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "42.489647"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.31039"
+                "@chance": "0"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.25053"
+                "@chance": "0"
               }
             ]
           }
@@ -1007,57 +1007,57 @@
           "LootByTier": {
             "@tier": "6",
             "Item": {
-              "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "1.443053"
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "3.894879"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.616669"
+                "@chance": "0.166442"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.188843"
+                "@chance": "0.05097"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "46.483936"
+                "@chance": "12.546272"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "31.450209"
+                "@chance": "8.488585"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "7.967505"
+                "@chance": "2.150474"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "2.005425"
+                "@chance": "0.541275"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.001343"
+                "@chance": "0.000362"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.077084"
+                "@chance": "0.020805"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "1.276977"
+                "@chance": "0.344663"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "50.987605"
+                "@chance": "13.761837"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.372468"
+                "@chance": "0.100531"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.300636"
+                "@chance": "0.081143"
               }
             ]
           }
@@ -1080,56 +1080,56 @@
             "@tier": "6",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "1.803816"
+              "@chance": "0.778975"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "0.770836"
+                "@chance": "0.332885"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.236054"
+                "@chance": "0.10194"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "58.104909"
+                "@chance": "25.092526"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "39.312754"
+                "@chance": "16.97716"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "9.959379"
+                "@chance": "4.300944"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "2.50678"
+                "@chance": "1.08255"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.001678"
+                "@chance": "0.000725"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.096355"
+                "@chance": "0.041611"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "1.59622"
+                "@chance": "0.689326"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "63.734494"
+                "@chance": "27.523655"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.465585"
+                "@chance": "0.201062"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.375795"
+                "@chance": "0.162287"
               }
             ]
           }
@@ -1152,56 +1152,56 @@
             "@tier": "6",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "2.405087"
+              "@chance": "1.557951"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "1.027781"
+                "@chance": "0.665769"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "0.314739"
+                "@chance": "0.203879"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "77.473184"
+                "@chance": "50.18507"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "52.416986"
+                "@chance": "33.954331"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "13.279167"
+                "@chance": "8.601892"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "3.342372"
+                "@chance": "2.1651"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.002238"
+                "@chance": "0.00145"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.128473"
+                "@chance": "0.083221"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "2.128293"
+                "@chance": "1.378652"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "84.979294"
+                "@chance": "55.047328"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.62078"
+                "@chance": "0.402125"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.50106"
+                "@chance": "0.324573"
               }
             ]
           }
@@ -1223,57 +1223,57 @@
           "LootByTier": {
             "@tier": "7",
             "Item": {
-              "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "11.183315"
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "0"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "4.779038"
+                "@chance": "0"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "1.463491"
+                "@chance": "0"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "240.159627"
+                "@chance": "0"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "182.798727"
+                "@chance": "0"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "92.619401"
+                "@chance": "0"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "31.083127"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.010406"
+                "@chance": "0"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.59738"
+                "@chance": "0"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "9.896265"
+                "@chance": "0"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "395.141801"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "2.886539"
+                "@chance": "0"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "2.329859"
+                "@chance": "0"
               }
             ]
           }
@@ -1296,56 +1296,56 @@
             "@tier": "7",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "13.419986"
+              "@chance": "3.622128"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "5.734849"
+                "@chance": "1.547867"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "1.75619"
+                "@chance": "0.474005"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "288.191714"
+                "@chance": "77.784538"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "219.358595"
+                "@chance": "59.206098"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "111.143343"
+                "@chance": "29.998203"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "37.299773"
+                "@chance": "10.067415"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.012488"
+                "@chance": "0.00337"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.716856"
+                "@chance": "0.193483"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "11.875524"
+                "@chance": "3.20527"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "474.170427"
+                "@chance": "127.981222"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "3.463849"
+                "@chance": "0.934912"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "2.795832"
+                "@chance": "0.754611"
               }
             ]
           }
@@ -1368,56 +1368,56 @@
             "@tier": "7",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "16.774979"
+              "@chance": "7.244252"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "7.16856"
+                "@chance": "3.095733"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "2.195237"
+                "@chance": "0.94801"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "360.239575"
+                "@chance": "155.568973"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "274.198192"
+                "@chance": "118.412118"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "138.929153"
+                "@chance": "59.996367"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "46.624707"
+                "@chance": "20.134817"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.01561"
+                "@chance": "0.006741"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "0.89607"
+                "@chance": "0.386967"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "14.844403"
+                "@chance": "6.410535"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "592.712923"
+                "@chance": "255.962273"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "4.32981"
+                "@chance": "1.869823"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "3.494789"
+                "@chance": "1.50922"
               }
             ]
           }
@@ -1440,56 +1440,56 @@
             "@tier": "7",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "22.36663"
+              "@chance": "14.488509"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "9.558076"
+                "@chance": "6.191468"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "2.926982"
+                "@chance": "1.896021"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "480.319254"
+                "@chance": "311.138049"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "365.597453"
+                "@chance": "236.824315"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "185.238802"
+                "@chance": "119.992773"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "62.166253"
+                "@chance": "40.269647"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.020813"
+                "@chance": "0.013482"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "1.19476"
+                "@chance": "0.773933"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "19.79253"
+                "@chance": "12.821075"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "790.283602"
+                "@chance": "511.924717"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "5.773078"
+                "@chance": "3.739647"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "4.659717"
+                "@chance": "3.018441"
               }
             ]
           }
@@ -1511,57 +1511,53 @@
           "LootByTier": {
             "@tier": "8",
             "Item": {
-              "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "54.756205"
+              "@type": "T1_SILVERBAG_NONTRADABLE",
+              "@chance": "0"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "23.399322"
+                "@chance": "0"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "7.165604"
+                "@chance": "0"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "895.026604"
+                "@chance": "0"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "604.64921"
+                "@chance": "0"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "228.285714"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.050952"
+                "@chance": "0"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "2.924915"
+                "@chance": "0"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "48.454497"
+                "@chance": "0"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "935.709453"
+                "@chance": "0"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "14.13319"
+                "@chance": "0"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "11.40755"
+                "@chance": "0"
               }
             ]
           }
@@ -1584,64 +1580,52 @@
             "@tier": "8",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "65.707483"
+              "@chance": "17.734813"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "28.079202"
+                "@chance": "7.578732"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "8.598729"
+                "@chance": "2.320845"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "75.032526"
+                "@chance": "289.887321"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "725.579458"
+                "@chance": "195.83791"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "273.94301"
+                "@chance": "73.938734"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.061142"
+                "@chance": "0.016503"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "3.5099"
+                "@chance": "0.947341"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "58.145428"
+                "@chance": "15.693773"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "323.652643"
+                "@chance": "626.626894"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "16.959838"
+                "@chance": "4.577554"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "13.689067"
+                "@chance": "3.694755"
               }
             ]
           }
@@ -1664,44 +1648,40 @@
             "@tier": "8",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "82.134339"
+              "@chance": "35.469603"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "35.098996"
+                "@chance": "15.157454"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "10.748409"
+                "@chance": "4.641686"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "343.540407"
+                "@chance": "579.774257"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "906.974153"
+                "@chance": "391.67556"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "342.428699"
+                "@chance": "147.87737"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.076428"
+                "@chance": "0.033005"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "4.387374"
+                "@chance": "1.894682"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "72.681772"
+                "@chance": "31.387525"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
@@ -1709,19 +1689,15 @@
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "904.065262"
+                "@chance": "254.252955"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "21.199793"
+                "@chance": "9.155102"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "17.111331"
+                "@chance": "7.389505"
               }
             ]
           }
@@ -1744,16 +1720,16 @@
             "@tier": "8",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "109.512411"
+              "@chance": "70.93923"
             },
             "LootListReference": [
               {
                 "@name": "HELLGATE_ARTEFACT_LOOT",
-                "@chance": "46.798644"
+                "@chance": "30.314918"
               },
               {
                 "@name": "LOOT_DEMON_FACTION_CAPES",
-                "@chance": "14.331207"
+                "@chance": "9.283375"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
@@ -1761,31 +1737,27 @@
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "791.053207"
+                "@chance": "160.5489"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "210.29842"
+                "@chance": "783.351381"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "456.571428"
+                "@chance": "295.754838"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN_BOSS",
-                "@chance": "0.101904"
+                "@chance": "0.066011"
               },
               {
                 "@name": "HELLGATE_FACTION_CAPES",
-                "@chance": "5.84983"
+                "@chance": "3.789365"
               },
               {
                 "@name": "FAME_BOOKS_LOOT",
-                "@chance": "96.908993"
+                "@chance": "62.775071"
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
@@ -1797,19 +1769,15 @@
               },
               {
                 "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "HELL_FRAGMENT_LOOT",
-                "@chance": "872.418905"
+                "@chance": "508.506744"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "28.266381"
+                "@chance": "18.31021"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "22.815099"
+                "@chance": "14.779015"
               }
             ]
           }
@@ -1832,40 +1800,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T1_SILVERBAG_NONTRADABLE",
-              "@chance": "2.749642"
+              "@chance": "4.893963"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "2.723835"
+                "@chance": "4.84803"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "9.335766"
+                "@chance": "16.616307"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.421973"
+                "@chance": "2.530905"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "0.360238"
+                "@chance": "0.641171"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.000518"
+                "@chance": "0.000922"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "9.329081"
+                "@chance": "16.604408"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.00851"
+                "@chance": "0.015147"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.115911"
+                "@chance": "0.206304"
               }
             ]
           }
@@ -1888,40 +1856,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "0.824894"
+              "@chance": "0.978791"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "8.171515"
+                "@chance": "9.696047"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "28.007339"
+                "@chance": "33.232573"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "4.265924"
+                "@chance": "5.061803"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.080715"
+                "@chance": "1.28234"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.001554"
+                "@chance": "0.001844"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "27.987282"
+                "@chance": "33.208775"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.025531"
+                "@chance": "0.030294"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.347733"
+                "@chance": "0.412608"
               }
             ]
           }
@@ -1944,40 +1912,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "2.749646"
+              "@chance": "1.957584"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "27.23838"
+                "@chance": "19.392106"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "93.357782"
+                "@chance": "66.465187"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "14.219744"
+                "@chance": "10.123612"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "3.602382"
+                "@chance": "2.564682"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.005181"
+                "@chance": "0.003689"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "93.290927"
+                "@chance": "66.41759"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.085102"
+                "@chance": "0.060588"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "1.159109"
+                "@chance": "0.825216"
               }
             ]
           }
@@ -2000,40 +1968,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "10.998585"
+              "@chance": "3.915168"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "108.953545"
+                "@chance": "38.784213"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "373.431208"
+                "@chance": "132.930374"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "56.878989"
+                "@chance": "20.247224"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "14.409532"
+                "@chance": "5.129364"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.020724"
+                "@chance": "0.007377"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "373.163789"
+                "@chance": "132.835181"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.340409"
+                "@chance": "0.121176"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "4.636436"
+                "@chance": "1.650433"
               }
             ]
           }
@@ -2056,40 +2024,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "1.374823"
+              "@chance": "1.712886"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "13.619196"
+                "@chance": "16.968092"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "46.678911"
+                "@chance": "58.157033"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "7.109875"
+                "@chance": "8.85816"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.801192"
+                "@chance": "2.244096"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.00259"
+                "@chance": "0.003227"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "46.645484"
+                "@chance": "58.115387"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.042551"
+                "@chance": "0.053014"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.579555"
+                "@chance": "0.722064"
               }
             ]
           }
@@ -2112,40 +2080,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "4.124469"
+              "@chance": "3.425772"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "40.857577"
+                "@chance": "33.936183"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "140.036693"
+                "@chance": "116.314067"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "21.329619"
+                "@chance": "17.716319"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "5.403574"
+                "@chance": "4.488193"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.007771"
+                "@chance": "0.006455"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "139.936411"
+                "@chance": "116.230773"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.127653"
+                "@chance": "0.106029"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "1.738663"
+                "@chance": "1.444129"
               }
             ]
           }
@@ -2168,40 +2136,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "16.497876"
+              "@chance": "6.851544"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "163.430306"
+                "@chance": "67.872367"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "560.146771"
+                "@chance": "232.628134"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "85.318478"
+                "@chance": "35.432639"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "21.614296"
+                "@chance": "8.976386"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.031086"
+                "@chance": "0.01291"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "559.745644"
+                "@chance": "232.461546"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.510614"
+                "@chance": "0.212057"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "6.954653"
+                "@chance": "2.888257"
               }
             ]
           }
@@ -2224,40 +2192,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "18.097345"
+              "@chance": "3.221064"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "12.359143"
+                "@chance": "21.997479"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "42.360161"
+                "@chance": "75.394928"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "6.452066"
+                "@chance": "11.48374"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.634548"
+                "@chance": "2.909259"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.003378"
+                "@chance": "0.006012"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "18.271114"
+                "@chance": "32.519926"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.75634"
+                "@chance": "1.346175"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.049978"
+                "@chance": "0.088953"
               }
             ]
           }
@@ -2280,40 +2248,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "5.429211"
+              "@chance": "6.442121"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "37.077483"
+                "@chance": "43.994904"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "127.080664"
+                "@chance": "150.789675"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "19.356226"
+                "@chance": "22.967452"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "4.903652"
+                "@chance": "5.81851"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.010134"
+                "@chance": "0.012024"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "54.813419"
+                "@chance": "65.039774"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "2.269022"
+                "@chance": "2.692346"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.149933"
+                "@chance": "0.177905"
               }
             ]
           }
@@ -2336,40 +2304,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "18.097368"
+              "@chance": "12.884249"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "123.591592"
+                "@chance": "87.989861"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "423.602152"
+                "@chance": "301.579532"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "64.520743"
+                "@chance": "45.934931"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "16.345505"
+                "@chance": "11.637027"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.033779"
+                "@chance": "0.024048"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "182.711371"
+                "@chance": "130.079627"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "7.563407"
+                "@chance": "5.384696"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.499777"
+                "@chance": "0.355811"
               }
             ]
           }
@@ -2392,44 +2360,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "72.389488"
+              "@chance": "25.768499"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "494.366475"
+                "@chance": "175.979722"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "695.408971"
+                "@chance": "603.159064"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "258.083029"
+                "@chance": "91.869862"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "65.382034"
+                "@chance": "23.274054"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.135115"
+                "@chance": "0.048097"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "730.845642"
+                "@chance": "260.159254"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "30.253634"
+                "@chance": "10.769391"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "1.999107"
+                "@chance": "0.711622"
               }
             ]
           }
@@ -2452,40 +2416,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "9.048688"
+              "@chance": "11.273717"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "61.795823"
+                "@chance": "76.991122"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "211.801167"
+                "@chance": "263.882068"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "32.260386"
+                "@chance": "40.193061"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "8.172756"
+                "@chance": "10.182398"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.016889"
+                "@chance": "0.021042"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "91.355725"
+                "@chance": "113.819664"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "3.781705"
+                "@chance": "4.711608"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.249888"
+                "@chance": "0.311335"
               }
             ]
           }
@@ -2508,40 +2472,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "27.146056"
+              "@chance": "22.547435"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "185.387415"
+                "@chance": "153.982244"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "635.403319"
+                "@chance": "527.764135"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "96.781129"
+                "@chance": "80.386122"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "24.518261"
+                "@chance": "20.364796"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.050668"
+                "@chance": "0.042085"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "274.067096"
+                "@chance": "227.639327"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "11.345112"
+                "@chance": "9.423217"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.749665"
+                "@chance": "0.622669"
               }
             ]
           }
@@ -2564,12 +2528,12 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "108.584224"
+              "@chance": "45.094869"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "741.549659"
+                "@chance": "307.964487"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
@@ -2577,39 +2541,31 @@
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "543.613275"
+                "@chance": "56.52827"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "387.124516"
+                "@chance": "160.772245"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "98.073044"
+                "@chance": "40.729592"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.202672"
+                "@chance": "0.084169"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "97.268385"
+                "@chance": "455.278655"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "45.380447"
+                "@chance": "18.846433"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "2.99866"
+                "@chance": "1.245339"
               }
             ]
           }
@@ -2632,40 +2588,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "5.669641"
+              "@chance": "10.091137"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "38.71944"
+                "@chance": "68.914974"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "132.708363"
+                "@chance": "236.201596"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "20.213406"
+                "@chance": "35.976924"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "5.120808"
+                "@chance": "9.114294"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.010582"
+                "@chance": "0.018835"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "57.240802"
+                "@chance": "101.880308"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "2.369505"
+                "@chance": "4.217374"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.156573"
+                "@chance": "0.278677"
               }
             ]
           }
@@ -2688,40 +2644,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "17.008947"
+              "@chance": "20.182249"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "116.158485"
+                "@chance": "137.829782"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "398.125659"
+                "@chance": "472.402622"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "60.640305"
+                "@chance": "71.953762"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "15.362446"
+                "@chance": "18.228565"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.031747"
+                "@chance": "0.03767"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "171.722653"
+                "@chance": "203.760369"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "7.108525"
+                "@chance": "8.434738"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.469719"
+                "@chance": "0.557353"
               }
             ]
           }
@@ -2744,44 +2700,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "56.696482"
+              "@chance": "40.364522"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "387.194894"
+                "@chance": "275.65973"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "328.085341"
+                "@chance": "944.805814"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "202.13432"
+                "@chance": "143.907611"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "51.208144"
+                "@chance": "36.457152"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.105824"
+                "@chance": "0.07534"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "572.40876"
+                "@chance": "407.520984"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "23.695079"
+                "@chance": "16.869486"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "1.565729"
+                "@chance": "1.114706"
               }
             ]
           }
@@ -2804,16 +2756,12 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "226.785977"
+              "@chance": "80.729045"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "549.779908"
+                "@chance": "551.31946"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
@@ -2821,55 +2769,31 @@
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "313.342505"
+                "@chance": "890.611628"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "808.537453"
+                "@chance": "287.815221"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "204.832621"
+                "@chance": "72.914305"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.423295"
+                "@chance": "0.15068"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "291.635533"
+                "@chance": "815.041969"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "94.780335"
+                "@chance": "33.738973"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "6.262917"
+                "@chance": "2.229412"
               }
             ]
           }
@@ -2892,40 +2816,40 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "28.348253"
+              "@chance": "35.318954"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "193.59753"
+                "@chance": "241.202243"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "663.542956"
+                "@chance": "826.705016"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "101.067203"
+                "@chance": "125.919148"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "25.604083"
+                "@chance": "31.900006"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.052912"
+                "@chance": "0.065923"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "286.204503"
+                "@chance": "356.580831"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "11.847544"
+                "@chance": "14.760799"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "0.782865"
+                "@chance": "0.975367"
               }
             ]
           }
@@ -2948,12 +2872,12 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "85.044735"
+              "@chance": "70.637908"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "580.792424"
+                "@chance": "482.404486"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
@@ -2961,31 +2885,31 @@
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "991.628297"
+                "@chance": "654.410032"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "303.201523"
+                "@chance": "251.838297"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "76.812228"
+                "@chance": "63.800011"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.158735"
+                "@chance": "0.131845"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "858.613263"
+                "@chance": "713.161661"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "35.542623"
+                "@chance": "29.521598"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "2.348594"
+                "@chance": "1.950735"
               }
             ]
           }
@@ -3008,20 +2932,12 @@
             "@tier": "5",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "340.178941"
+              "@chance": "141.275816"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "325.169696"
+                "@chance": "964.808972"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
@@ -3037,39 +2953,19 @@
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "969.513188"
+                "@chance": "309.820064"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "213.806093"
+                "@chance": "503.676594"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "307.24891"
+                "@chance": "127.600022"
               },
               {
                 "@name": "T5_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.634942"
+                "@chance": "0.26369"
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
@@ -3077,23 +2973,15 @@
               },
               {
                 "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T5_FRAGMENT_LOOT",
-                "@chance": "437.453054"
+                "@chance": "427.323322"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "142.170492"
+                "@chance": "59.043197"
               },
               {
                 "@name": "T5_LOOT_RD_TOKEN",
-                "@chance": "9.394374"
+                "@chance": "3.90147"
               }
             ]
           }
@@ -3115,45 +3003,45 @@
           "LootByTier": {
             "@tier": "6",
             "Item": {
-              "@type": "T1_SILVERBAG_NONTRADABLE",
-              "@chance": "4.623946"
+              "@type": "T4_SILVERBAG_NONTRADABLE",
+              "@chance": "0.822995"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "3.770412"
+                "@chance": "6.710785"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "4.654774"
+                "@chance": "8.28482"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "5.882394"
+                "@chance": "10.469806"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "0.997305"
+                "@chance": "1.775057"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "0.251022"
+                "@chance": "0.446783"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.000831"
+                "@chance": "0.001479"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "14.989359"
+                "@chance": "26.678881"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "0.013674"
+                "@chance": "0.024338"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.186239"
+                "@chance": "0.331478"
               }
             ]
           }
@@ -3176,44 +3064,44 @@
             "@tier": "6",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "1.387186"
+              "@chance": "1.645988"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "11.311251"
+                "@chance": "13.421554"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "13.964341"
+                "@chance": "16.56962"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "17.647207"
+                "@chance": "20.939587"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "2.991918"
+                "@chance": "3.55011"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "0.753068"
+                "@chance": "0.893566"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.002493"
+                "@chance": "0.002958"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "44.968142"
+                "@chance": "53.357697"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "0.041023"
+                "@chance": "0.048676"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.558718"
+                "@chance": "0.662956"
               }
             ]
           }
@@ -3236,44 +3124,44 @@
             "@tier": "6",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "4.623952"
+              "@chance": "3.291979"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "37.704166"
+                "@chance": "26.843123"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "46.547795"
+                "@chance": "33.139261"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "58.824015"
+                "@chance": "41.879199"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "9.973059"
+                "@chance": "7.100225"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "2.510227"
+                "@chance": "1.787132"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.00831"
+                "@chance": "0.005916"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "149.893787"
+                "@chance": "106.715459"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "0.136742"
+                "@chance": "0.097352"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "1.862393"
+                "@chance": "1.325913"
               }
             ]
           }
@@ -3296,44 +3184,44 @@
             "@tier": "6",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "18.495812"
+              "@chance": "6.583957"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "150.816697"
+                "@chance": "53.686247"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "186.19122"
+                "@chance": "66.278522"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "235.296109"
+                "@chance": "83.758398"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "39.892245"
+                "@chance": "14.200449"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "10.04091"
+                "@chance": "3.574265"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.033241"
+                "@chance": "0.011833"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "599.575276"
+                "@chance": "213.430918"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "0.546969"
+                "@chance": "0.194705"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "7.449573"
+                "@chance": "2.651826"
               }
             ]
           }
@@ -3356,44 +3244,44 @@
             "@tier": "6",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "2.311977"
+              "@chance": "2.880481"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "18.852091"
+                "@chance": "23.487731"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "23.273908"
+                "@chance": "28.996851"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "29.41202"
+                "@chance": "36.644296"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "4.986532"
+                "@chance": "6.212696"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.255114"
+                "@chance": "1.563741"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.004155"
+                "@chance": "0.005177"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "74.946926"
+                "@chance": "93.376018"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "0.068371"
+                "@chance": "0.085183"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.931197"
+                "@chance": "1.160174"
               }
             ]
           }
@@ -3416,44 +3304,44 @@
             "@tier": "6",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "6.935929"
+              "@chance": "5.760962"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "56.556257"
+                "@chance": "46.975462"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "69.821703"
+                "@chance": "57.993702"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "88.236035"
+                "@chance": "73.288592"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "14.959591"
+                "@chance": "12.425392"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "3.765341"
+                "@chance": "3.127481"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.012465"
+                "@chance": "0.010354"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "224.840712"
+                "@chance": "186.752037"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "0.205114"
+                "@chance": "0.170367"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "2.79359"
+                "@chance": "2.320347"
               }
             ]
           }
@@ -3476,44 +3364,44 @@
             "@tier": "6",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "27.743715"
+              "@chance": "11.521924"
             },
             "LootListReference": [
               {
                 "@name": "T4_DIRECTLOOTDROP_WHITE",
-                "@chance": "226.22503"
+                "@chance": "93.950923"
               },
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "279.286811"
+                "@chance": "115.987403"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "352.944138"
+                "@chance": "146.577184"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "59.838363"
+                "@chance": "24.850784"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "15.061364"
+                "@chance": "6.254962"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.049862"
+                "@chance": "0.020708"
               },
               {
                 "@name": "T4_FRAGMENT_LOOT",
-                "@chance": "899.362849"
+                "@chance": "373.504074"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "0.820454"
+                "@chance": "0.340733"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "11.174358"
+                "@chance": "4.640695"
               }
             ]
           }
@@ -3536,40 +3424,40 @@
             "@tier": "7",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "2.746106"
+              "@chance": "4.887669"
             },
             "LootListReference": [
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "12.994269"
+                "@chance": "23.12791"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "24.233307"
+                "@chance": "43.131764"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "5.568154"
+                "@chance": "9.910506"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "1.401507"
+                "@chance": "2.494479"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.004943"
+                "@chance": "0.008797"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "26.737678"
+                "@chance": "47.589181"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.073136"
+                "@chance": "0.130171"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "1.106814"
+                "@chance": "1.969969"
               }
             ]
           }
@@ -3592,40 +3480,40 @@
             "@tier": "7",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "8.238329"
+              "@chance": "9.775327"
             },
             "LootListReference": [
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "38.982863"
+                "@chance": "46.255764"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "72.700026"
+                "@chance": "86.263425"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "16.704487"
+                "@chance": "19.820987"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "4.204528"
+                "@chance": "4.988953"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.014828"
+                "@chance": "0.017595"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "80.213149"
+                "@chance": "95.178246"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.219407"
+                "@chance": "0.260341"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "3.320448"
+                "@chance": "3.939932"
               }
             ]
           }
@@ -3648,40 +3536,40 @@
             "@tier": "7",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "27.461094"
+              "@chance": "19.550665"
             },
             "LootListReference": [
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "129.942857"
+                "@chance": "92.511584"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "242.333385"
+                "@chance": "172.526953"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "55.681617"
+                "@chance": "39.641999"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "14.015092"
+                "@chance": "9.977912"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.049427"
+                "@chance": "0.035189"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "267.377127"
+                "@chance": "190.356608"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.731357"
+                "@chance": "0.520683"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "11.068157"
+                "@chance": "7.879869"
               }
             ]
           }
@@ -3704,44 +3592,40 @@
             "@tier": "7",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "109.844399"
+              "@chance": "39.10133"
             },
             "LootListReference": [
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "519.771539"
+                "@chance": "185.023167"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "969.333747"
+                "@chance": "345.053907"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "222.726514"
+                "@chance": "79.283997"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "56.060381"
+                "@chance": "19.955824"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.19771"
+                "@chance": "0.070379"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "70.508736"
+                "@chance": "380.713215"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "2.925429"
+                "@chance": "1.041365"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "44.272638"
+                "@chance": "15.759739"
               }
             ]
           }
@@ -3764,40 +3648,40 @@
             "@tier": "7",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "13.730553"
+              "@chance": "17.10683"
             },
             "LootListReference": [
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "64.971456"
+                "@chance": "80.947629"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "121.166744"
+                "@chance": "150.961071"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "27.84082"
+                "@chance": "34.686746"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "7.007549"
+                "@chance": "8.730672"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.024714"
+                "@chance": "0.030791"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "133.688621"
+                "@chance": "166.562017"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.365679"
+                "@chance": "0.455597"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "5.534081"
+                "@chance": "6.894885"
               }
             ]
           }
@@ -3820,40 +3704,40 @@
             "@tier": "7",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "41.191647"
+              "@chance": "34.213661"
             },
             "LootListReference": [
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "194.914313"
+                "@chance": "161.895258"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "363.500129"
+                "@chance": "301.922142"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "83.522437"
+                "@chance": "69.373491"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "21.022641"
+                "@chance": "17.461344"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.074141"
+                "@chance": "0.061581"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "401.065747"
+                "@chance": "333.124035"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "1.097036"
+                "@chance": "0.911195"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "16.602238"
+                "@chance": "13.78977"
               }
             ]
           }
@@ -3876,48 +3760,40 @@
             "@tier": "7",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "164.766586"
+              "@chance": "68.427322"
             },
             "LootListReference": [
               {
                 "@name": "T5_DIRECTLOOTDROP_WHITE",
-                "@chance": "779.657253"
+                "@chance": "323.790515"
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "455.000516"
+                "@chance": "603.844285"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "334.089748"
+                "@chance": "138.746983"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "84.090565"
+                "@chance": "34.922688"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.296564"
+                "@chance": "0.123163"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "605.26299"
+                "@chance": "666.24807"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "4.388143"
+                "@chance": "1.822389"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "66.408952"
+                "@chance": "27.57954"
               }
             ]
           }
@@ -3940,36 +3816,36 @@
             "@tier": "8",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "10.530903"
+              "@chance": "18.743477"
             },
             "LootListReference": [
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "95.854174"
+                "@chance": "170.606496"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "23.575133"
+                "@chance": "41.960311"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "7.911827"
+                "@chance": "14.081903"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.018457"
+                "@chance": "0.03285"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "99.833714"
+                "@chance": "177.689499"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.273077"
+                "@chance": "0.486037"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "4.132452"
+                "@chance": "7.355164"
               }
             ]
           }
@@ -3992,36 +3868,36 @@
             "@tier": "8",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "31.592755"
+              "@chance": "37.486908"
             },
             "LootListReference": [
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "287.562933"
+                "@chance": "341.212581"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "70.725502"
+                "@chance": "83.92052"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "23.735516"
+                "@chance": "28.163772"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.05537"
+                "@chance": "0.065701"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "299.50157"
+                "@chance": "355.378568"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "0.819232"
+                "@chance": "0.972073"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "12.397373"
+                "@chance": "14.710309"
               }
             ]
           }
@@ -4044,36 +3920,36 @@
             "@tier": "8",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "105.309167"
+              "@chance": "74.973862"
             },
             "LootListReference": [
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "958.542974"
+                "@chance": "682.425573"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "235.751638"
+                "@chance": "167.841141"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "79.118377"
+                "@chance": "56.327577"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.184568"
+                "@chance": "0.131401"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "998.338423"
+                "@chance": "710.757566"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "2.730771"
+                "@chance": "1.944147"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "41.324572"
+                "@chance": "29.420637"
               }
             ]
           }
@@ -4096,7 +3972,7 @@
             "@tier": "8",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "421.236757"
+              "@chance": "149.947723"
             },
             "LootListReference": [
               {
@@ -4105,27 +3981,19 @@
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "837.172718"
+                "@chance": "365.851146"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "943.006755"
+                "@chance": "335.682283"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "316.473574"
+                "@chance": "112.655155"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.738272"
+                "@chance": "0.262803"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
@@ -4133,23 +4001,15 @@
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "996.35455"
+                "@chance": "422.515131"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "10.923088"
+                "@chance": "3.888293"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "165.298322"
+                "@chance": "58.841273"
               }
             ]
           }
@@ -4172,36 +4032,36 @@
             "@tier": "8",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "52.654606"
+              "@chance": "65.602123"
             },
             "LootListReference": [
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "479.271693"
+                "@chance": "597.122325"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "117.87587"
+                "@chance": "146.860986"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "39.559205"
+                "@chance": "49.286626"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.092284"
+                "@chance": "0.114976"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "499.169426"
+                "@chance": "621.912816"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "1.365386"
+                "@chance": "1.701128"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "20.662295"
+                "@chance": "25.743055"
               }
             ]
           }
@@ -4224,7 +4084,7 @@
             "@tier": "8",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "157.963773"
+              "@chance": "131.204247"
             },
             "LootListReference": [
               {
@@ -4233,19 +4093,19 @@
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "438.814666"
+                "@chance": "195.24465"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "353.627508"
+                "@chance": "293.721972"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "118.677582"
+                "@chance": "98.573252"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "0.276852"
+                "@chance": "0.229953"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
@@ -4253,15 +4113,15 @@
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "498.507849"
+                "@chance": "244.825633"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "4.096158"
+                "@chance": "3.402257"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "61.986866"
+                "@chance": "51.48611"
               }
             ]
           }
@@ -4284,7 +4144,7 @@
             "@tier": "8",
             "Item": {
               "@type": "T4_SILVERBAG_NONTRADABLE",
-              "@chance": "631.85509"
+              "@chance": "262.408494"
             },
             "LootListReference": [
               {
@@ -4297,35 +4157,19 @@
               },
               {
                 "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_DIRECTLOOTDROP_WHITE",
-                "@chance": "756.258665"
+                "@chance": "390.489299"
               },
               {
                 "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "999"
-              },
-              {
-                "@name": "T7_DIRECTLOOTDROP_WHITE",
-                "@chance": "415.510032"
+                "@chance": "587.443944"
               },
               {
                 "@name": "T8_DIRECTLOOTDROP_WHITE",
-                "@chance": "474.710327"
+                "@chance": "197.146503"
               },
               {
                 "@name": "T6_LOOT_EXPEDITION_TOKEN",
-                "@chance": "1.107408"
+                "@chance": "0.459905"
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
@@ -4337,27 +4181,15 @@
               },
               {
                 "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "999"
-              },
-              {
-                "@name": "T6_FRAGMENT_LOOT",
-                "@chance": "995.031397"
+                "@chance": "489.651265"
               },
               {
                 "@name": "TREASURES_STANDARD_LOOT",
-                "@chance": "16.38463"
+                "@chance": "6.804513"
               },
               {
                 "@name": "T6_LOOT_RD_TOKEN",
-                "@chance": "247.947466"
+                "@chance": "102.972219"
               }
             ]
           }
@@ -20517,18 +20349,15 @@
         "@initialspawntimeseconds": "0",
         "@respawntimesecondsmin": "86400",
         "@respawntimesecondsmax": "86400",
+        "@infamybonus": "false",
         "LootChestPrefab": [
           {
-            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_NORMAL_STANDARD",
-            "@weight": "590"
-          },
-          {
             "@name": "HELL_LOOTCHEST_HELL_STD_PVP_NORMAL_UNCOMMON",
-            "@weight": "300"
+            "@weight": "690"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_STD_PVP_NORMAL_RARE",
-            "@weight": "100"
+            "@weight": "300"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_STD_PVP_NORMAL_LEGENDARY",
@@ -20588,18 +20417,15 @@
         "@initialspawntimeseconds": "0",
         "@respawntimesecondsmin": "86400",
         "@respawntimesecondsmax": "86400",
+        "@infamybonus": "false",
         "LootChestPrefab": [
           {
-            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_VETERAN_STANDARD",
-            "@weight": "590"
-          },
-          {
             "@name": "HELL_LOOTCHEST_HELL_STD_PVP_VETERAN_UNCOMMON",
-            "@weight": "300"
+            "@weight": "690"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_STD_PVP_VETERAN_RARE",
-            "@weight": "100"
+            "@weight": "300"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_STD_PVP_VETERAN_LEGENDARY",
@@ -20659,18 +20485,15 @@
         "@initialspawntimeseconds": "0",
         "@respawntimesecondsmin": "86400",
         "@respawntimesecondsmax": "86400",
+        "@infamybonus": "false",
         "LootChestPrefab": [
           {
-            "@name": "HELL_LOOTCHEST_HELL_STD_PVP_ELITE_STANDARD",
-            "@weight": "590"
-          },
-          {
             "@name": "HELL_LOOTCHEST_HELL_STD_PVP_ELITE_UNCOMMON",
-            "@weight": "300"
+            "@weight": "690"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_STD_PVP_ELITE_RARE",
-            "@weight": "100"
+            "@weight": "300"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_STD_PVP_ELITE_LEGENDARY",
@@ -20730,18 +20553,15 @@
         "@initialspawntimeseconds": "0",
         "@respawntimesecondsmin": "86400",
         "@respawntimesecondsmax": "86400",
+        "@infamybonus": "false",
         "LootChestPrefab": [
           {
-            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_NORMAL_STANDARD",
-            "@weight": "590"
-          },
-          {
             "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_NORMAL_UNCOMMON",
-            "@weight": "300"
+            "@weight": "690"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_NORMAL_RARE",
-            "@weight": "100"
+            "@weight": "300"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_NORMAL_LEGENDARY",
@@ -20801,18 +20621,15 @@
         "@initialspawntimeseconds": "0",
         "@respawntimesecondsmin": "86400",
         "@respawntimesecondsmax": "86400",
+        "@infamybonus": "false",
         "LootChestPrefab": [
           {
-            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_VETERAN_STANDARD",
-            "@weight": "590"
-          },
-          {
             "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_VETERAN_UNCOMMON",
-            "@weight": "300"
+            "@weight": "690"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_VETERAN_RARE",
-            "@weight": "100"
+            "@weight": "300"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_VETERAN_LEGENDARY",
@@ -20872,18 +20689,15 @@
         "@initialspawntimeseconds": "0",
         "@respawntimesecondsmin": "86400",
         "@respawntimesecondsmax": "86400",
+        "@infamybonus": "false",
         "LootChestPrefab": [
           {
-            "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_ELITE_STANDARD",
-            "@weight": "590"
-          },
-          {
             "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_ELITE_UNCOMMON",
-            "@weight": "300"
+            "@weight": "690"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_ELITE_RARE",
-            "@weight": "100"
+            "@weight": "300"
           },
           {
             "@name": "HELL_LOOTCHEST_HELL_HRD_PVP_ELITE_LEGENDARY",
