@@ -551,8 +551,8 @@
         },
         {
           "@name": "crystal_league_debug",
-          "@ruleset": "gvg_20v20",
-          "@cluster": "CrystalRealm20v20",
+          "@ruleset": "2v2",
+          "@cluster": "CrystalRealm",
           "@matchtype": "MATCH_CRYSTAL_GVG_DEBUG",
           "@displayname": "@CRYSTAL_LEAGUE",
           "@startingelo": "1200",

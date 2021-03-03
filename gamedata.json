@@ -38,9 +38,7 @@
         "@EarlyRetreatTimeWindowInSeconds": "60",
         "@EarlyRetreatPenaltyInSeconds": "600",
         "@SkipClusterCooldownInSeconds": "125",
-        "@MinActiveTimeBeforeSkippingAllowed": "120",
-        "@ReservedFactionSeats": "300",
-        "@MinSeatsPerFaction": "50"
+        "@MinActiveTimeBeforeSkippingAllowed": "120"
       },
       "transactionlimits": {
         "gold": {
@@ -209,9 +207,6 @@
         "@decreasetimesilence": "20",
         "@decreasetimeslow": "20",
         "@decreasetimeforcedmovement": "20"
-      },
-      "ReflectedDamage": {
-        "@maxReflectCapacityFactorOfMaxHp": "2"
       },
       "Casting": {
         "@globaldisruptionfactor": "1",
@@ -965,16 +960,6 @@
           "@name": "MagicSpellDamageBonus",
           "@min": "-0.8",
           "@max": "1"
-        },
-        {
-          "@name": "HealBonus",
-          "@min": "-0.7",
-          "@max": "unrestricted"
-        },
-        {
-          "@name": "HealModifier",
-          "@min": "-0.7",
-          "@max": "unrestricted"
         },
         {
           "@name": "AbilityPower",
@@ -3823,16 +3808,16 @@
         {
           "@type": "hell",
           "@icon": "black",
-          "@famefactor": "3.5",
-          "@moblootfactor": "2.6",
-          "@mobsilverlootfactor": "3"
+          "@famefactor": "7.5",
+          "@moblootfactor": "7.1",
+          "@mobsilverlootfactor": "8.17"
         },
         {
           "@type": "hell_yellow",
           "@icon": "yellow",
-          "@famefactor": "2",
-          "@moblootfactor": "1.33",
-          "@mobsilverlootfactor": "1.53"
+          "@famefactor": "3.5",
+          "@moblootfactor": "2.25",
+          "@mobsilverlootfactor": "2.6"
         },
         {
           "@type": "hell_green",
@@ -3929,9 +3914,17 @@
       "FeatureDetail": [
         {
           "@id": "BarbarianBundle",
-          "@utcstartdate": "2020-02-10T10:15:00",
+          "@utcstartdate": "2021-02-10T10:15:00",
           "@utcenddate": "2022-02-10T10:00:00",
           "@showad": "BarbarianBundle",
+          "@showcount": "1",
+          "@counttype": "peraccount"
+        },
+        {
+          "@id": "ReferralLynx",
+          "@utcstartdate": "2021-02-10T10:15:00",
+          "@utcenddate": "2021-04-01T10:00:00",
+          "@showad": "ReferralLynx",
           "@showcount": "1",
           "@counttype": "peraccount"
         },
@@ -5633,10 +5626,6 @@
           "@id": "4006"
         }
       ]
-    },
-    "Loadouts": {
-      "@maximumplayerloadouts": "30",
-      "@playerinventorysize": "18"
     }
   }
 }

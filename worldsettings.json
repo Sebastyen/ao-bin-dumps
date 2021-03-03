@@ -12,7 +12,7 @@
           "@name": "GREEN",
           "@uipvptype": "Safe",
           "@pvpwarningtype": "safe",
-          "@pvprule": "FactionPvpOnly",
+          "@pvprule": "PvpDisabled",
           "@playersarelethal": "false",
           "@mobsarelethal": "false",
           "@showpvpplayeronminimap": "true",
@@ -26,6 +26,7 @@
           "@cropyieldfactor": "1",
           "@clusterdangerbonustype": "safe",
           "@requiredreputationtoenter": "-1000",
+          "@showdiebuttondelay": "20",
           "@vanityvisibility": "Allowed",
           "@ignoredestructionmultiplier": "true"
         },
@@ -48,6 +49,7 @@
           "@clusterdangerbonustype": "yellow",
           "@knockdownbuffaftergetup": "SPAWN_KNOCKDOWN_INVULNERABILITY",
           "@requiredreputationtoenter": "-20000",
+          "@showdiebuttondelay": "20",
           "@vanityvisibility": "Allowed",
           "@zergdebuffenabled": "false",
           "@ignoredestructionmultiplier": "true"
@@ -70,6 +72,7 @@
           "@cropyieldfactor": "2",
           "@clusterdangerbonustype": "red",
           "@requiredreputationtoenter": "-20000",
+          "@showdiebuttondelay": "20",
           "@vanityvisibility": "Allowed",
           "@zergdebuffenabled": "false",
           "@ignoredestructionmultiplier": "false"
@@ -92,6 +95,7 @@
           "@cropyieldfactor": "2",
           "@clusterdangerbonustype": "black",
           "@requiredreputationtoenter": "-50000",
+          "@showdiebuttondelay": "20",
           "@allowfactionflagging": "false",
           "@vanityvisibility": "Allowed",
           "@zergdebuffenabled": "true",
@@ -115,13 +119,14 @@
           "@cropyieldfactor": "2",
           "@clusterdangerbonustype": "tunnel",
           "@requiredreputationtoenter": "-50000",
+          "@showdiebuttondelay": "20",
           "@allowfactionflagging": "false",
           "@vanityvisibility": "Allowed",
           "@zergdebuffenabled": "true",
           "@ignoredestructionmultiplier": "false"
         },
         {
-          "@name": "HELL_2V2_LETHAL",
+          "@name": "HELL",
           "@uipvptype": "Black",
           "@pvpwarningtype": "black",
           "@pvprule": "PvpForced",
@@ -130,157 +135,47 @@
           "@showpvpplayeronminimap": "false",
           "@showfriendlycount": "false",
           "@showhostilecount": "false",
-          "@showmobsonminimap": "true",
-          "@spellcooldownsonenteringseconds": "0",
+          "@spellcooldownsonenteringseconds": "15",
           "@buildingcraftcapacityregenfactor": "1",
-          "@itempowersoftcap": "1100",
-          "@itempowerscalingfactor": "0.2",
-          "@animalgrowthfactor": "0.2",
-          "@cropyieldfactor": "2",
-          "@clusterdangerbonustype": "hell",
-          "@requiredreputationtoenter": "-50000",
-          "@allowfactionflagging": "false",
-          "@ignoreguilds": "true",
-          "@vanityvisibility": "Allowed",
-          "@ignoredestructionmultiplier": "true",
-          "@allowequipmentswapping": "false",
-          "@outlawbuffenabled": "false",
-          "@allowtrade": "GroupOnly"
-        },
-        {
-          "@name": "HELL_5V5_LETHAL",
-          "@uipvptype": "Black",
-          "@pvpwarningtype": "black",
-          "@pvprule": "PvpForced",
-          "@playersarelethal": "true",
-          "@mobsarelethal": "false",
-          "@showpvpplayeronminimap": "false",
-          "@showfriendlycount": "false",
-          "@showhostilecount": "false",
-          "@showmobsonminimap": "true",
-          "@spellcooldownsonenteringseconds": "0",
-          "@buildingcraftcapacityregenfactor": "1",
-          "@itempowersoftcap": "1200",
-          "@itempowerscalingfactor": "0.35",
-          "@animalgrowthfactor": "0.2",
-          "@cropyieldfactor": "2",
-          "@clusterdangerbonustype": "hell",
-          "@requiredreputationtoenter": "-50000",
-          "@allowfactionflagging": "false",
-          "@ignoreguilds": "true",
-          "@vanityvisibility": "Allowed",
-          "@ignoredestructionmultiplier": "true",
-          "@allowequipmentswapping": "false",
-          "@outlawbuffenabled": "false",
-          "@allowtrade": "GroupOnly"
-        },
-        {
-          "@name": "HELL_10V10_LETHAL",
-          "@uipvptype": "Black",
-          "@pvpwarningtype": "black",
-          "@pvprule": "PvpForced",
-          "@playersarelethal": "true",
-          "@mobsarelethal": "false",
-          "@showpvpplayeronminimap": "false",
-          "@showfriendlycount": "false",
-          "@showhostilecount": "false",
-          "@showmobsonminimap": "true",
-          "@spellcooldownsonenteringseconds": "0",
-          "@buildingcraftcapacityregenfactor": "1",
-          "@itempowersoftcap": "1300",
+          "@itempowersoftcap": "1000",
           "@itempowerscalingfactor": "0.5",
           "@animalgrowthfactor": "0.5",
           "@cropyieldfactor": "2",
           "@clusterdangerbonustype": "hell",
           "@requiredreputationtoenter": "-50000",
+          "@showdiebuttondelay": "20",
           "@allowfactionflagging": "false",
           "@ignoreguilds": "true",
           "@vanityvisibility": "Allowed",
           "@ignoredestructionmultiplier": "true",
           "@allowequipmentswapping": "false",
-          "@outlawbuffenabled": "false",
-          "@allowtrade": "GroupOnly"
+          "@outlawbuffenabled": "false"
         },
         {
-          "@name": "HELL_2V2_NON_LETHAL",
-          "@uipvptype": "Limited",
-          "@pvpwarningtype": "yellow",
+          "@name": "HELL_YELLOW",
+          "@uipvptype": "Black",
+          "@pvpwarningtype": "black",
           "@pvprule": "PvpForced",
-          "@playersarelethal": "false",
+          "@playersarelethal": "true",
           "@mobsarelethal": "false",
           "@showpvpplayeronminimap": "false",
           "@showfriendlycount": "false",
-          "@showhostilecount": "true",
-          "@showmobsonminimap": "true",
+          "@showhostilecount": "false",
           "@spellcooldownsonenteringseconds": "15",
           "@buildingcraftcapacityregenfactor": "1",
-          "@itempowersoftcap": "900",
-          "@itempowerscalingfactor": "0.1",
-          "@animalgrowthfactor": "0.2",
-          "@cropyieldfactor": "2",
-          "@clusterdangerbonustype": "hell_green",
-          "@requiredreputationtoenter": "-50000",
-          "@allowfactionflagging": "false",
-          "@ignoreguilds": "true",
-          "@vanityvisibility": "Allowed",
-          "@ignoredestructionmultiplier": "true",
-          "@allowequipmentswapping": "false",
-          "@outlawbuffenabled": "false",
-          "@allowtrade": "GroupOnly"
-        },
-        {
-          "@name": "HELL_5V5_NON_LETHAL",
-          "@uipvptype": "Limited",
-          "@pvpwarningtype": "yellow",
-          "@pvprule": "PvpForced",
-          "@playersarelethal": "false",
-          "@mobsarelethal": "false",
-          "@showpvpplayeronminimap": "false",
-          "@showfriendlycount": "false",
-          "@showhostilecount": "true",
-          "@showmobsonminimap": "true",
-          "@spellcooldownsonenteringseconds": "15",
-          "@buildingcraftcapacityregenfactor": "1",
-          "@itempowersoftcap": "900",
-          "@itempowerscalingfactor": "0.1",
-          "@animalgrowthfactor": "0.2",
-          "@cropyieldfactor": "2",
-          "@clusterdangerbonustype": "hell_green",
-          "@requiredreputationtoenter": "-50000",
-          "@allowfactionflagging": "false",
-          "@ignoreguilds": "true",
-          "@vanityvisibility": "Allowed",
-          "@ignoredestructionmultiplier": "true",
-          "@allowequipmentswapping": "false",
-          "@outlawbuffenabled": "false",
-          "@allowtrade": "GroupOnly"
-        },
-        {
-          "@name": "HELL_10V10_NON_LETHAL",
-          "@uipvptype": "Limited",
-          "@pvpwarningtype": "yellow",
-          "@pvprule": "PvpForced",
-          "@playersarelethal": "false",
-          "@mobsarelethal": "false",
-          "@showpvpplayeronminimap": "false",
-          "@showfriendlycount": "false",
-          "@showhostilecount": "true",
-          "@showmobsonminimap": "true",
-          "@spellcooldownsonenteringseconds": "15",
-          "@buildingcraftcapacityregenfactor": "1",
-          "@itempowersoftcap": "900",
-          "@itempowerscalingfactor": "0.1",
+          "@itempowersoftcap": "700",
+          "@itempowerscalingfactor": "0.2",
           "@animalgrowthfactor": "0.5",
           "@cropyieldfactor": "2",
-          "@clusterdangerbonustype": "hell_green",
+          "@clusterdangerbonustype": "hell_yellow",
           "@requiredreputationtoenter": "-50000",
+          "@showdiebuttondelay": "20",
           "@allowfactionflagging": "false",
           "@ignoreguilds": "true",
           "@vanityvisibility": "Allowed",
           "@ignoredestructionmultiplier": "true",
           "@allowequipmentswapping": "false",
-          "@outlawbuffenabled": "false",
-          "@allowtrade": "GroupOnly"
+          "@outlawbuffenabled": "false"
         },
         {
           "@name": "HELL_GREEN",
@@ -292,22 +187,21 @@
           "@showpvpplayeronminimap": "false",
           "@showfriendlycount": "false",
           "@showhostilecount": "true",
-          "@showmobsonminimap": "true",
           "@spellcooldownsonenteringseconds": "15",
           "@buildingcraftcapacityregenfactor": "1",
-          "@itempowersoftcap": "1100",
+          "@itempowersoftcap": "700",
           "@itempowerscalingfactor": "0.2",
           "@animalgrowthfactor": "0.5",
           "@cropyieldfactor": "2",
           "@clusterdangerbonustype": "hell_green",
           "@requiredreputationtoenter": "-50000",
+          "@showdiebuttondelay": "20",
           "@allowfactionflagging": "false",
           "@ignoreguilds": "true",
           "@vanityvisibility": "Allowed",
           "@ignoredestructionmultiplier": "true",
           "@allowequipmentswapping": "false",
-          "@outlawbuffenabled": "false",
-          "@allowtrade": "GroupOnly"
+          "@outlawbuffenabled": "false"
         },
         {
           "@name": "CORRUPTED_DUNGEON_BEGINNER",
@@ -317,7 +211,6 @@
           "@playersarelethal": "false",
           "@mobsarelethal": "false",
           "@showpvpplayeronminimap": "false",
-          "@showmobsonminimap": "true",
           "@showfriendlycount": "false",
           "@showhostilecount": "true",
           "@spellcooldownsonenteringseconds": "0",
@@ -328,6 +221,7 @@
           "@cropyieldfactor": "2",
           "@clusterdangerbonustype": "corrupted_beginner",
           "@requiredreputationtoenter": "-50000",
+          "@showdiebuttondelay": "20",
           "@allowfactionflagging": "false",
           "@ignoreguilds": "true",
           "@vanityvisibility": "Allowed",
@@ -343,7 +237,6 @@
           "@playersarelethal": "true",
           "@mobsarelethal": "false",
           "@showpvpplayeronminimap": "false",
-          "@showmobsonminimap": "true",
           "@showfriendlycount": "false",
           "@showhostilecount": "true",
           "@spellcooldownsonenteringseconds": "0",
@@ -354,6 +247,7 @@
           "@cropyieldfactor": "2",
           "@clusterdangerbonustype": "corrupted_intermediate",
           "@requiredreputationtoenter": "-50000",
+          "@showdiebuttondelay": "20",
           "@allowfactionflagging": "false",
           "@ignoreguilds": "true",
           "@vanityvisibility": "Allowed",
@@ -369,7 +263,6 @@
           "@playersarelethal": "true",
           "@mobsarelethal": "false",
           "@showpvpplayeronminimap": "false",
-          "@showmobsonminimap": "true",
           "@showfriendlycount": "false",
           "@showhostilecount": "true",
           "@spellcooldownsonenteringseconds": "0",
@@ -380,6 +273,7 @@
           "@cropyieldfactor": "2",
           "@clusterdangerbonustype": "corrupted_pro",
           "@requiredreputationtoenter": "-50000",
+          "@showdiebuttondelay": "20",
           "@allowfactionflagging": "false",
           "@ignoreguilds": "true",
           "@vanityvisibility": "Allowed",
@@ -405,6 +299,7 @@
           "@cropyieldfactor": "2",
           "@clusterdangerbonustype": "black",
           "@requiredreputationtoenter": "-50000",
+          "@showdiebuttondelay": "20",
           "@allowfactionflagging": "false",
           "@vanityvisibility": "Allowed",
           "@zergdebuffenabled": "true",
@@ -427,6 +322,7 @@
           "@animalgrowthfactor": "1",
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-1000",
+          "@showdiebuttondelay": "20",
           "@allowfactionflagging": "false",
           "@allowfactionflaggedenter": "false",
           "@vanityvisibility": "AllowedAndDefault",
@@ -449,7 +345,7 @@
           "@animalgrowthfactor": "1",
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-50000",
-          "@allowenemyfactionenter": "false",
+          "@showdiebuttondelay": "20",
           "@vanityvisibility": "AllowedAndDefault",
           "@ignoredestructionmultiplier": "true"
         },
@@ -470,7 +366,7 @@
           "@animalgrowthfactor": "1",
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-50000",
-          "@allowenemyfactionenter": "false",
+          "@showdiebuttondelay": "20",
           "@vanityvisibility": "AllowedAndDefault",
           "@ignoredestructionmultiplier": "true"
         },
@@ -491,7 +387,8 @@
           "@animalgrowthfactor": "1",
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-50000",
-          "@allowenemyfactionenter": "false",
+          "@showdiebuttondelay": "20",
+          "@allowfactionflagging": "false",
           "@vanityvisibility": "AllowedAndDefault",
           "@ignoredestructionmultiplier": "true"
         },
@@ -512,7 +409,9 @@
           "@animalgrowthfactor": "1",
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-50000",
-          "@allowenemyfactionenter": "false",
+          "@showdiebuttondelay": "20",
+          "@allowfactionflagging": "false",
+          "@allowfactionflaggedenter": "false",
           "@vanityvisibility": "AllowedAndDefault",
           "@ignoredestructionmultiplier": "true"
         },
@@ -533,6 +432,7 @@
           "@animalgrowthfactor": "1",
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-50000",
+          "@showdiebuttondelay": "20",
           "@durabilitydecaydivider": "0",
           "@vanityvisibility": "AllowedAndDefault",
           "@ignoredestructionmultiplier": "true"
@@ -554,6 +454,7 @@
           "@animalgrowthfactor": "1",
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-50000",
+          "@showdiebuttondelay": "20",
           "@allowfactionflagging": "false",
           "@vanityvisibility": "AllowedAndDefault",
           "@ignoredestructionmultiplier": "true"
@@ -576,7 +477,7 @@
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-50000",
           "@clusterdangerbonustype": "expedition",
-          "@allowtrade": "Disabled",
+          "@allowtrade": "false",
           "@allowfactionflagging": "false",
           "@vanityvisibility": "Allowed",
           "@ignoredestructionmultiplier": "true"
@@ -599,7 +500,7 @@
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-50000",
           "@clusterdangerbonustype": "expedition",
-          "@allowtrade": "Disabled",
+          "@allowtrade": "false",
           "@allowfactionflagging": "false",
           "@vanityvisibility": "Allowed",
           "@ignoredestructionmultiplier": "true"
@@ -622,7 +523,7 @@
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-50000",
           "@clusterdangerbonustype": "expedition",
-          "@allowtrade": "Disabled",
+          "@allowtrade": "false",
           "@allowfactionflagging": "false",
           "@vanityvisibility": "Allowed",
           "@ignoredestructionmultiplier": "true"
@@ -645,7 +546,7 @@
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-50000",
           "@clusterdangerbonustype": "expedition",
-          "@allowtrade": "Disabled",
+          "@allowtrade": "false",
           "@allowfactionflagging": "false",
           "@vanityvisibility": "Allowed",
           "@ignoredestructionmultiplier": "true"
@@ -668,7 +569,7 @@
           "@cropyieldfactor": "1",
           "@requiredreputationtoenter": "-50000",
           "@clusterdangerbonustype": "expedition",
-          "@allowtrade": "Disabled",
+          "@allowtrade": "false",
           "@allowfactionflagging": "false",
           "@vanityvisibility": "Allowed",
           "@ignoredestructionmultiplier": "true"
@@ -1619,6 +1520,7 @@
           "@hellgateclustermessage": "true",
           "@isdungeon": "false",
           "@allowmounts": "true",
+          "@playerfactionaffiliated": "true",
           "@allowfactionrewards": "false",
           "@showvanitymainoffhand": "true"
         },
@@ -1633,6 +1535,7 @@
           "@hellgateclustermessage": "true",
           "@isdungeon": "false",
           "@allowmounts": "true",
+          "@playerfactionaffiliated": "true",
           "@allowfactionrewards": "false",
           "@showvanitymainoffhand": "true"
         },
@@ -1647,6 +1550,7 @@
           "@hellgateclustermessage": "true",
           "@isdungeon": "false",
           "@allowmounts": "true",
+          "@playerfactionaffiliated": "true",
           "@showvanitymainoffhand": "true"
         },
         {
@@ -1723,7 +1627,6 @@
           "@hellgatemobminimapvisible": "true",
           "@hellgateclustermessage": "true",
           "@isdungeon": "false",
-          "@smartclusterqueue": "true",
           "@allowmounts": "true",
           "@tunnelpreset": "SAFEZONE",
           "spawnbuff": {
@@ -3214,7 +3117,6 @@
           "@hellgateclustermessage": "true",
           "@escapedungeonspellavailable": "false",
           "@isdungeon": "true",
-          "@smartclusterqueue": "true",
           "@allowmounts": "true",
           "spawnbuff": {
             "buff": [
@@ -3258,7 +3160,6 @@
           "@hellgateclustermessage": "true",
           "@escapedungeonspellavailable": "false",
           "@isdungeon": "true",
-          "@smartclusterqueue": "true",
           "@allowmounts": "true",
           "spawnbuff": {
             "buff": [
@@ -3302,7 +3203,6 @@
           "@hellgateclustermessage": "true",
           "@escapedungeonspellavailable": "false",
           "@isdungeon": "true",
-          "@smartclusterqueue": "true",
           "@allowmounts": "true",
           "spawnbuff": {
             "buff": [
@@ -4046,59 +3946,14 @@
           }
         },
         {
-          "@name": "DUNGEON_HELL_2V2_LETHAL",
-          "@archetype": "HELL_2V2_LETHAL",
-          "@logoutseconds": "900",
+          "@name": "DUNGEON_HELL",
+          "@archetype": "HELL",
+          "@logoutseconds": "300",
           "@editorcolor": "255, 128, 0",
           "@editorcolor2": "128, 54, 0",
           "@furnitureobjectsallowed": "true",
           "@isdungeon": "true",
           "@allowmounts": "false",
-          "@escapedungeonspellavailable": "true",
-          "@persistsimulationtodatabase": "false",
-          "spawnbuff": {
-            "buff": [
-              {
-                "@name": "SPAWN_BUFFIMMUNITY_ONDEATH",
-                "@isrevive": "Must"
-              },
-              {
-                "@name": "HELL_2V2_ENTER",
-                "@isclusterchange": "Must"
-              },
-              {
-                "@name": "SPAWN_INVULNERABILITY_EXPEDITION",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              },
-              {
-                "@name": "SPAWN_SPEED",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              },
-              {
-                "@name": "SPAWN_BUFFIMMUNITY",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              }
-            ]
-          },
-          "mobspawns": {
-            "@defaulttimefactor": "9999.0",
-            "@defaultinitialchargemultiplicator": "1",
-            "@defaultmaxchargemultiplicator": "1"
-          }
-        },
-        {
-          "@name": "DUNGEON_HELL_5V5_LETHAL",
-          "@archetype": "HELL_5V5_LETHAL",
-          "@logoutseconds": "900",
-          "@editorcolor": "255, 128, 0",
-          "@editorcolor2": "128, 54, 0",
-          "@furnitureobjectsallowed": "true",
-          "@isdungeon": "true",
-          "@allowmounts": "false",
-          "@escapedungeonspellavailable": "true",
           "@persistsimulationtodatabase": "false",
           "spawnbuff": {
             "buff": [
@@ -4130,139 +3985,14 @@
           }
         },
         {
-          "@name": "DUNGEON_HELL_10V10_LETHAL",
-          "@archetype": "HELL_10V10_LETHAL",
-          "@logoutseconds": "900",
+          "@name": "DUNGEON_HELL_YELLOW",
+          "@archetype": "HELL_YELLOW",
+          "@logoutseconds": "300",
           "@editorcolor": "255, 128, 0",
           "@editorcolor2": "128, 54, 0",
           "@furnitureobjectsallowed": "true",
           "@isdungeon": "true",
           "@allowmounts": "false",
-          "@escapedungeonspellavailable": "true",
-          "@persistsimulationtodatabase": "false",
-          "spawnbuff": {
-            "buff": [
-              {
-                "@name": "SPAWN_BUFFIMMUNITY_ONDEATH",
-                "@isrevive": "Must"
-              },
-              {
-                "@name": "SPAWN_INVULNERABILITY_EXPEDITION",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              },
-              {
-                "@name": "SPAWN_SPEED",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              },
-              {
-                "@name": "SPAWN_BUFFIMMUNITY",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              }
-            ]
-          },
-          "mobspawns": {
-            "@defaulttimefactor": "9999.0",
-            "@defaultinitialchargemultiplicator": "1",
-            "@defaultmaxchargemultiplicator": "1"
-          }
-        },
-        {
-          "@name": "DUNGEON_HELL_2V2_NON_LETHAL",
-          "@archetype": "HELL_2V2_NON_LETHAL",
-          "@logoutseconds": "900",
-          "@editorcolor": "255, 128, 0",
-          "@editorcolor2": "128, 54, 0",
-          "@furnitureobjectsallowed": "true",
-          "@isdungeon": "true",
-          "@allowmounts": "false",
-          "@escapedungeonspellavailable": "true",
-          "@persistsimulationtodatabase": "false",
-          "spawnbuff": {
-            "buff": [
-              {
-                "@name": "SPAWN_BUFFIMMUNITY_ONDEATH",
-                "@isrevive": "Must"
-              },
-              {
-                "@name": "HELL_2V2_ENTER",
-                "@isclusterchange": "Must"
-              },
-              {
-                "@name": "SPAWN_INVULNERABILITY_EXPEDITION",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              },
-              {
-                "@name": "SPAWN_SPEED",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              },
-              {
-                "@name": "SPAWN_BUFFIMMUNITY",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              }
-            ]
-          },
-          "mobspawns": {
-            "@defaulttimefactor": "9999.0",
-            "@defaultinitialchargemultiplicator": "1",
-            "@defaultmaxchargemultiplicator": "1"
-          }
-        },
-        {
-          "@name": "DUNGEON_HELL_5V5_NON_LETHAL",
-          "@archetype": "HELL_5V5_NON_LETHAL",
-          "@logoutseconds": "900",
-          "@editorcolor": "255, 128, 0",
-          "@editorcolor2": "128, 54, 0",
-          "@furnitureobjectsallowed": "true",
-          "@isdungeon": "true",
-          "@allowmounts": "false",
-          "@escapedungeonspellavailable": "true",
-          "@persistsimulationtodatabase": "false",
-          "spawnbuff": {
-            "buff": [
-              {
-                "@name": "SPAWN_BUFFIMMUNITY_ONDEATH",
-                "@isrevive": "Must"
-              },
-              {
-                "@name": "SPAWN_INVULNERABILITY_EXPEDITION",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              },
-              {
-                "@name": "SPAWN_SPEED",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              },
-              {
-                "@name": "SPAWN_BUFFIMMUNITY",
-                "@ispvppossible": "Must",
-                "@isclusterchange": "Must"
-              }
-            ]
-          },
-          "mobspawns": {
-            "@defaulttimefactor": "9999.0",
-            "@defaultinitialchargemultiplicator": "1",
-            "@defaultmaxchargemultiplicator": "1"
-          }
-        },
-        {
-          "@name": "DUNGEON_HELL_10V10_NON_LETHAL",
-          "@archetype": "HELL_10V10_NON_LETHAL",
-          "@logoutseconds": "900",
-          "@editorcolor": "255, 128, 0",
-          "@editorcolor2": "128, 54, 0",
-          "@furnitureobjectsallowed": "true",
-          "@isdungeon": "true",
-          "@allowmounts": "false",
-          "@escapedungeonspellavailable": "true",
           "@persistsimulationtodatabase": "false",
           "spawnbuff": {
             "buff": [
@@ -5400,7 +5130,7 @@
       "hellcluster": [
         {
           "@type": "T5_HELLGATE_GROUP_01",
-          "@hellclusterlevel": "HELLGATE-OLD-0003_HEL_DL_T5_NON_GROUP_01",
+          "@hellclusterlevel": "HELLGATE-0003_HEL_DL_T5_NON_GROUP_01",
           "@minimapicon": "hellgatemob",
           "@hellgatedeath": "true",
           "@gateentertitle": "@HELLGATE_BAR_TITLE_GROUP",
@@ -5435,7 +5165,7 @@
         },
         {
           "@type": "T4_HELLGATE_SINGLE_02",
-          "@hellclusterlevel": "HELLGATE-OLD-0004_HEL_DL_T5_NON_GROUP_01",
+          "@hellclusterlevel": "HELLGATE-0004_HEL_DL_T5_NON_GROUP_01",
           "@minimapicon": "hellgatemob_solo",
           "@hellgatedeath": "true",
           "@gateentertitle": "@HELLGATE_BAR_TITLE_SOLO",
@@ -5470,7 +5200,7 @@
         },
         {
           "@type": "T5_HELLGATE_GROUP_02",
-          "@hellclusterlevel": "HELLGATE-OLD-0002_HEL_DL_T5_NON_GROUP_01",
+          "@hellclusterlevel": "HELLGATE-0002_HEL_DL_T5_NON_GROUP_01",
           "@minimapicon": "hellgatemob",
           "@hellgatedeath": "true",
           "@gateentertitle": "@HELLGATE_BAR_TITLE_GROUP",
@@ -5505,7 +5235,7 @@
         },
         {
           "@type": "T4_HELLGATE_SINGLE_01",
-          "@hellclusterlevel": "HELLGATE-OLD-0001_HEL_DL_T4_NON_GROUP_01",
+          "@hellclusterlevel": "HELLGATE-0001_HEL_DL_T4_NON_GROUP_01",
           "@minimapicon": "hellgatemob_solo",
           "@hellgatedeath": "true",
           "@gateentertitle": "@HELLGATE_BAR_TITLE_SOLO",
