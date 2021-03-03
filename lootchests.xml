@@ -4,8 +4,1137 @@
   <!--************************************-->
   <!-- HELL CHESTS-->
   <!--************************************-->
+  <!--new-->
+  <!--PvP hellgate chests-->
+  <!--non lethal pvp Hellgate - 2v2-->
+  <LootChest uniquename="HELL_STD_PVP_NORMAL_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="0" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="0" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_PVP_NORMAL_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="1.216736" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0.051996" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.015923" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="2.539786" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="2.612918" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="2.651781" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="0.671794" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0.169091" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.000113" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.006499" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0.107671" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="4.299111" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.031405" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.025349" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_PVP_NORMAL_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="2.43347" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0.103991" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.031845" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="5.07957" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="5.225832" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="5.303558" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="1.343588" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0.338182" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.000226" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.012999" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0.215341" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="8.598217" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.062811" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.050697" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_PVP_NORMAL_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="4.866941" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0.207982" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.063691" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="10.159142" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="10.451667" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="10.607119" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="2.687177" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0.676364" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.000453" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.025998" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0.430682" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="17.196439" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.125621" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.101395" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <!--non lethal pvp Hellgate - 5v5-->
+  <LootChest uniquename="HELL_STD_PVP_VETERAN_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="0" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="0" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_PVP_VETERAN_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="4.500335" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0.192316" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.058893" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="9.393898" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="9.664387" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="9.80813" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="2.484763" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0.625416" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.000419" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.024039" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0.398241" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="15.901105" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.116159" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.093757" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_PVP_VETERAN_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="9.000665" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0.384631" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.117786" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="18.787783" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="19.328762" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="19.616247" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="4.969523" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="1.250831" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.000838" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.048079" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0.796481" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="31.802188" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.232317" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.187514" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_PVP_VETERAN_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="18.001336" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0.769263" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.235572" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="37.575578" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="38.657536" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="39.232508" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="9.93905" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="2.501663" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.001675" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.096158" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="1.592962" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="63.604397" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.464635" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.375028" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <!--non lethal pvp Hellgate - 10v10-->
+  <LootChest uniquename="HELL_STD_PVP_ELITE_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="0" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="0" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_PVP_ELITE_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="11.917663" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0.509285" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.155959" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="24.876658" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="25.592961" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="25.973617" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="6.580081" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="1.656209" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.001109" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.063661" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="1.05461" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="42.108863" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.307608" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.248285" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_PVP_ELITE_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="23.83531" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="1.01857" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.311918" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="49.753283" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="51.185888" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="51.9472" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="13.160153" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="3.312417" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.002218" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.127321" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="2.109218" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="84.217669" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.615216" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.496569" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_PVP_ELITE_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="4.767064" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="2.03714" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.623836" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="99.506598" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="102.37181" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="103.894435" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="26.320315" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="6.624835" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.004436" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.254642" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="4.218438" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="168.435394" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="1.230433" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.993139" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <!--lethal pvp Hellgate - 2v2-->
+  <LootChest uniquename="HELL_HRD_PVP_NORMAL_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="6">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="0" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="0" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_PVP_NORMAL_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="6">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="3.894879" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0.166442" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.05097" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="12.546272" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="8.488585" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="2.150474" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0.541275" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.000362" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.020805" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0.344663" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="13.761837" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.100531" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.081143" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_PVP_NORMAL_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="6">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="0.778975" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0.332885" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.10194" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="25.092526" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="16.97716" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="4.300944" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="1.08255" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.000725" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.041611" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0.689326" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="27.523655" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.201062" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.162287" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_PVP_NORMAL_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="6">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="1.557951" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0.665769" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.203879" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="50.18507" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="33.954331" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="8.601892" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="2.1651" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.00145" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.083221" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="1.378652" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="55.047328" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.402125" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.324573" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <!--lethal pvp Hellgate - 5v5-->
+  <LootChest uniquename="HELL_HRD_PVP_VETERAN_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="7">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="0" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="0" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_PVP_VETERAN_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="7">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="3.622128" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="1.547867" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.474005" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="77.784538" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="59.206098" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="29.998203" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="10.067415" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.00337" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.193483" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="3.20527" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="127.981222" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.934912" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.754611" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_PVP_VETERAN_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="7">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="7.244252" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="3.095733" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0.94801" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="155.568973" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="118.412118" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="59.996367" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="20.134817" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.006741" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.386967" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="6.410535" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="255.962273" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="1.869823" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.50922" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_PVP_VETERAN_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="7">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="14.488509" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="6.191468" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="1.896021" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="311.138049" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="236.824315" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="119.992773" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="40.269647" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.013482" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.773933" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="12.821075" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="511.924717" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="3.739647" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="3.018441" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <!--lethal pvp Hellgate - 10v10-->
+  <LootChest uniquename="HELL_HRD_PVP_ELITE_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="8">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="0" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="0" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="0" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="0" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="0" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_PVP_ELITE_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="8">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="17.734813" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="7.578732" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="2.320845" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="289.887321" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="195.83791" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="73.938734" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.016503" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="0.947341" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="15.693773" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="626.626894" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="4.577554" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="3.694755" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_PVP_ELITE_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="8">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="35.469603" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="15.157454" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="4.641686" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="579.774257" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="391.67556" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="147.87737" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.033005" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="1.894682" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="31.387525" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="999" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="254.252955" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="9.155102" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="7.389505" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_PVP_ELITE_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="8">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="70.93923" />
+        <LootListReference name="HELLGATE_ARTEFACT_LOOT" chance="30.314918" />
+        <LootListReference name="LOOT_DEMON_FACTION_CAPES" chance="9.283375" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="999" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="160.5489" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="783.351381" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="295.754838" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN_BOSS" chance="0.066011" />
+        <LootListReference name="HELLGATE_FACTION_CAPES" chance="3.789365" />
+        <LootListReference name="FAME_BOOKS_LOOT" chance="62.775071" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="999" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="999" />
+        <LootListReference name="HELL_FRAGMENT_LOOT" chance="508.506744" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="18.31021" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="14.779015" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <!--PvE hellgate chests-->
+  <!--non lethal pve Hellgate - 2v2-->
+  <LootChest uniquename="HELL_STD_CHEST_NORMAL_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="4.893963" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="4.84803" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="16.616307" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="2.530905" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="0.641171" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.000922" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="16.604408" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.015147" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.206304" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_CHEST_NORMAL_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="0.978791" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="9.696047" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="33.232573" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="5.061803" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="1.28234" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.001844" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="33.208775" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.030294" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.412608" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_CHEST_NORMAL_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="1.957584" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="19.392106" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="66.465187" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="10.123612" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="2.564682" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.003689" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="66.41759" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.060588" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.825216" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_CHEST_NORMAL_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="3.915168" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="38.784213" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="132.930374" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="20.247224" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="5.129364" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.007377" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="132.835181" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.121176" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.650433" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_BOSS_NORMAL_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="1.712886" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="16.968092" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="58.157033" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="8.85816" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="2.244096" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.003227" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="58.115387" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.053014" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.722064" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_BOSS_NORMAL_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="3.425772" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="33.936183" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="116.314067" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="17.716319" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="4.488193" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.006455" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="116.230773" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.106029" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.444129" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_BOSS_NORMAL_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="6.851544" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="67.872367" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="232.628134" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="35.432639" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="8.976386" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.01291" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="232.461546" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.212057" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="2.888257" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <!--non lethal pve Hellgate - 5v5-->
+  <LootChest uniquename="HELL_STD_CHEST_VETERAN_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="3.221064" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="21.997479" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="75.394928" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="11.48374" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="2.909259" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.006012" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="32.519926" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.346175" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.088953" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_CHEST_VETERAN_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="6.442121" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="43.994904" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="150.789675" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="22.967452" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="5.81851" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.012024" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="65.039774" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="2.692346" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.177905" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_CHEST_VETERAN_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="12.884249" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="87.989861" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="301.579532" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="45.934931" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="11.637027" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.024048" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="130.079627" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="5.384696" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.355811" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_CHEST_VETERAN_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="25.768499" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="175.979722" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="603.159064" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="91.869862" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="23.274054" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.048097" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="260.159254" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="10.769391" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.711622" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_BOSS_VETERAN_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="11.273717" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="76.991122" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="263.882068" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="40.193061" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="10.182398" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.021042" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="113.819664" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="4.711608" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.311335" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_BOSS_VETERAN_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="22.547435" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="153.982244" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="527.764135" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="80.386122" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="20.364796" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.042085" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="227.639327" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="9.423217" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.622669" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_BOSS_VETERAN_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="45.094869" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="307.964487" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="999" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="56.52827" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="160.772245" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="40.729592" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.084169" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="455.278655" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="18.846433" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="1.245339" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <!--non lethal pv3 Hellgate - 10v10-->
+  <LootChest uniquename="HELL_STD_CHEST_ELITE_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="10.091137" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="68.914974" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="236.201596" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="35.976924" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="9.114294" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.018835" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="101.880308" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="4.217374" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.278677" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_CHEST_ELITE_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="20.182249" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="137.829782" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="472.402622" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="71.953762" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="18.228565" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.03767" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="203.760369" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="8.434738" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.557353" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_CHEST_ELITE_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="40.364522" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="275.65973" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="944.805814" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="143.907611" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="36.457152" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.07534" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="407.520984" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="16.869486" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="1.114706" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_CHEST_ELITE_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="80.729045" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="551.31946" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="999" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="890.611628" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="287.815221" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="72.914305" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.15068" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="815.041969" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="33.738973" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="2.229412" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_BOSS_ELITE_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="35.318954" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="241.202243" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="826.705016" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="125.919148" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="31.900006" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.065923" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="356.580831" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="14.760799" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="0.975367" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_BOSS_ELITE_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="70.637908" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="482.404486" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="999" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="654.410032" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="251.838297" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="63.800011" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.131845" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="713.161661" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="29.521598" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="1.950735" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_STD_BOSS_ELITE_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="5">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="141.275816" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="964.808972" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="999" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="999" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="999" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="309.820064" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="503.676594" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="127.600022" />
+        <LootListReference name="T5_LOOT_EXPEDITION_TOKEN" chance="0.26369" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="999" />
+        <LootListReference name="T5_FRAGMENT_LOOT" chance="427.323322" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="59.043197" />
+        <LootListReference name="T5_LOOT_RD_TOKEN" chance="3.90147" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <!--lethal pve Hellgate - 2v2-->
+  <LootChest uniquename="HELL_HRD_CHEST_NORMAL_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="6">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="0.822995" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="6.710785" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="8.28482" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="10.469806" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="1.775057" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0.446783" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.001479" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="26.678881" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.024338" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.331478" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_CHEST_NORMAL_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="6">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="1.645988" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="13.421554" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="16.56962" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="20.939587" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="3.55011" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="0.893566" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.002958" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="53.357697" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.048676" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.662956" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_CHEST_NORMAL_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="6">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="3.291979" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="26.843123" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="33.139261" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="41.879199" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="7.100225" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="1.787132" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.005916" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="106.715459" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.097352" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.325913" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_CHEST_NORMAL_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="6">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="6.583957" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="53.686247" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="66.278522" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="83.758398" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="14.200449" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="3.574265" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.011833" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="213.430918" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.194705" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="2.651826" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_BOSS_NORMAL_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="6">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="2.880481" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="23.487731" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="28.996851" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="36.644296" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="6.212696" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="1.563741" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.005177" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="93.376018" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.085183" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.160174" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_BOSS_NORMAL_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="6">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="5.760962" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="46.975462" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="57.993702" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="73.288592" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="12.425392" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="3.127481" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.010354" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="186.752037" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.170367" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="2.320347" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_BOSS_NORMAL_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="6">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="11.521924" />
+        <LootListReference name="T4_DIRECTLOOTDROP_WHITE" chance="93.950923" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="115.987403" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="146.577184" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="24.850784" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="6.254962" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.020708" />
+        <LootListReference name="T4_FRAGMENT_LOOT" chance="373.504074" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.340733" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="4.640695" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <!--lethal pve Hellgate - 5v5-->
+  <LootChest uniquename="HELL_HRD_CHEST_VETERAN_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="7">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="4.887669" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="23.12791" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="43.131764" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="9.910506" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="2.494479" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.008797" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="47.589181" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.130171" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="1.969969" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_CHEST_VETERAN_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="7">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="9.775327" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="46.255764" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="86.263425" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="19.820987" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="4.988953" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.017595" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="95.178246" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.260341" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="3.939932" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_CHEST_VETERAN_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="7">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="19.550665" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="92.511584" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="172.526953" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="39.641999" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="9.977912" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.035189" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="190.356608" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.520683" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="7.879869" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_CHEST_VETERAN_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="7">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="39.10133" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="185.023167" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="345.053907" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="79.283997" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="19.955824" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.070379" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="380.713215" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.041365" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="15.759739" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_BOSS_VETERAN_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="7">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="17.10683" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="80.947629" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="150.961071" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="34.686746" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="8.730672" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.030791" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="166.562017" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.455597" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="6.894885" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_BOSS_VETERAN_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="7">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="34.213661" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="161.895258" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="301.922142" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="69.373491" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="17.461344" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.061581" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="333.124035" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.911195" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="13.78977" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_BOSS_VETERAN_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="7">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="68.427322" />
+        <LootListReference name="T5_DIRECTLOOTDROP_WHITE" chance="323.790515" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="603.844285" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="138.746983" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="34.922688" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.123163" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="666.24807" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.822389" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="27.57954" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <!--lethal pv3 Hellgate - 10v10-->
+  <LootChest uniquename="HELL_HRD_CHEST_ELITE_STANDARD" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@HELL_CHEST_STANDARD">
+    <Loot>
+      <LootByTier tier="8">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="18.743477" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="170.606496" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="41.960311" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="14.081903" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.03285" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="177.689499" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.486037" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="7.355164" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_CHEST_ELITE_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="8">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="37.486908" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="341.212581" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="83.92052" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="28.163772" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.065701" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="355.378568" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.972073" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="14.710309" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_CHEST_ELITE_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="8">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="74.973862" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="682.425573" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="167.841141" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="56.327577" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.131401" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="710.757566" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.944147" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="29.420637" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_CHEST_ELITE_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="15" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="8">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="149.947723" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="999" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="365.851146" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="335.682283" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="112.655155" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.262803" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="999" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="422.515131" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="3.888293" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="58.841273" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_BOSS_ELITE_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+    <Loot>
+      <LootByTier tier="8">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="65.602123" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="597.122325" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="146.860986" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="49.286626" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.114976" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="621.912816" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.701128" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="25.743055" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_BOSS_ELITE_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+    <Loot>
+      <LootByTier tier="8">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="131.204247" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="999" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="195.24465" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="293.721972" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="98.573252" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.229953" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="999" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="244.825633" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="3.402257" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="51.48611" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
+  <LootChest uniquename="HELL_HRD_BOSS_ELITE_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="10" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+    <Loot>
+      <LootByTier tier="8">
+        <Item type="T4_SILVERBAG_NONTRADABLE" chance="262.408494" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="999" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="999" />
+        <LootListReference name="T6_DIRECTLOOTDROP_WHITE" chance="390.489299" />
+        <LootListReference name="T7_DIRECTLOOTDROP_WHITE" chance="587.443944" />
+        <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="197.146503" />
+        <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.459905" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="999" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="999" />
+        <LootListReference name="T6_FRAGMENT_LOOT" chance="489.651265" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="6.804513" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="102.972219" />
+      </LootByTier>
+    </Loot>
+  </LootChest>
 
-  <LootChest uniquename="HELL_CHEST_VETERAN" avatar="HELL_CHEST" faction="DEMON" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_VETERAN">
+  <!--old-->
+  <LootChest uniquename="HELL_CHEST_VETERAN" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_VETERAN">
     <Loot>
       <LootByTier tier="4">
       </LootByTier>
@@ -33,7 +1162,7 @@
     </Loot>
   </LootChest>
 
-  <LootChest uniquename="DEMON_CHEST_BOSS_RARE" avatar="HELL_CHEST" faction="DEMON" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_VETERAN">
+  <LootChest uniquename="DEMON_CHEST_BOSS_RARE" avatar="CD_LOOTCHEST_DEMON" faction="DEMON" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_VETERAN">
     <Loot>
       <LootByTier tier="4">
       </LootByTier>
@@ -1661,7 +2790,6 @@
         <LootListReference name="T4_RANDOM_DUNGEON_UNCOMMON"/>
       </LootByTier>
       <LootByTier tier="5">
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.03146" />
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.000766"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.000535"/>
 
@@ -1673,7 +2801,6 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.037804" />
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.00103"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.000719"/>
 
@@ -1685,7 +2812,6 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.045344" />
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.001435"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.001002"/>
 
@@ -1697,7 +2823,6 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.054444" />
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.00207"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.001446"/>
 
@@ -1715,7 +2840,6 @@
         <LootListReference name="T4_RANDOM_DUNGEON_RARE"/>
       </LootByTier>
       <LootByTier tier="5">
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.10527" />
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.002298"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.001605"/>
 
@@ -1727,7 +2851,6 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.126498" />
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.00309"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.002158"/>
 
@@ -1739,7 +2862,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.151728" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.004304"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.003006"/>
 
@@ -1751,7 +2874,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.182178" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.00621"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.004338"/>
 
@@ -1768,7 +2891,7 @@
         <LootListReference name="T4_RANDOM_DUNGEON_LEGENDARY"/>
       </LootByTier>
       <LootByTier tier="5">
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.42108" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.006127"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.004279"/>
 
@@ -1780,7 +2903,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.505992" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.008239"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.005755"/>
 
@@ -1792,7 +2915,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.606912" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.011478"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.008017"/>
 
@@ -1804,7 +2927,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.728712" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.016562"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.011567"/>
 
@@ -3090,7 +4213,7 @@
         <Item type="T3_FURNITUREITEM_ANNIVERSARYBANNER_2020" chance="0.12"/>
         <LootListReference name="KEEPER_ANNIVERSARY_LOOT" chance="0.24" />
         <LootListReference name="KEEPER_SOLO_BOSS_LOOT" chance="1.74"/>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.10527" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.002298"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.001605"/>
 
@@ -3105,7 +4228,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.126498" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.00309"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.002158"/>
 
@@ -3120,7 +4243,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.151728" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.004304"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.003006"/>
 
@@ -3135,7 +4258,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.182178" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.00621"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.004338"/>
 
@@ -3154,7 +4277,7 @@
         <LootListReference name="T4_RANDOM_DUNGEON_UNCOMMON"/>
       </LootByTier>
       <LootByTier tier="5">
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.03146" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.000766"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.000535"/>
 
@@ -3166,7 +4289,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.037804" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.00103"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.000719"/>
 
@@ -3178,7 +4301,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.045344" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.001435"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.001002"/>
 
@@ -3190,7 +4313,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.054444" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.00207"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.001446"/>
 
@@ -3208,7 +4331,7 @@
         <LootListReference name="T4_RANDOM_DUNGEON_RARE"/>
       </LootByTier>
       <LootByTier tier="5">
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.10527" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.002298"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.001605"/>
 
@@ -3220,7 +4343,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.126498" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.00309"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.002158"/>
 
@@ -3232,7 +4355,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.151728" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.004304"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.003006"/>
 
@@ -3244,7 +4367,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.182178" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.00621"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.004338"/>
 
@@ -3261,7 +4384,7 @@
         <LootListReference name="T4_RANDOM_DUNGEON_LEGENDARY"/>
       </LootByTier>
       <LootByTier tier="5">
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.42108" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.006127"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.004279"/>
 
@@ -3273,7 +4396,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.505992" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.008239"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.005755"/>
 
@@ -3285,7 +4408,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.606912" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.011478"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.008017"/>
 
@@ -3297,7 +4420,7 @@
           <Item type="UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER"/>
           <Item type="UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER"/>
         </OR>
-        <Item type="T5_FARM_COUGAR_BABY" chance="0.728712" />
+        
         <LootListReference name="LOOT_KEEPER_FURNITURE" chance="0.016562"/>
         <LootListReference name="LOOT_KEEPER_FACTION_CAPES" chance="0.011567"/>
 
@@ -5767,5 +6890,121 @@
     <LootChestPrefab name="FOREST_GREEN_LOOTCHEST_CORRUPTED_HERETIC_CHEST_UNCOMMON" weight="300"/>
     <LootChestPrefab name="FOREST_GREEN_LOOTCHEST_CORRUPTED_HERETIC_CHEST_RARE" weight="147"/>
     <LootChestPrefab name="FOREST_GREEN_LOOTCHEST_CORRUPTED_HERETIC_CHEST_LEGENDARY" weight="15"/>
+  </LootChestSpawnpoint>
+  
+  <!-- HELLGATE REWORK -->
+  <LootChestSpawnpoint name="HELLGATE_CHEST_BOSS" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_BOSS_UNCOMMON" weight="60"/>
+    <LootChestPrefab name="FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_BOSS_RARE" weight="39"/>
+    <LootChestPrefab name="FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_BOSS_LEGENDARY" weight="1"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELLGATE_CHEST_STANDARD" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_STANDARD" weight="590"/>
+    <LootChestPrefab name="FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_UNCOMMON" weight="300"/>
+    <LootChestPrefab name="FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_RARE" weight="100"/>
+    <LootChestPrefab name="FOREST_GREEN_LOOTCHEST_HELLGATE_CHEST_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  <!--Hellgate Non-Lethal 2v2-->
+  <LootChestSpawnpoint name="HELL_STD_BOSS_NORMAL" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_BOSS_NORMAL_UNCOMMON" weight="60"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_BOSS_NORMAL_RARE" weight="39"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_BOSS_NORMAL_LEGENDARY" weight="1"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_STD_CHEST_NORMAL" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_NORMAL_STANDARD" weight="590"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_NORMAL_UNCOMMON" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_NORMAL_RARE" weight="100"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_NORMAL_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_STD_PVP_NORMAL" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400" infamybonus="false">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_PVP_NORMAL_UNCOMMON" weight="690"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_PVP_NORMAL_RARE" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_PVP_NORMAL_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  <!--Hellgate Non-Lethal 5v5-->
+  <LootChestSpawnpoint name="HELL_STD_BOSS_VETERAN" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_BOSS_VETERAN_UNCOMMON" weight="60"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_BOSS_VETERAN_RARE" weight="39"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_BOSS_VETERAN_LEGENDARY" weight="1"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_STD_CHEST_VETERAN" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_VETERAN_STANDARD" weight="590"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_VETERAN_UNCOMMON" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_VETERAN_RARE" weight="100"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_VETERAN_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_STD_PVP_VETERAN" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400" infamybonus="false">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_PVP_VETERAN_UNCOMMON" weight="690"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_PVP_VETERAN_RARE" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_PVP_VETERAN_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  <!--Hellgate Non-Lethal 10v10-->
+  <LootChestSpawnpoint name="HELL_STD_BOSS_ELITE" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_BOSS_ELITE_UNCOMMON" weight="60"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_BOSS_ELITE_RARE" weight="39"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_BOSS_ELITE_LEGENDARY" weight="1"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_STD_CHEST_ELITE" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_ELITE_STANDARD" weight="590"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_ELITE_UNCOMMON" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_ELITE_RARE" weight="100"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_CHEST_ELITE_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_STD_PVP_ELITE" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400" infamybonus="false">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_PVP_ELITE_UNCOMMON" weight="690"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_PVP_ELITE_RARE" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_STD_PVP_ELITE_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  
+  <!--Hellgate Lethal 2v2-->
+  <LootChestSpawnpoint name="HELL_HRD_BOSS_NORMAL" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_BOSS_NORMAL_UNCOMMON" weight="60"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_BOSS_NORMAL_RARE" weight="39"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_BOSS_NORMAL_LEGENDARY" weight="1"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_HRD_CHEST_NORMAL" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_NORMAL_STANDARD" weight="590"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_NORMAL_UNCOMMON" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_NORMAL_RARE" weight="100"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_NORMAL_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_HRD_PVP_NORMAL" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400" infamybonus="false">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_PVP_NORMAL_UNCOMMON" weight="690"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_PVP_NORMAL_RARE" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_PVP_NORMAL_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  <!--Hellgate Lethal 5v5-->
+  <LootChestSpawnpoint name="HELL_HRD_BOSS_VETERAN" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_BOSS_VETERAN_UNCOMMON" weight="60"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_BOSS_VETERAN_RARE" weight="39"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_BOSS_VETERAN_LEGENDARY" weight="1"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_HRD_CHEST_VETERAN" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_VETERAN_STANDARD" weight="590"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_VETERAN_UNCOMMON" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_VETERAN_RARE" weight="100"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_VETERAN_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_HRD_PVP_VETERAN" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400" infamybonus="false">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_PVP_VETERAN_UNCOMMON" weight="690"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_PVP_VETERAN_RARE" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_PVP_VETERAN_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  <!--Hellgate Lethal 10v10-->
+  <LootChestSpawnpoint name="HELL_HRD_BOSS_ELITE" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_BOSS_ELITE_UNCOMMON" weight="60"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_BOSS_ELITE_RARE" weight="39"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_BOSS_ELITE_LEGENDARY" weight="1"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_HRD_CHEST_ELITE" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_ELITE_STANDARD" weight="590"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_ELITE_UNCOMMON" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_ELITE_RARE" weight="100"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_CHEST_ELITE_LEGENDARY" weight="10"/>
+  </LootChestSpawnpoint>
+  <LootChestSpawnpoint name="HELL_HRD_PVP_ELITE" despawntimeseconds="0" initialspawntimeseconds="0" respawntimesecondsmin="86400" respawntimesecondsmax="86400" infamybonus="false">
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_PVP_ELITE_UNCOMMON" weight="690"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_PVP_ELITE_RARE" weight="300"/>
+    <LootChestPrefab name="HELL_LOOTCHEST_HELL_HRD_PVP_ELITE_LEGENDARY" weight="10"/>
   </LootChestSpawnpoint>
 </LootChests>
