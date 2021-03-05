@@ -891,11 +891,26 @@
 
   <achievement name="SA_FACTIONWARFARE_KILLBOSS_ALL" stat="SA_ST_FACTIONWARFARE_KILLBOSS_ALL">
     <any count="5">
-      <killmob mobid="T4_MOB_CITY_FOREST_BOSS" count="1" countpartykills="true"/>
-      <killmob mobid="T4_MOB_CITY_HIGHLAND_BOSS" count="1" countpartykills="true"/>
-      <killmob mobid="T4_MOB_CITY_MOUNTAIN_BOSS" count="1" countpartykills="true"/>
-      <killmob mobid="T4_MOB_CITY_STEPPE_BOSS" count="1" countpartykills="true"/>
-      <killmob mobid="T4_MOB_CITY_SWAMP_BOSS" count="1" countpartykills="true"/>
+      <or>
+        <killmob mobid="T5_MOB_CITY_FOREST_BOSS" count="1" countpartykills="true"/>
+        <killmob mobid="T6_MOB_CITY_FOREST_BOSS" count="1" countpartykills="true"/>
+      </or>
+      <or>
+        <killmob mobid="T5_MOB_CITY_HIGHLAND_BOSS" count="1" countpartykills="true"/>
+        <killmob mobid="T6_MOB_CITY_HIGHLAND_BOSS" count="1" countpartykills="true"/>
+      </or>      
+      <or>
+        <killmob mobid="T5_MOB_CITY_MOUNTAIN_BOSS" count="1" countpartykills="true"/>
+        <killmob mobid="T6_MOB_CITY_MOUNTAIN_BOSS" count="1" countpartykills="true"/>
+      </or>
+      <or>
+        <killmob mobid="T5_MOB_CITY_STEPPE_BOSS" count="1" countpartykills="true"/>
+        <killmob mobid="T6_MOB_CITY_STEPPE_BOSS" count="1" countpartykills="true"/>
+      </or>
+      <or>
+        <killmob mobid="T5_MOB_CITY_SWAMP_BOSS" count="1" countpartykills="true"/>
+        <killmob mobid="T6_MOB_CITY_SWAMP_BOSS" count="1" countpartykills="true"/>
+      </or>
       <or>
         <killmob mobid="T5_MOB_CITY_CAERLEON_BOSS" count="1" countpartykills="true"/>
         <killmob mobid="T6_MOB_CITY_CAERLEON_BOSS" count="1" countpartykills="true"/>

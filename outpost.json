@@ -17,12 +17,12 @@
                 "@tier": "4",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_FOREST_BOSS",
+                    "@mob": "T5_MOB_CITY_FOREST_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_FOREST_GUARD",
+                    "@mob": "T5_MOB_CITY_FOREST_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -32,12 +32,12 @@
                 "@tier": "5",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_FOREST_BOSS",
+                    "@mob": "T5_MOB_CITY_FOREST_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_FOREST_GUARD",
+                    "@mob": "T5_MOB_CITY_FOREST_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -47,12 +47,12 @@
                 "@tier": "6",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_FOREST_BOSS",
+                    "@mob": "T6_MOB_CITY_FOREST_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_FOREST_GUARD",
+                    "@mob": "T6_MOB_CITY_FOREST_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -62,12 +62,12 @@
                 "@tier": "7",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_FOREST_BOSS",
+                    "@mob": "T6_MOB_CITY_FOREST_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_FOREST_GUARD",
+                    "@mob": "T6_MOB_CITY_FOREST_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -77,12 +77,12 @@
                 "@tier": "8",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_FOREST_BOSS",
+                    "@mob": "T6_MOB_CITY_FOREST_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_FOREST_GUARD",
+                    "@mob": "T6_MOB_CITY_FOREST_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -97,12 +97,12 @@
                 "@tier": "4",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_HIGHLAND_BOSS",
+                    "@mob": "T5_MOB_CITY_HIGHLAND_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_HIGHLAND_GUARD",
+                    "@mob": "T5_MOB_CITY_HIGHLAND_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -112,12 +112,12 @@
                 "@tier": "5",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_HIGHLAND_BOSS",
+                    "@mob": "T5_MOB_CITY_HIGHLAND_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_HIGHLAND_GUARD",
+                    "@mob": "T5_MOB_CITY_HIGHLAND_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -127,12 +127,12 @@
                 "@tier": "6",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_HIGHLAND_BOSS",
+                    "@mob": "T6_MOB_CITY_HIGHLAND_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_HIGHLAND_GUARD",
+                    "@mob": "T6_MOB_CITY_HIGHLAND_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -142,12 +142,12 @@
                 "@tier": "7",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_HIGHLAND_BOSS",
+                    "@mob": "T6_MOB_CITY_HIGHLAND_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_HIGHLAND_GUARD",
+                    "@mob": "T6_MOB_CITY_HIGHLAND_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -157,12 +157,12 @@
                 "@tier": "8",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_HIGHLAND_BOSS",
+                    "@mob": "T6_MOB_CITY_HIGHLAND_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_HIGHLAND_GUARD",
+                    "@mob": "T6_MOB_CITY_HIGHLAND_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -177,12 +177,12 @@
                 "@tier": "4",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_MOUNTAIN_BOSS",
+                    "@mob": "T5_MOB_CITY_MOUNTAIN_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_MOUNTAIN_GUARD",
+                    "@mob": "T5_MOB_CITY_MOUNTAIN_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -192,12 +192,12 @@
                 "@tier": "5",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_MOUNTAIN_BOSS",
+                    "@mob": "T5_MOB_CITY_MOUNTAIN_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_MOUNTAIN_GUARD",
+                    "@mob": "T5_MOB_CITY_MOUNTAIN_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -207,12 +207,12 @@
                 "@tier": "6",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_MOUNTAIN_BOSS",
+                    "@mob": "T6_MOB_CITY_MOUNTAIN_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_MOUNTAIN_GUARD",
+                    "@mob": "T6_MOB_CITY_MOUNTAIN_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -222,12 +222,12 @@
                 "@tier": "7",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_MOUNTAIN_BOSS",
+                    "@mob": "T6_MOB_CITY_MOUNTAIN_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_MOUNTAIN_GUARD",
+                    "@mob": "T6_MOB_CITY_MOUNTAIN_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -237,12 +237,12 @@
                 "@tier": "8",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_MOUNTAIN_BOSS",
+                    "@mob": "T6_MOB_CITY_MOUNTAIN_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_MOUNTAIN_GUARD",
+                    "@mob": "T6_MOB_CITY_MOUNTAIN_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -257,12 +257,12 @@
                 "@tier": "4",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_STEPPE_BOSS",
+                    "@mob": "T5_MOB_CITY_STEPPE_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_STEPPE_GUARD",
+                    "@mob": "T5_MOB_CITY_STEPPE_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -272,12 +272,12 @@
                 "@tier": "5",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_STEPPE_BOSS",
+                    "@mob": "T5_MOB_CITY_STEPPE_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_STEPPE_GUARD",
+                    "@mob": "T5_MOB_CITY_STEPPE_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -287,12 +287,12 @@
                 "@tier": "6",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_STEPPE_BOSS",
+                    "@mob": "T6_MOB_CITY_STEPPE_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_STEPPE_GUARD",
+                    "@mob": "T6_MOB_CITY_STEPPE_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -302,12 +302,12 @@
                 "@tier": "7",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_STEPPE_BOSS",
+                    "@mob": "T6_MOB_CITY_STEPPE_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_STEPPE_GUARD",
+                    "@mob": "T6_MOB_CITY_STEPPE_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -317,12 +317,12 @@
                 "@tier": "8",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_STEPPE_BOSS",
+                    "@mob": "T6_MOB_CITY_STEPPE_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_STEPPE_GUARD",
+                    "@mob": "T6_MOB_CITY_STEPPE_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -337,12 +337,12 @@
                 "@tier": "4",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_SWAMP_BOSS",
+                    "@mob": "T5_MOB_CITY_SWAMP_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_SWAMP_GUARD",
+                    "@mob": "T5_MOB_CITY_SWAMP_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -352,12 +352,12 @@
                 "@tier": "5",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_SWAMP_BOSS",
+                    "@mob": "T5_MOB_CITY_SWAMP_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_SWAMP_GUARD",
+                    "@mob": "T5_MOB_CITY_SWAMP_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -367,12 +367,12 @@
                 "@tier": "6",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_SWAMP_BOSS",
+                    "@mob": "T6_MOB_CITY_SWAMP_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_SWAMP_GUARD",
+                    "@mob": "T6_MOB_CITY_SWAMP_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -382,12 +382,12 @@
                 "@tier": "7",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_SWAMP_BOSS",
+                    "@mob": "T6_MOB_CITY_SWAMP_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_SWAMP_GUARD",
+                    "@mob": "T6_MOB_CITY_SWAMP_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -397,12 +397,12 @@
                 "@tier": "8",
                 "guardmobtype": [
                   {
-                    "@mob": "T4_MOB_CITY_SWAMP_BOSS",
+                    "@mob": "T6_MOB_CITY_SWAMP_BOSS",
                     "@amount": "1",
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_SWAMP_GUARD",
+                    "@mob": "T6_MOB_CITY_SWAMP_GUARD",
                     "@amount": "7",
                     "@respawndelay": "3"
                   }
@@ -422,12 +422,12 @@
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_CAERLEON_GUARD_MALE",
+                    "@mob": "T5_MOB_CITY_CAERLEON_GUARD_MALE",
                     "@amount": "3",
                     "@respawndelay": "3"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_CAERLEON_GUARD_FEMALE",
+                    "@mob": "T5_MOB_CITY_CAERLEON_GUARD_FEMALE",
                     "@amount": "4",
                     "@respawndelay": "3"
                   }
@@ -442,12 +442,12 @@
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_CAERLEON_GUARD_MALE",
+                    "@mob": "T5_MOB_CITY_CAERLEON_GUARD_MALE",
                     "@amount": "3",
                     "@respawndelay": "3"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_CAERLEON_GUARD_FEMALE",
+                    "@mob": "T5_MOB_CITY_CAERLEON_GUARD_FEMALE",
                     "@amount": "4",
                     "@respawndelay": "3"
                   }
@@ -462,12 +462,12 @@
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_CAERLEON_GUARD_MALE",
+                    "@mob": "T6_MOB_CITY_CAERLEON_GUARD_MALE",
                     "@amount": "3",
                     "@respawndelay": "3"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_CAERLEON_GUARD_FEMALE",
+                    "@mob": "T6_MOB_CITY_CAERLEON_GUARD_FEMALE",
                     "@amount": "4",
                     "@respawndelay": "3"
                   }
@@ -482,12 +482,12 @@
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_CAERLEON_GUARD_MALE",
+                    "@mob": "T6_MOB_CITY_CAERLEON_GUARD_MALE",
                     "@amount": "3",
                     "@respawndelay": "3"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_CAERLEON_GUARD_FEMALE",
+                    "@mob": "T6_MOB_CITY_CAERLEON_GUARD_FEMALE",
                     "@amount": "4",
                     "@respawndelay": "3"
                   }
@@ -502,12 +502,12 @@
                     "@respawndelay": "90"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_CAERLEON_GUARD_MALE",
+                    "@mob": "T6_MOB_CITY_CAERLEON_GUARD_MALE",
                     "@amount": "3",
                     "@respawndelay": "3"
                   },
                   {
-                    "@mob": "T4_MOB_CITY_CAERLEON_GUARD_FEMALE",
+                    "@mob": "T6_MOB_CITY_CAERLEON_GUARD_FEMALE",
                     "@amount": "4",
                     "@respawndelay": "3"
                   }

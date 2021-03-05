@@ -5,139 +5,139 @@
 	  <guardsetup name="default">
 		  <faction name="Forest">
   		  <tier tier="4">
-	  		  <guardmobtype mob="T4_MOB_CITY_FOREST_BOSS" amount="1" respawndelay="90"/>
-  			  <guardmobtype mob="T4_MOB_CITY_FOREST_GUARD" amount="7" respawndelay="3"/>
+	  		  <guardmobtype mob="T5_MOB_CITY_FOREST_BOSS" amount="1" respawndelay="90"/>
+  			  <guardmobtype mob="T5_MOB_CITY_FOREST_GUARD" amount="7" respawndelay="3"/>
 		    </tier>
         <tier tier="5">
-          <guardmobtype mob="T4_MOB_CITY_FOREST_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_FOREST_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_FOREST_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T5_MOB_CITY_FOREST_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="6">
-          <guardmobtype mob="T4_MOB_CITY_FOREST_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_FOREST_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_FOREST_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_FOREST_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="7">
-          <guardmobtype mob="T4_MOB_CITY_FOREST_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_FOREST_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_FOREST_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_FOREST_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="8">
-          <guardmobtype mob="T4_MOB_CITY_FOREST_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_FOREST_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_FOREST_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_FOREST_GUARD" amount="7" respawndelay="3"/>
         </tier>
 		  </faction>
       <faction name="Highland">
         <tier tier="4">
-          <guardmobtype mob="T4_MOB_CITY_HIGHLAND_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_HIGHLAND_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_HIGHLAND_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T5_MOB_CITY_HIGHLAND_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="5">
-          <guardmobtype mob="T4_MOB_CITY_HIGHLAND_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_HIGHLAND_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_HIGHLAND_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T5_MOB_CITY_HIGHLAND_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="6">
-          <guardmobtype mob="T4_MOB_CITY_HIGHLAND_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_HIGHLAND_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_HIGHLAND_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_HIGHLAND_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="7">
-          <guardmobtype mob="T4_MOB_CITY_HIGHLAND_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_HIGHLAND_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_HIGHLAND_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_HIGHLAND_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="8">
-          <guardmobtype mob="T4_MOB_CITY_HIGHLAND_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_HIGHLAND_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_HIGHLAND_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_HIGHLAND_GUARD" amount="7" respawndelay="3"/>
         </tier>
       </faction>
       <faction name="Mountain">
         <tier tier="4">
-          <guardmobtype mob="T4_MOB_CITY_MOUNTAIN_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_MOUNTAIN_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_MOUNTAIN_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T5_MOB_CITY_MOUNTAIN_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="5">
-          <guardmobtype mob="T4_MOB_CITY_MOUNTAIN_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_MOUNTAIN_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_MOUNTAIN_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T5_MOB_CITY_MOUNTAIN_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="6">
-          <guardmobtype mob="T4_MOB_CITY_MOUNTAIN_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_MOUNTAIN_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_MOUNTAIN_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_MOUNTAIN_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="7">
-          <guardmobtype mob="T4_MOB_CITY_MOUNTAIN_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_MOUNTAIN_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_MOUNTAIN_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_MOUNTAIN_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="8">
-          <guardmobtype mob="T4_MOB_CITY_MOUNTAIN_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_MOUNTAIN_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_MOUNTAIN_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_MOUNTAIN_GUARD" amount="7" respawndelay="3"/>
         </tier>
       </faction>
       <faction name="Steppe">
         <tier tier="4">
-          <guardmobtype mob="T4_MOB_CITY_STEPPE_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_STEPPE_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_STEPPE_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T5_MOB_CITY_STEPPE_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="5">
-          <guardmobtype mob="T4_MOB_CITY_STEPPE_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_STEPPE_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_STEPPE_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T5_MOB_CITY_STEPPE_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="6">
-          <guardmobtype mob="T4_MOB_CITY_STEPPE_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_STEPPE_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_STEPPE_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_STEPPE_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="7">
-          <guardmobtype mob="T4_MOB_CITY_STEPPE_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_STEPPE_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_STEPPE_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_STEPPE_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="8">
-          <guardmobtype mob="T4_MOB_CITY_STEPPE_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_STEPPE_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_STEPPE_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_STEPPE_GUARD" amount="7" respawndelay="3"/>
         </tier>
       </faction>
       <faction name="Swamp">
         <tier tier="4">
-          <guardmobtype mob="T4_MOB_CITY_SWAMP_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_SWAMP_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_SWAMP_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T5_MOB_CITY_SWAMP_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="5">
-          <guardmobtype mob="T4_MOB_CITY_SWAMP_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_SWAMP_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_SWAMP_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T5_MOB_CITY_SWAMP_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="6">
-          <guardmobtype mob="T4_MOB_CITY_SWAMP_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_SWAMP_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_SWAMP_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_SWAMP_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="7">
-          <guardmobtype mob="T4_MOB_CITY_SWAMP_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_SWAMP_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_SWAMP_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_SWAMP_GUARD" amount="7" respawndelay="3"/>
         </tier>
         <tier tier="8">
-          <guardmobtype mob="T4_MOB_CITY_SWAMP_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_SWAMP_GUARD" amount="7" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_SWAMP_BOSS" amount="1" respawndelay="90"/>
+          <guardmobtype mob="T6_MOB_CITY_SWAMP_GUARD" amount="7" respawndelay="3"/>
         </tier>
       </faction>
       <faction name="Caerleon">
         <tier tier="4">
           <guardmobtype mob="T5_MOB_CITY_CAERLEON_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_CAERLEON_GUARD_MALE" amount="3" respawndelay="3"/>
-          <guardmobtype mob="T4_MOB_CITY_CAERLEON_GUARD_FEMALE" amount="4" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_CAERLEON_GUARD_MALE" amount="3" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_CAERLEON_GUARD_FEMALE" amount="4" respawndelay="3"/>
         </tier>
         <tier tier="5">
           <guardmobtype mob="T5_MOB_CITY_CAERLEON_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_CAERLEON_GUARD_MALE" amount="3" respawndelay="3"/>
-          <guardmobtype mob="T4_MOB_CITY_CAERLEON_GUARD_FEMALE" amount="4" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_CAERLEON_GUARD_MALE" amount="3" respawndelay="3"/>
+          <guardmobtype mob="T5_MOB_CITY_CAERLEON_GUARD_FEMALE" amount="4" respawndelay="3"/>
         </tier>
         <tier tier="6">
           <guardmobtype mob="T6_MOB_CITY_CAERLEON_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_CAERLEON_GUARD_MALE" amount="3" respawndelay="3"/>
-          <guardmobtype mob="T4_MOB_CITY_CAERLEON_GUARD_FEMALE" amount="4" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_CAERLEON_GUARD_MALE" amount="3" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_CAERLEON_GUARD_FEMALE" amount="4" respawndelay="3"/>
         </tier>
         <tier tier="7">
           <guardmobtype mob="T6_MOB_CITY_CAERLEON_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_CAERLEON_GUARD_MALE" amount="3" respawndelay="3"/>
-          <guardmobtype mob="T4_MOB_CITY_CAERLEON_GUARD_FEMALE" amount="4" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_CAERLEON_GUARD_MALE" amount="3" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_CAERLEON_GUARD_FEMALE" amount="4" respawndelay="3"/>
         </tier>
         <tier tier="8">
           <guardmobtype mob="T6_MOB_CITY_CAERLEON_BOSS" amount="1" respawndelay="90"/>
-          <guardmobtype mob="T4_MOB_CITY_CAERLEON_GUARD_MALE" amount="3" respawndelay="3"/>
-          <guardmobtype mob="T4_MOB_CITY_CAERLEON_GUARD_FEMALE" amount="4" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_CAERLEON_GUARD_MALE" amount="3" respawndelay="3"/>
+          <guardmobtype mob="T6_MOB_CITY_CAERLEON_GUARD_FEMALE" amount="4" respawndelay="3"/>
         </tier>
       </faction>
     </guardsetup>
