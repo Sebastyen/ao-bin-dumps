@@ -26,7 +26,7 @@
 	    <knockdownspell spell="FACTION_CAERLEON_KNOCKDOWNSPELL" delay="2.3"/>
     </faction>
   </factions>
-  <global bonuspointmodifier="0.5"
+  <global bonuspointmodifier="0.25"
           killvalue="0.05"
           maxkillvalue="300"
           killatrophy="0.2"
@@ -55,7 +55,7 @@
   />
   <factionbalancefactor max="1.5" scaling="1" perioddays="7"/>
   <activityquotient min="0.75" max="1.5" perioddays="7" interval="900"/>
-  <weeklyreport bonusmodifier="0.5" />
+  <weeklyreport bonusmodifier="0.6" />
   <factionpointbonus>
     <group size="2" bonusfactor="1.04"/>
     <group size="3" bonusfactor="1.06"/>
@@ -325,77 +325,79 @@
   <objective uniquename="OUTPOST" percentregen="0.15" percentmax="0.1" groupsize="20" caerleongroupsize="10"/>
   <objective uniquename="OUTPOST_ELITE" percentregen="0.3" percentmax="0.2" groupsize="20" caerleongroupsize="10"/>
 
-  <objective uniquename="OUTPOST_SAFE_1" percentregen="0.4644" percentmax="0.2229" groupsize="20" caerleongroupsize="20"/>
-  <objective uniquename="OUTPOST_SAFE_3" percentregen="0.1548" percentmax="0.1166" groupsize="20" caerleongroupsize="20"/>
-  <objective uniquename="OUTPOST_SAFE_5" percentregen="0.0929" percentmax="0.0490" groupsize="20" caerleongroupsize="20"/>
-  <objective uniquename="OUTPOST_LETHAL_1" percentregen="0.4644" percentmax="0.3498" groupsize="20" caerleongroupsize="10"/>
-  <objective uniquename="OUTPOST_LETHAL_3" percentregen="0.1642" percentmax="0.0847" groupsize="20" caerleongroupsize="10"/>
+  <objective uniquename="OUTPOST_SAFE_1" percentregen="0.4287" percentmax="0.2110" groupsize="20" caerleongroupsize="20"/>
+  <objective uniquename="OUTPOST_SAFE_3" percentregen="0.1429" percentmax="0.1104" groupsize="20" caerleongroupsize="20"/>
+  <objective uniquename="OUTPOST_SAFE_5" percentregen="0.0857" percentmax="0.0458" groupsize="20" caerleongroupsize="20"/>
+  <objective uniquename="OUTPOST_LETHAL_1" percentregen="0.4763" percentmax="0.3679" groupsize="20" caerleongroupsize="10"/>
+  <objective uniquename="OUTPOST_LETHAL_3" percentregen="0.1684" percentmax="0.0874" groupsize="20" caerleongroupsize="10"/>
 
   <!-- cluster type -->
   <clustertype uniquename="FW_DEFAULT_SAFE" groupsize="20" caerleongroupsize="20" regenrate="0">
   </clustertype>
   <clustertype uniquename="FW_DEFAULT_RED" groupsize="20" caerleongroupsize="20" regenrate="0">
   </clustertype>
-  <clustertype uniquename="FW_DEFAULT_SAFE_1" groupsize="20" caerleongroupsize="20" regenrate="1.2312">
-    <level requirement="3863.15" bankingfactor="0.4083"/>
-    <level requirement="11217.74" bankingfactor="1"/>
+  <clustertype uniquename="FW_DEFAULT_SAFE_1" groupsize="20" caerleongroupsize="20" regenrate="0.9719">
+    <level requirement="2448.55" bankingfactor="0.4083"/>
+    <level requirement="7110.04" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_DEFAULT_SAFE_3" groupsize="20" caerleongroupsize="20" regenrate="3.6936">
-    <level requirement="3863.15" bankingfactor="0.1361"/>
-    <level requirement="11217.74" bankingfactor="0.3333"/>
-    <level requirement="21441.45" bankingfactor="1"/>
+  <clustertype uniquename="FW_DEFAULT_SAFE_3" groupsize="20" caerleongroupsize="20" regenrate="2.9158">
+    <level requirement="2448.55" bankingfactor="0.1361"/>
+    <level requirement="7110.04" bankingfactor="0.3333"/>
+    <level requirement="13590.05" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_DEFAULT_SAFE_5" groupsize="20" caerleongroupsize="20" regenrate="6.1560">
-    <level requirement="3863.15" bankingfactor="0.0817"/>
-    <level requirement="11217.74" bankingfactor="0.2000"/>
-    <level requirement="21441.45" bankingfactor="0.6000"/>
-    <level requirement="50971.46" bankingfactor="1"/>
+  <clustertype uniquename="FW_DEFAULT_SAFE_5" groupsize="20" caerleongroupsize="20" regenrate="4.8596">
+    <level requirement="2448.55" bankingfactor="0.0817"/>
+    <level requirement="7110.04" bankingfactor="0.2000"/>
+    <level requirement="13590.05" bankingfactor="0.6000"/>
+    <level requirement="32784.56" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_LOW_SAFE_1" groupsize="20" caerleongroupsize="20" regenrate="1.1908">
-    <level requirement="3863.15" bankingfactor="0.4083"/>
-    <level requirement="11217.74" bankingfactor="1"/>
+  <clustertype uniquename="FW_LOW_SAFE_1" groupsize="20" caerleongroupsize="20" regenrate="0.9401">
+    <level requirement="2448.55" bankingfactor="0.4083"/>
+    <level requirement="7110.04" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_LOW_SAFE_3" groupsize="20" caerleongroupsize="20" regenrate="3.5725">
-    <level requirement="3863.15" bankingfactor="0.1361"/>
-    <level requirement="11217.74" bankingfactor="0.3333"/>
-    <level requirement="21441.45" bankingfactor="1"/>
+  <clustertype uniquename="FW_LOW_SAFE_3" groupsize="20" caerleongroupsize="20" regenrate="2.8202">
+    <level requirement="2448.55" bankingfactor="0.1361"/>
+    <level requirement="7110.04" bankingfactor="0.3333"/>
+    <level requirement="13590.05" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_LOW_SAFE_5" groupsize="20" caerleongroupsize="20" regenrate="5.9542">
-    <level requirement="3863.15" bankingfactor="0.0817"/>
-    <level requirement="11217.74" bankingfactor="0.2000"/>
-    <level requirement="21441.45" bankingfactor="0.6000"/>
-    <level requirement="50971.46" bankingfactor="1"/>
+  <clustertype uniquename="FW_LOW_SAFE_5" groupsize="20" caerleongroupsize="20" regenrate="4.7003">
+    <level requirement="2448.55" bankingfactor="0.0817"/>
+    <level requirement="7110.04" bankingfactor="0.2000"/>
+    <level requirement="13590.05" bankingfactor="0.6000"/>
+    <level requirement="32784.56" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_HIGH_SAFE_1" groupsize="20" caerleongroupsize="20" regenrate="1.2524">
-    <level requirement="3863.15" bankingfactor="0.4083"/>
-    <level requirement="11217.74" bankingfactor="1"/>
+  <clustertype uniquename="FW_HIGH_SAFE_1" groupsize="20" caerleongroupsize="20" regenrate="0.9887">
+    <level requirement="2448.55" bankingfactor="0.4083"/>
+    <level requirement="7110.04" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_HIGH_SAFE_3" groupsize="20" caerleongroupsize="20" regenrate="3.7573">
-    <level requirement="3863.15" bankingfactor="0.1361"/>
-    <level requirement="11217.74" bankingfactor="0.3333"/>
-    <level requirement="21441.45" bankingfactor="1"/>
+  <clustertype uniquename="FW_HIGH_SAFE_3" groupsize="20" caerleongroupsize="20" regenrate="2.9660">
+    <level requirement="2448.55" bankingfactor="0.1361"/>
+    <level requirement="7110.04" bankingfactor="0.3333"/>
+    <level requirement="13590.05" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_HIGH_SAFE_5" groupsize="20" caerleongroupsize="20" regenrate="6.2622">
-    <level requirement="3863.15" bankingfactor="0.0817"/>
-    <level requirement="11217.74" bankingfactor="0.2000"/>
-    <level requirement="21441.45" bankingfactor="0.6000"/>
-    <level requirement="50971.46" bankingfactor="1"/>
+  <clustertype uniquename="FW_HIGH_SAFE_5" groupsize="20" caerleongroupsize="20" regenrate="4.9434">
+    <level requirement="2448.55" bankingfactor="0.0817"/>
+    <level requirement="7110.04" bankingfactor="0.2000"/>
+    <level requirement="13590.05" bankingfactor="0.6000"/>
+    <level requirement="32784.56" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_LETHAL_1" groupsize="20" caerleongroupsize="10" regenrate="3.4826">
-    <level requirement="3863.15" bankingfactor="0.1361"/>
-    <level requirement="11217.74" bankingfactor="0.3333"/>
-    <level requirement="21441.45" bankingfactor="1"/>
+  <clustertype uniquename="FW_LETHAL_1" groupsize="20" caerleongroupsize="10" regenrate="2.7492">
+    <level requirement="2448.55" bankingfactor="0.1361"/>
+    <level requirement="7110.04" bankingfactor="0.3333"/>
+    <level requirement="13590.05" bankingfactor="1"/>
   </clustertype>
-  <clustertype uniquename="FW_LETHAL_3" groupsize="20" caerleongroupsize="10" regenrate="10.4478">
-    <level requirement="3863.15" bankingfactor="0.0481"/>
-    <level requirement="11217.74" bankingfactor="0.1178"/>
-    <level requirement="21441.45" bankingfactor="0.3535"/>
-    <level requirement="50971.46" bankingfactor="0.5892"/>
-    <level requirement="88499.65" bankingfactor="1.0000"/>
+  <clustertype uniquename="FW_LETHAL_3" groupsize="20" caerleongroupsize="10" regenrate="8.2476">
+    <level requirement="2448.55" bankingfactor="0.0481"/>
+    <level requirement="7110.04" bankingfactor="0.1178"/>
+    <level requirement="13590.05" bankingfactor="0.3535"/>
+    <level requirement="32784.56" bankingfactor="0.5892"/>
+    <level requirement="57177.88" bankingfactor="1.0000"/>
   </clustertype>
   <clustertype uniquename="FW_NO_VALUE" groupsize="20" caerleongroupsize="10" regenrate="0">
   </clustertype>
-  <clustertype uniquename="FW_CITY" groupsize="20" caerleongroupsize="10" regenrate="0">
+  <clustertype uniquename="FW_CITY_MAIN" groupsize="20" caerleongroupsize="10" regenrate="52.19">
+  </clustertype>
+  <clustertype uniquename="FW_CITY_SECONDARY" groupsize="20" caerleongroupsize="10" regenrate="0">
   </clustertype>
   <clustertype uniquename="FW_CAERLEON" groupsize="20" caerleongroupsize="10" regenrate="0">
   </clustertype>
@@ -531,28 +533,28 @@
 
   <!-- city cluster type overrides -->
 
-  <clustertypeoverride clusterid="0000" type="FW_CITY" />
-  <clustertypeoverride clusterid="1000" type="FW_CITY" />
-  <clustertypeoverride clusterid="2000" type="FW_CITY" />
-  <clustertypeoverride clusterid="3004" type="FW_CITY" />
-  <clustertypeoverride clusterid="4000" type="FW_CITY" />
+  <clustertypeoverride clusterid="0000" type="FW_CITY_MAIN" />
+  <clustertypeoverride clusterid="1000" type="FW_CITY_MAIN" />
+  <clustertypeoverride clusterid="2000" type="FW_CITY_MAIN" />
+  <clustertypeoverride clusterid="3004" type="FW_CITY_MAIN" />
+  <clustertypeoverride clusterid="4000" type="FW_CITY_MAIN" />
   <clustertypeoverride clusterid="3003" type="FW_CAERLEON" />
 
   <!-- city banks and auctionhouses -->
   
-  <clustertypeoverride clusterid="0006" type="FW_CITY" />
-  <clustertypeoverride clusterid="0007" type="FW_CITY" />
-  <clustertypeoverride clusterid="1001" type="FW_CITY" />
-  <clustertypeoverride clusterid="1002" type="FW_CITY" />
-  <clustertypeoverride clusterid="2003" type="FW_CITY" />
-  <clustertypeoverride clusterid="2004" type="FW_CITY" />
-  <clustertypeoverride clusterid="3007" type="FW_CITY" />
-  <clustertypeoverride clusterid="3008" type="FW_CITY" />
-  <clustertypeoverride clusterid="4001" type="FW_CITY" />
-  <clustertypeoverride clusterid="4002" type="FW_CITY" />
-  <clustertypeoverride clusterid="3006" type="FW_CAERLEON" />
-  <clustertypeoverride clusterid="3005" type="FW_CAERLEON" />
-  <clustertypeoverride clusterid="3013-Auction2" type="FW_CAERLEON" />  
+  <clustertypeoverride clusterid="0006" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="0007" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="1001" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="1002" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="2003" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="2004" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="3007" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="3008" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="4001" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="4002" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="3006" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="3005" type="FW_CITY_SECONDARY" />
+  <clustertypeoverride clusterid="3013-Auction2" type="FW_CITY_SECONDARY" />  
   
   <!-- underway cluster type overrides -->
 

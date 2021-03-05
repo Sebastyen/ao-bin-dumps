@@ -7132,10 +7132,10 @@
 7132: UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN                              : Mule Skin: Jack o' Donkey
 7133: SKIN_DONKEY_UNIQUE_TELLAFRIEND                                   : Recruiter's Donkey
 7134: UNIQUE_UNLOCK_SKIN_DONKEY_UNIQUE_TELLAFRIEND                     : Mule Skin: Recruiter's Donkey
-7135: UNIQUE_HEAD_VANITY_NO_HELMET                                     
-7136: UNIQUE_HEAD_VANITY_NO_CAPE                                       
-7137: UNIQUE_HEAD_VANITY_NO_MAIN_HAND                                  
-7138: UNIQUE_HEAD_VANITY_NO_OFF_HAND                                   
+7135: UNIQUE_HEAD_VANITY_NO_HELMET                                     : Hide Helmet
+7136: UNIQUE_HEAD_VANITY_NO_CAPE                                       : Hide Cape
+7137: UNIQUE_HEAD_VANITY_NO_MAIN_HAND                                  : Hide Main Hand
+7138: UNIQUE_HEAD_VANITY_NO_OFF_HAND                                   : Hide Off-Hand
 7139: UNIQUE_HEAD_VANITY_JESTER                                        : Jester Mask
 7140: UNIQUE_UNLOCK_HEAD_VANITY_JESTER                                 : Wardrobe Skin: Jester Mask
 7141: UNIQUE_ARMOR_VANITY_JESTER                                       : Jester Costume

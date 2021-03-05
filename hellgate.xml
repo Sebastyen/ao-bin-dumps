@@ -80,8 +80,8 @@
       rewardscaling="0.456"
       ratingscaling="0.5"
       
-      infamymin="-0.1" 
-      infamymax="0.9"
+      infamymin="-0.2" 
+      infamymax="0.8"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
@@ -118,8 +118,8 @@
       rewardscaling="0.456"
       ratingscaling="0.5"
       
-      infamymin="-0.1" 
-      infamymax="0.9"
+      infamymin="-0.4" 
+      infamymax="0.8"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
@@ -156,8 +156,8 @@
       rewardscaling="0.456"
       ratingscaling="0.5"
       
-      infamymin="-0.1" 
-      infamymax="0.9"
+      infamymin="-0.4" 
+      infamymax="0.8"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
@@ -196,8 +196,8 @@
       ratingscaling="0.5"
       
         
-      infamymin="-0.1" 
-      infamymax="0.9"
+      infamymin="-0.2" 
+      infamymax="0.8"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
@@ -234,8 +234,8 @@
       rewardscaling="0.456"
       ratingscaling="0.5"
       
-      infamymin="-0.1" 
-      infamymax="0.9"
+      infamymin="-0.4" 
+      infamymax="0.8"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"
@@ -272,8 +272,8 @@
       rewardscaling="0.456"
       ratingscaling="0.5"
       
-      infamymin="-0.1" 
-      infamymax="0.9"
+      infamymin="-0.4" 
+      infamymax="0.8"
 
       pvpmmrloss="0.1"
       pvpmmrgain="0.08"

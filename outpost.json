@@ -523,7 +523,7 @@
         "@uniquename": "OUTPOST_DEBUG",
         "@objectivetype": "OUTPOST",
         "@respawnblockdelay": "60",
-        "@minorattackstatepersistence": "10",
+        "@minorattackstatepersistence": "15",
         "@majorattackstatepersistence": "30",
         "outpostcapture": {
           "@capturezoneradius": "12",
@@ -545,7 +545,7 @@
         "@uniquename": "OUTPOST_SWAMP",
         "@objectivetype": "OUTPOST",
         "@respawnblockdelay": "60",
-        "@minorattackstatepersistence": "10",
+        "@minorattackstatepersistence": "15",
         "@majorattackstatepersistence": "30",
         "outpostcapture": {
           "@capturezoneradius": "12",
@@ -567,7 +567,7 @@
         "@uniquename": "OUTPOST_FOREST",
         "@objectivetype": "OUTPOST",
         "@respawnblockdelay": "60",
-        "@minorattackstatepersistence": "10",
+        "@minorattackstatepersistence": "15",
         "@majorattackstatepersistence": "30",
         "outpostcapture": {
           "@capturezoneradius": "12",
@@ -589,7 +589,7 @@
         "@uniquename": "OUTPOST_STEPPE",
         "@objectivetype": "OUTPOST",
         "@respawnblockdelay": "60",
-        "@minorattackstatepersistence": "10",
+        "@minorattackstatepersistence": "15",
         "@majorattackstatepersistence": "30",
         "outpostcapture": {
           "@capturezoneradius": "12",
@@ -611,7 +611,7 @@
         "@uniquename": "OUTPOST_HIGHLAND",
         "@objectivetype": "OUTPOST",
         "@respawnblockdelay": "60",
-        "@minorattackstatepersistence": "10",
+        "@minorattackstatepersistence": "15",
         "@majorattackstatepersistence": "30",
         "outpostcapture": {
           "@capturezoneradius": "12",
@@ -633,7 +633,7 @@
         "@uniquename": "OUTPOST_MOUNTAIN",
         "@objectivetype": "OUTPOST",
         "@respawnblockdelay": "60",
-        "@minorattackstatepersistence": "10",
+        "@minorattackstatepersistence": "15",
         "@majorattackstatepersistence": "30",
         "outpostcapture": {
           "@capturezoneradius": "12",
@@ -655,7 +655,7 @@
         "@uniquename": "OUTPOST_SAFE_1",
         "@objectivetype": "OUTPOST_SAFE_1",
         "@respawnblockdelay": "60",
-        "@minorattackstatepersistence": "10",
+        "@minorattackstatepersistence": "15",
         "@majorattackstatepersistence": "30",
         "outpostcapture": {
           "@capturezoneradius": "12",
@@ -677,7 +677,7 @@
         "@uniquename": "OUTPOST_SAFE_3",
         "@objectivetype": "OUTPOST_SAFE_3",
         "@respawnblockdelay": "60",
-        "@minorattackstatepersistence": "10",
+        "@minorattackstatepersistence": "15",
         "@majorattackstatepersistence": "30",
         "outpostcapture": {
           "@capturezoneradius": "12",
@@ -699,7 +699,7 @@
         "@uniquename": "OUTPOST_SAFE_5",
         "@objectivetype": "OUTPOST_SAFE_5",
         "@respawnblockdelay": "60",
-        "@minorattackstatepersistence": "10",
+        "@minorattackstatepersistence": "15",
         "@majorattackstatepersistence": "30",
         "outpostcapture": {
           "@capturezoneradius": "12",
@@ -721,7 +721,7 @@
         "@uniquename": "OUTPOST_LETHAL_1",
         "@objectivetype": "OUTPOST_LETHAL_1",
         "@respawnblockdelay": "60",
-        "@minorattackstatepersistence": "10",
+        "@minorattackstatepersistence": "15",
         "@majorattackstatepersistence": "30",
         "outpostcapture": {
           "@capturezoneradius": "12",
@@ -743,7 +743,7 @@
         "@uniquename": "OUTPOST_LETHAL_3",
         "@objectivetype": "OUTPOST_LETHAL_3",
         "@respawnblockdelay": "60",
-        "@minorattackstatepersistence": "10",
+        "@minorattackstatepersistence": "15",
         "@majorattackstatepersistence": "30",
         "outpostcapture": {
           "@capturezoneradius": "12",

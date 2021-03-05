@@ -779,7 +779,7 @@
         <tile name="ROCK_MEDIUM_NODE" pos="-45 0 11" roty="270">
           <resourcenode nodetype="medium" resourcetype="rock" />
         </tile>
-        <tile name="ROCK_MEDIUM_NODE" pos="-52 8 -15" roty="180">
+        <tile name="ROCK_MEDIUM_NODE" pos="-52 0 -15" roty="180">
           <resourcenode nodetype="medium" resourcetype="rock" />
         </tile>
         <tile name="ROCK_MEDIUM_NODE" pos="78 0 -4" roty="180">

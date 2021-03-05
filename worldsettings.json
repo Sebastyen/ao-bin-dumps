@@ -25,6 +25,7 @@
           "@animalgrowthfactor": "1",
           "@cropyieldfactor": "1",
           "@clusterdangerbonustype": "safe",
+          "@knockdownbuffaftergetup": "SPAWN_KNOCKDOWN_INVULNERABILITY",
           "@requiredreputationtoenter": "-1000",
           "@vanityvisibility": "Allowed",
           "@ignoredestructionmultiplier": "true"

@@ -138,7 +138,7 @@
       ]
     },
     "global": {
-      "@bonuspointmodifier": "0.5",
+      "@bonuspointmodifier": "0.25",
       "@killvalue": "0.05",
       "@maxkillvalue": "300",
       "@killatrophy": "0.2",
@@ -178,7 +178,7 @@
       "@interval": "900"
     },
     "weeklyreport": {
-      "@bonusmodifier": "0.5"
+      "@bonusmodifier": "0.6"
     },
     "factionpointbonus": {
       "group": [
@@ -1415,36 +1415,36 @@
       },
       {
         "@uniquename": "OUTPOST_SAFE_1",
-        "@percentregen": "0.4644",
-        "@percentmax": "0.2229",
+        "@percentregen": "0.4287",
+        "@percentmax": "0.2110",
         "@groupsize": "20",
         "@caerleongroupsize": "20"
       },
       {
         "@uniquename": "OUTPOST_SAFE_3",
-        "@percentregen": "0.1548",
-        "@percentmax": "0.1166",
+        "@percentregen": "0.1429",
+        "@percentmax": "0.1104",
         "@groupsize": "20",
         "@caerleongroupsize": "20"
       },
       {
         "@uniquename": "OUTPOST_SAFE_5",
-        "@percentregen": "0.0929",
-        "@percentmax": "0.0490",
+        "@percentregen": "0.0857",
+        "@percentmax": "0.0458",
         "@groupsize": "20",
         "@caerleongroupsize": "20"
       },
       {
         "@uniquename": "OUTPOST_LETHAL_1",
-        "@percentregen": "0.4644",
-        "@percentmax": "0.3498",
+        "@percentregen": "0.4763",
+        "@percentmax": "0.3679",
         "@groupsize": "20",
         "@caerleongroupsize": "10"
       },
       {
         "@uniquename": "OUTPOST_LETHAL_3",
-        "@percentregen": "0.1642",
-        "@percentmax": "0.0847",
+        "@percentregen": "0.1684",
+        "@percentmax": "0.0874",
         "@groupsize": "20",
         "@caerleongroupsize": "10"
       }
@@ -1466,14 +1466,14 @@
         "@uniquename": "FW_DEFAULT_SAFE_1",
         "@groupsize": "20",
         "@caerleongroupsize": "20",
-        "@regenrate": "1.2312",
+        "@regenrate": "0.9719",
         "level": [
           {
-            "@requirement": "3863.15",
+            "@requirement": "2448.55",
             "@bankingfactor": "0.4083"
           },
           {
-            "@requirement": "11217.74",
+            "@requirement": "7110.04",
             "@bankingfactor": "1"
           }
         ]
@@ -1482,18 +1482,18 @@
         "@uniquename": "FW_DEFAULT_SAFE_3",
         "@groupsize": "20",
         "@caerleongroupsize": "20",
-        "@regenrate": "3.6936",
+        "@regenrate": "2.9158",
         "level": [
           {
-            "@requirement": "3863.15",
+            "@requirement": "2448.55",
             "@bankingfactor": "0.1361"
           },
           {
-            "@requirement": "11217.74",
+            "@requirement": "7110.04",
             "@bankingfactor": "0.3333"
           },
           {
-            "@requirement": "21441.45",
+            "@requirement": "13590.05",
             "@bankingfactor": "1"
           }
         ]
@@ -1502,22 +1502,22 @@
         "@uniquename": "FW_DEFAULT_SAFE_5",
         "@groupsize": "20",
         "@caerleongroupsize": "20",
-        "@regenrate": "6.1560",
+        "@regenrate": "4.8596",
         "level": [
           {
-            "@requirement": "3863.15",
+            "@requirement": "2448.55",
             "@bankingfactor": "0.0817"
           },
           {
-            "@requirement": "11217.74",
+            "@requirement": "7110.04",
             "@bankingfactor": "0.2000"
           },
           {
-            "@requirement": "21441.45",
+            "@requirement": "13590.05",
             "@bankingfactor": "0.6000"
           },
           {
-            "@requirement": "50971.46",
+            "@requirement": "32784.56",
             "@bankingfactor": "1"
           }
         ]
@@ -1526,14 +1526,14 @@
         "@uniquename": "FW_LOW_SAFE_1",
         "@groupsize": "20",
         "@caerleongroupsize": "20",
-        "@regenrate": "1.1908",
+        "@regenrate": "0.9401",
         "level": [
           {
-            "@requirement": "3863.15",
+            "@requirement": "2448.55",
             "@bankingfactor": "0.4083"
           },
           {
-            "@requirement": "11217.74",
+            "@requirement": "7110.04",
             "@bankingfactor": "1"
           }
         ]
@@ -1542,18 +1542,18 @@
         "@uniquename": "FW_LOW_SAFE_3",
         "@groupsize": "20",
         "@caerleongroupsize": "20",
-        "@regenrate": "3.5725",
+        "@regenrate": "2.8202",
         "level": [
           {
-            "@requirement": "3863.15",
+            "@requirement": "2448.55",
             "@bankingfactor": "0.1361"
           },
           {
-            "@requirement": "11217.74",
+            "@requirement": "7110.04",
             "@bankingfactor": "0.3333"
           },
           {
-            "@requirement": "21441.45",
+            "@requirement": "13590.05",
             "@bankingfactor": "1"
           }
         ]
@@ -1562,22 +1562,22 @@
         "@uniquename": "FW_LOW_SAFE_5",
         "@groupsize": "20",
         "@caerleongroupsize": "20",
-        "@regenrate": "5.9542",
+        "@regenrate": "4.7003",
         "level": [
           {
-            "@requirement": "3863.15",
+            "@requirement": "2448.55",
             "@bankingfactor": "0.0817"
           },
           {
-            "@requirement": "11217.74",
+            "@requirement": "7110.04",
             "@bankingfactor": "0.2000"
           },
           {
-            "@requirement": "21441.45",
+            "@requirement": "13590.05",
             "@bankingfactor": "0.6000"
           },
           {
-            "@requirement": "50971.46",
+            "@requirement": "32784.56",
             "@bankingfactor": "1"
           }
         ]
@@ -1586,14 +1586,14 @@
         "@uniquename": "FW_HIGH_SAFE_1",
         "@groupsize": "20",
         "@caerleongroupsize": "20",
-        "@regenrate": "1.2524",
+        "@regenrate": "0.9887",
         "level": [
           {
-            "@requirement": "3863.15",
+            "@requirement": "2448.55",
             "@bankingfactor": "0.4083"
           },
           {
-            "@requirement": "11217.74",
+            "@requirement": "7110.04",
             "@bankingfactor": "1"
           }
         ]
@@ -1602,18 +1602,18 @@
         "@uniquename": "FW_HIGH_SAFE_3",
         "@groupsize": "20",
         "@caerleongroupsize": "20",
-        "@regenrate": "3.7573",
+        "@regenrate": "2.9660",
         "level": [
           {
-            "@requirement": "3863.15",
+            "@requirement": "2448.55",
             "@bankingfactor": "0.1361"
           },
           {
-            "@requirement": "11217.74",
+            "@requirement": "7110.04",
             "@bankingfactor": "0.3333"
           },
           {
-            "@requirement": "21441.45",
+            "@requirement": "13590.05",
             "@bankingfactor": "1"
           }
         ]
@@ -1622,22 +1622,22 @@
         "@uniquename": "FW_HIGH_SAFE_5",
         "@groupsize": "20",
         "@caerleongroupsize": "20",
-        "@regenrate": "6.2622",
+        "@regenrate": "4.9434",
         "level": [
           {
-            "@requirement": "3863.15",
+            "@requirement": "2448.55",
             "@bankingfactor": "0.0817"
           },
           {
-            "@requirement": "11217.74",
+            "@requirement": "7110.04",
             "@bankingfactor": "0.2000"
           },
           {
-            "@requirement": "21441.45",
+            "@requirement": "13590.05",
             "@bankingfactor": "0.6000"
           },
           {
-            "@requirement": "50971.46",
+            "@requirement": "32784.56",
             "@bankingfactor": "1"
           }
         ]
@@ -1646,18 +1646,18 @@
         "@uniquename": "FW_LETHAL_1",
         "@groupsize": "20",
         "@caerleongroupsize": "10",
-        "@regenrate": "3.4826",
+        "@regenrate": "2.7492",
         "level": [
           {
-            "@requirement": "3863.15",
+            "@requirement": "2448.55",
             "@bankingfactor": "0.1361"
           },
           {
-            "@requirement": "11217.74",
+            "@requirement": "7110.04",
             "@bankingfactor": "0.3333"
           },
           {
-            "@requirement": "21441.45",
+            "@requirement": "13590.05",
             "@bankingfactor": "1"
           }
         ]
@@ -1666,26 +1666,26 @@
         "@uniquename": "FW_LETHAL_3",
         "@groupsize": "20",
         "@caerleongroupsize": "10",
-        "@regenrate": "10.4478",
+        "@regenrate": "8.2476",
         "level": [
           {
-            "@requirement": "3863.15",
+            "@requirement": "2448.55",
             "@bankingfactor": "0.0481"
           },
           {
-            "@requirement": "11217.74",
+            "@requirement": "7110.04",
             "@bankingfactor": "0.1178"
           },
           {
-            "@requirement": "21441.45",
+            "@requirement": "13590.05",
             "@bankingfactor": "0.3535"
           },
           {
-            "@requirement": "50971.46",
+            "@requirement": "32784.56",
             "@bankingfactor": "0.5892"
           },
           {
-            "@requirement": "88499.65",
+            "@requirement": "57177.88",
             "@bankingfactor": "1.0000"
           }
         ]
@@ -1697,7 +1697,13 @@
         "@regenrate": "0"
       },
       {
-        "@uniquename": "FW_CITY",
+        "@uniquename": "FW_CITY_MAIN",
+        "@groupsize": "20",
+        "@caerleongroupsize": "10",
+        "@regenrate": "52.19"
+      },
+      {
+        "@uniquename": "FW_CITY_SECONDARY",
         "@groupsize": "20",
         "@caerleongroupsize": "10",
         "@regenrate": "0"
@@ -2188,23 +2194,23 @@
       },
       {
         "@clusterid": "0000",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_MAIN"
       },
       {
         "@clusterid": "1000",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_MAIN"
       },
       {
         "@clusterid": "2000",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_MAIN"
       },
       {
         "@clusterid": "3004",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_MAIN"
       },
       {
         "@clusterid": "4000",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_MAIN"
       },
       {
         "@clusterid": "3003",
@@ -2212,55 +2218,55 @@
       },
       {
         "@clusterid": "0006",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "0007",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "1001",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "1002",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "2003",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "2004",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "3007",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "3008",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "4001",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "4002",
-        "@type": "FW_CITY"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "3006",
-        "@type": "FW_CAERLEON"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "3005",
-        "@type": "FW_CAERLEON"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "3013-Auction2",
-        "@type": "FW_CAERLEON"
+        "@type": "FW_CITY_SECONDARY"
       },
       {
         "@clusterid": "CenterCity-DNG-01",
