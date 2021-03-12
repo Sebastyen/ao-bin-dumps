@@ -298,21 +298,6 @@
         <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_MAULER" pos="24.74 0 134.11" roty="180">
           <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_SOLO_MAULER" />
         </tile>
-        <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_MAULER" pos="58.82 -0.03 64.17" roty="270">
-          <mobspawnpoint behavior="PATROL" spawnbehavior="HG_DEMON_SOLO_MAULER">
-            <path>
-              <waypoint pos="59.78462 63.72373" idle="0" pace="RUN" />
-              <waypoint pos="57.72 49.06999" idle="0" pace="RUN" />
-              <waypoint pos="45.74532 34.15939" idle="0" pace="RUN" />
-              <waypoint pos="30.06036 25.38105" idle="0" pace="RUN" />
-              <waypoint pos="19.31137 34.69737" idle="0" pace="RUN" />
-              <waypoint pos="23.18382 51.72245" idle="0" pace="RUN" />
-              <waypoint pos="29.75449 68.52944" idle="0" pace="RUN" />
-              <waypoint pos="39.20396 74.13341" idle="0" pace="RUN" />
-              <waypoint pos="52.74399 67.59887" idle="0" pace="RUN" />
-            </path>
-          </mobspawnpoint>
-        </tile>
         <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_MAULER" pos="56.58 -0.03 68.33" roty="270">
           <mobspawnpoint behavior="PATROL" spawnbehavior="HG_DEMON_SOLO_MAULER">
             <path>
@@ -568,7 +553,7 @@
         <tile name="SpawnPoint_RANDOM_HG_DEMON_VETERAN_SPIKED_CORRUPTED" pos="86.8 -0.03 54.17" roty="309.8">
           <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_VETERAN_SPIKED_CORRUPTED" />
         </tile>
-        <tile name="SpawnPoint_RANDOM_HG_DEMON_VETERAN_MAULER" pos="-65.96 0 26.77" roty="132.85">
+        <tile name="SpawnPoint_RANDOM_HG_DEMON_VETERAN_MAULER" pos="-65.96 0 26.77" roty="133">
           <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_VETERAN_MAULER" />
         </tile>
         <tile name="SpawnPoint_RANDOM_HG_DEMON_VETERAN_MAULER" pos="50.88 0 53.95" roty="270">
@@ -601,22 +586,6 @@
         </tile>
         <tile name="SpawnPoint_RANDOM_HG_DEMON_VETERAN_HOOK" pos="45.97 0 53.19" roty="90">
           <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_VETERAN_HOOK" />
-        </tile>
-        <tile name="SpawnPoint_RANDOM_HG_DEMON_VETERAN_MAULER" pos="53.67 -0.03 66.25" roty="270">
-          <mobspawnpoint behavior="PATROL" spawnbehavior="HG_DEMON_VETERAN_MAULER">
-            <path>
-              <waypoint pos="54.63462 65.80373" idle="0" pace="WALK" />
-              <waypoint pos="54.35 60.54" idle="0" pace="WALK" />
-              <waypoint pos="52.57 51.14999" idle="0" pace="WALK" />
-              <waypoint pos="40.59532 36.2394" idle="0" pace="WALK" />
-              <waypoint pos="24.91036 27.46105" idle="0" pace="WALK" />
-              <waypoint pos="14.16137 36.77737" idle="0" pace="WALK" />
-              <waypoint pos="18.03381 53.80245" idle="0" pace="WALK" />
-              <waypoint pos="24.60448 70.60944" idle="0" pace="WALK" />
-              <waypoint pos="34.05396 76.21341" idle="0" pace="WALK" />
-              <waypoint pos="47.59399 69.67887" idle="0" pace="WALK" />
-            </path>
-          </mobspawnpoint>
         </tile>
         <tile name="SpawnPoint_RANDOM_HG_DEMON_VETERAN_IMP" pos="-25.46 -4.28 -54.49" roty="270">
           <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_VETERAN_IMP" />
@@ -1104,7 +1073,7 @@
     <tile name="HELL_ROCK_SPIKES_LARGE_A_NOCOL" pos="64 -16 114" rot="333 312 58" scale="-1.76302 1.767801 1.519978" />
     <tile name="HELL_ROCK_SPIKES_LARGE_A_NOCOL" pos="46 -16 72" rot="2 316 69" scale="-1.763021 1.767801 1.519979" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="44 -22 174" rot="23 130 302" scale="6.38414 5.541407 6.384139" />
-    <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="-47 -6 50" rot="6 329 331" scale="4.615668 4.006381 4.615669" />
+    <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="-48 -6 50" rot="6 329 331" scale="4.615668 4.006381 4.615669" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="-90 -31 -19" rot="8 311 293" scale="6.974283 6.053649 6.974284" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="76 -30 -43" rot="19 222 278" scale="4.407929 3.826066 4.407933" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="112 -25 -13" rot="19 222 278" scale="4.407928 3.826065 4.40793" />
@@ -1143,7 +1112,7 @@
     <tile name="HELL_ROCK_SPIKES_LARGE_A_NOCOL" pos="37 -14 52" rot="342 308 45.83" scale="-2.184902 2.190827 1.883701" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="5 -24 174" rot="351 97 283" scale="6.384138 5.541407 6.384139" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="132 -22 94" rot="4 149 303" scale="4.760207 4.131839 4.760206" />
-    <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="-40 -17 56" rot="358 0 301" scale="6.384139 5.541405 6.384138" />
+    <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="-41 -17 59" rot="358 0 301" scale="6.384139 5.541405 6.384138" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="106 -17 142" rot="4.42 102 274.74" scale="4.760206 4.131841 4.760209" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="108 -33 41" rot="351 181 293" scale="5.873412 5.098096 5.873414" />
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A_NOCOL" pos="122 -18 84" rot="357 180 297" scale="4.760207 4.131839 4.760206" />
@@ -1399,7 +1368,7 @@
     <tile name="HELL_ROCK_SPIKES_MEDIUM_A" pos="60 -5 -27" rot="5 236 314" />
     <tile name="HELL_ROCK_GAMEPLAY_BLOCKER_WALL_MEDIUM_A" pos="-42 0 41" roty="270" />
     <tile name="HELL_ROCK_GAMEPLAY_BLOCKER_WALL_MEDIUM_A" pos="-29 0 52" />
-    <tile name="HELL_ROCK_GAMEPLAY_BLOCKER_WALL_MEDIUM_A" pos="-37 0 50" roty="90" />
+    <tile name="HELL_ROCK_GAMEPLAY_BLOCKER_WALL_MEDIUM_A" pos="-35 0 51" roty="90" />
     <tile name="HELL_ROCK_GAMEPLAY_BLOCKER_WALL_MEDIUM_A" pos="-7 0 86" roty="180" />
     <tile name="HELL_ROCK_GAMEPLAY_BLOCKER_WALL_MEDIUM_A" pos="-23 0 51" roty="90" />
     <tile name="HELL_ROCK_GAMEPLAY_BLOCKER_WALL_MEDIUM_A" pos="-41 0 47" roty="180" />
@@ -1877,7 +1846,7 @@
     <tile name="HELL_ROCK_SPIKES_SHARP_LARGE_A" pos="-12 0 38" roty="235" />
     <tile name="HELL_ROCK_SPIKES_SHARP_MEDIUM_B" pos="-23 0 37" roty="180" />
     <tile name="HELL_ROCK_DEBRIS_SMALL_A" pos="-11 0 44" />
-    <tile name="HELL_ROCK_SPIKES_SHARP_LARGE_A" pos="-33 0 46" roty="208.96" />
+    <tile name="HELL_ROCK_SPIKES_SHARP_LARGE_A" pos="-33 0 46" roty="209" />
     <tile name="HELL_ROCK_SPIKES_SHARP_SMALL_A" pos="-40.5 0 29.5" roty="180" />
     <tile name="HELL_ROCK_SPIKES_SHARP_MEDIUM_A" pos="-39 0 31" roty="180" />
     <tile name="HELL_ROCK_SPIKES_SHARP_MEDIUM_B" pos="-61 0 5" roty="165.12" />
@@ -1939,7 +1908,7 @@
     <tile name="HELL_ROCK_SPIKES_SHARP_MEDIUM_B" pos="60 -4 -15" roty="357" />
     <tile name="HELL_ROCK_SPIKES_SHARP_MEDIUM_B" pos="83 -4 -26" roty="357" />
     <tile name="HELL_ROCK_SPIKES_SHARP_LARGE_A" pos="-40 -4 -29" roty="147" />
-    <tile name="HELL_GROUND_GROUND_CRACK_A_HALF_NOCOL" pos="-20 0 51" roty="180" scale="0.7 1 0.7" />
+    <tile name="HELL_GROUND_GROUND_CRACK_A_HALF_NOCOL" pos="-21 0 51" roty="180" scale="0.7 1 0.7" />
     <tile name="HELL_GROUND_GROUND_CRACK_A_HALF_NOCOL" pos="49 0 27" roty="270" scale="0.6999999 1 0.6999999" />
     <tile name="HELL_GROUND_GROUND_CRACK_A_HALF_NOCOL" pos="52 0 26" roty="48" scale="0.7 1 0.7" />
     <tile name="HELL_ROCK_DEBRIS_SMALL_A" pos="54 0 24" roty="270" />
@@ -2040,5 +2009,6 @@
     <tile name="HELL_NEW_WALL_BACKDROP_CORNER_COLUMN_A_1M_SNAP" pos="106 20 156" roty="90" />
     <tile name="HELL_NEW_WALL_BACKDROP_CORNER_COLUMN_A_1M_SNAP" pos="-52 28 -80" roty="90" />
     <tile name="HELL_NEW_WALL_BACKDROP_INNERCORNER_A_1M_SNAP" pos="-63 29 -80" />
+    <tile name="HELL_ROCK_GAMEPLAY_BLOCKER_WALL_MEDIUM_B" pos="-18 0 52" roty="90" />
   </tiles>
 </template>

@@ -6858,7 +6858,7 @@
 6858: T1_FACTION_STEPPE_TOKEN_1                                        : Beastheart
 6859: T1_FACTION_MOUNTAIN_TOKEN_1                                      : Mountainheart
 6860: T1_FACTION_SWAMP_TOKEN_1                                         : Vineheart
-6861: T1_FACTION_CAERLEON_TOKEN_1                                      : Shadowheart
+6861: T1_FACTION_CAERLEON_TOKEN_1                                      
 6862: T4_LOOTCHEST_CRYSTAL_LEAGUE                                      : Adept's Crystal League Chest
 6863: T5_LOOTCHEST_CRYSTAL_LEAGUE                                      : Expert's Crystal League Chest
 6864: T6_LOOTCHEST_CRYSTAL_LEAGUE                                      : Master's Crystal League Chest

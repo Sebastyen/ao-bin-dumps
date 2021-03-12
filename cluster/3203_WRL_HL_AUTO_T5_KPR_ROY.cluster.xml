@@ -68,7 +68,7 @@
   <templateinstance id="instanceslot_21" ref="S_HL_FactionOutpost" pos="-170 0 -240">
     <activelayer id="Layer_03" />
   </templateinstance>
-  <templateinstance id="instanceslot_22" ref="S_HL_FactionTradingOutpost" pos="0 4 -350" rot="90">
+  <templateinstance id="instanceslot_22" ref="S_HL_FactionTradingOutpost" pos="0 4 -350">
     <activelayer id="Layer_02" />
   </templateinstance>
   <templateinstance id="instanceslot_23" ref="HL_StreetCrossing" pos="30 0 -300">

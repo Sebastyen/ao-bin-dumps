@@ -272,6 +272,7 @@
       "@gainfactor": "0.0055"
     },
     "respawning": {
+      "@minimumRespawnDistanceInMeters": "100",
       "@maximumRespawnDistanceInClusters": "2",
       "@respawnTimeInSeconds": "24",
       "@respawnTimeFallOffInSeconds": "300",

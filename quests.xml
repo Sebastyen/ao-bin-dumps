@@ -1330,7 +1330,7 @@
         <filter faction="Caerleon"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="3" maxdistance="6" />
+        <distancefromquestgiver mindistance="5" maxdistance="6" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -1401,7 +1401,7 @@
         <filter faction="Caerleon"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="3" maxdistance="6" />
+        <distancefromquestgiver mindistance="5" maxdistance="6" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -1429,7 +1429,7 @@
       <maxloadafteritemsreceived maxload="1"/>
     </requirements>
     <costs>
-      <item itemvariable="ITEM_REQUIRED" amount="10"/>
+      <item itemvariable="ITEM_REQUIRED" amount="7"/>
     </costs>
     <tasks>
       <extendedmissionstep applybuff="TRADE_PACK_BUFF_MEDIUM_A">
@@ -1472,7 +1472,7 @@
         <filter faction="Caerleon"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="3" maxdistance="6" />
+        <distancefromquestgiver mindistance="5" maxdistance="6" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -1546,7 +1546,7 @@
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="4" maxdistance="12" />
+        <distancefromquestgiver mindistance="5" maxdistance="7" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -1620,7 +1620,7 @@
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="4" maxdistance="12" />
+        <distancefromquestgiver mindistance="5" maxdistance="7" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -1648,7 +1648,7 @@
       <maxloadafteritemsreceived maxload="1"/>
     </requirements>
     <costs>
-      <item itemvariable="ITEM_REQUIRED" amount="6"/>
+      <item itemvariable="ITEM_REQUIRED" amount="7"/>
     </costs>
     <tasks>
       <extendedmissionstep applybuff="TRADE_PACK_BUFF_MEDIUM_A">
@@ -1695,7 +1695,7 @@
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="4" maxdistance="12" />
+        <distancefromquestgiver mindistance="5" maxdistance="7" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -1723,7 +1723,7 @@
       <maxloadafteritemsreceived maxload="1"/>
     </requirements>
     <costs>
-      <item itemvariable="ITEM_REQUIRED" amount="10"/>
+      <item itemvariable="ITEM_REQUIRED" amount="15"/>
     </costs>
     <tasks>
       <extendedmissionstep applybuff="TRADE_PACK_BUFF_HEAVY_A">
@@ -1771,7 +1771,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="4" maxdistance="6" />
+        <distancefromquestgiver mindistance="4" maxdistance="8" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -1853,7 +1853,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="5" maxdistance="7" />
+        <distancefromquestgiver mindistance="6" maxdistance="9" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -1935,7 +1935,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="6" maxdistance="8" />
+        <distancefromquestgiver mindistance="8" maxdistance="10" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -2017,7 +2017,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="7" maxdistance="10" />
+        <distancefromquestgiver mindistance="10" maxdistance="12" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -2100,7 +2100,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="4" maxdistance="6" />
+        <distancefromquestgiver mindistance="4" maxdistance="8" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -2182,7 +2182,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="5" maxdistance="7" />
+        <distancefromquestgiver mindistance="6" maxdistance="9" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -2264,7 +2264,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="6" maxdistance="8" />
+        <distancefromquestgiver mindistance="8" maxdistance="10" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -2346,7 +2346,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="7" maxdistance="10" />
+        <distancefromquestgiver mindistance="10" maxdistance="12" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -2428,7 +2428,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="4" maxdistance="6" />
+        <distancefromquestgiver mindistance="4" maxdistance="8" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -2510,7 +2510,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="5" maxdistance="7" />
+        <distancefromquestgiver mindistance="6" maxdistance="9" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -2592,7 +2592,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="6" maxdistance="8" />
+        <distancefromquestgiver mindistance="8" maxdistance="10" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">
@@ -2674,7 +2674,7 @@ Light-->
         <filter faction="Mountain"/>
       </dynamicplayerfaction>
       <dynamicquestgiver name="AGENTS_A" factionvariable="FACTION_B" maxcount="999">
-        <distancefromquestgiver mindistance="7" maxdistance="10" />
+        <distancefromquestgiver mindistance="10" maxdistance="12" />
         <questgivertag tag="faction_outside" />
       </dynamicquestgiver>
       <dynamicfactionitem name="ITEM_A" factionvariable="self">

@@ -2436,7 +2436,7 @@
         "@stat": "SA_ST_FACTIONWARFARE_STANDING_MAX",
         "havefactionstanding": {
           "@faction": "any",
-          "@value": "825000"
+          "@value": "330000"
         }
       },
       {

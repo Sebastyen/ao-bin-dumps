@@ -3249,7 +3249,7 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "3",
+              "@mindistance": "5",
               "@maxdistance": "6"
             },
             "questgivertag": {
@@ -3409,7 +3409,7 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "3",
+              "@mindistance": "5",
               "@maxdistance": "6"
             },
             "questgivertag": {
@@ -3495,7 +3495,7 @@
         "costs": {
           "item": {
             "@itemvariable": "ITEM_REQUIRED",
-            "@amount": "10"
+            "@amount": "7"
           }
         },
         "tasks": {
@@ -3569,7 +3569,7 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "3",
+              "@mindistance": "5",
               "@maxdistance": "6"
             },
             "questgivertag": {
@@ -3743,8 +3743,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "4",
-              "@maxdistance": "12"
+              "@mindistance": "5",
+              "@maxdistance": "7"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -3916,8 +3916,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "4",
-              "@maxdistance": "12"
+              "@mindistance": "5",
+              "@maxdistance": "7"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -4002,7 +4002,7 @@
         "costs": {
           "item": {
             "@itemvariable": "ITEM_REQUIRED",
-            "@amount": "6"
+            "@amount": "7"
           }
         },
         "tasks": {
@@ -4089,8 +4089,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "4",
-              "@maxdistance": "12"
+              "@mindistance": "5",
+              "@maxdistance": "7"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -4175,7 +4175,7 @@
         "costs": {
           "item": {
             "@itemvariable": "ITEM_REQUIRED",
-            "@amount": "10"
+            "@amount": "15"
           }
         },
         "tasks": {
@@ -4263,7 +4263,7 @@
             "@maxcount": "999",
             "distancefromquestgiver": {
               "@mindistance": "4",
-              "@maxdistance": "6"
+              "@maxdistance": "8"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -4471,8 +4471,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "5",
-              "@maxdistance": "7"
+              "@mindistance": "6",
+              "@maxdistance": "9"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -4680,8 +4680,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "6",
-              "@maxdistance": "8"
+              "@mindistance": "8",
+              "@maxdistance": "10"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -4889,8 +4889,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "7",
-              "@maxdistance": "10"
+              "@mindistance": "10",
+              "@maxdistance": "12"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -5099,7 +5099,7 @@
             "@maxcount": "999",
             "distancefromquestgiver": {
               "@mindistance": "4",
-              "@maxdistance": "6"
+              "@maxdistance": "8"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -5307,8 +5307,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "5",
-              "@maxdistance": "7"
+              "@mindistance": "6",
+              "@maxdistance": "9"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -5516,8 +5516,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "6",
-              "@maxdistance": "8"
+              "@mindistance": "8",
+              "@maxdistance": "10"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -5725,8 +5725,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "7",
-              "@maxdistance": "10"
+              "@mindistance": "10",
+              "@maxdistance": "12"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -5935,7 +5935,7 @@
             "@maxcount": "999",
             "distancefromquestgiver": {
               "@mindistance": "4",
-              "@maxdistance": "6"
+              "@maxdistance": "8"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -6143,8 +6143,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "5",
-              "@maxdistance": "7"
+              "@mindistance": "6",
+              "@maxdistance": "9"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -6352,8 +6352,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "6",
-              "@maxdistance": "8"
+              "@mindistance": "8",
+              "@maxdistance": "10"
             },
             "questgivertag": {
               "@tag": "faction_outside"
@@ -6561,8 +6561,8 @@
             "@factionvariable": "FACTION_B",
             "@maxcount": "999",
             "distancefromquestgiver": {
-              "@mindistance": "7",
-              "@maxdistance": "10"
+              "@mindistance": "10",
+              "@maxdistance": "12"
             },
             "questgivertag": {
               "@tag": "faction_outside"

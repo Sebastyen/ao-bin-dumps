@@ -919,7 +919,7 @@
   </achievement>
 
   <achievement name="SA_FACTIONWARFARE_STANDING_MAX" stat="SA_ST_FACTIONWARFARE_STANDING_MAX">
-    <havefactionstanding faction="any" value="825000"/>
+    <havefactionstanding faction="any" value="330000"/>
   </achievement>
 
   <achievement name="SA_FACTIONWARFARE_TRADEMISSION_01">

@@ -9,13 +9,10 @@
   <tiles>
     <layergroup name="Mobs">
       <layer id="Layer_01" name="mobs_2v2_01">
-        <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_MAULER" pos="-55.64 0 14.5">
-          <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_SOLO_MAULER" />
-        </tile>
         <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_IMP" pos="31.9 -4 4" roty="270">
           <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_SOLO_IMP" />
         </tile>
-        <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_MAULER" pos="-1.4 0 68.86" roty="136.57">
+        <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_MAULER" pos="-1.4 0 68.86" roty="137">
           <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_SOLO_MAULER" />
         </tile>
         <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_MAULER" pos="29.9 0 95.2" roty="180">
@@ -331,7 +328,7 @@
             </path>
           </mobspawnpoint>
         </tile>
-        <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_HOOK" pos="83.03 4 -19.98" roty="8.22">
+        <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_HOOK" pos="83.03 4 -19.98" roty="8">
           <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_SOLO_HOOK" />
         </tile>
         <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_HOOK" pos="89.24 4 -11.46" rot="0 246.04 0">
@@ -346,11 +343,11 @@
         <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_SENTINEL" pos="60.27 4 82.48" rot="0 18.71 0">
           <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_SOLO_SENTINEL" />
         </tile>
+        <tile name="SpawnPoint_RANDOM_HG_DEMON_SOLO_SPIKED_CORRUPTED" pos="-55.64 0 14.5">
+          <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_SOLO_SPIKED_CORRUPTED" />
+        </tile>
       </layer>
       <layer id="Layer_02" name="mobs_5v5_01">
-        <tile name="SpawnPoint_RANDOM_HG_DEMON_VETERAN_MAULER" pos="-55.64 0 14.5">
-          <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_VETERAN_MAULER" />
-        </tile>
         <tile name="SpawnPoint_RANDOM_HG_DEMON_VETERAN_MAULER" pos="-57.75 0 11.29">
           <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_VETERAN_MAULER" />
         </tile>
@@ -668,6 +665,9 @@
         </tile>
         <tile name="SpawnPoint_RANDOM_HG_DEMON_VETERAN_BRUTE" pos="-45.31 4 -37.02" roty="90">
           <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_VETERAN_BRUTE" />
+        </tile>
+        <tile name="SpawnPoint_RANDOM_HG_DEMON_VETERAN_SPIKED_CORRUPTED" pos="-55.64 0 14.5">
+          <mobspawnpoint behavior="GUARD" spawnbehavior="HG_DEMON_VETERAN_SPIKED_CORRUPTED" />
         </tile>
       </layer>
       <layer id="Layer_03" name="mobs_10v10_01">

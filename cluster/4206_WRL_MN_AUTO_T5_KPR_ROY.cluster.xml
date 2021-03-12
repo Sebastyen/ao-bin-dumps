@@ -48,7 +48,7 @@
   <templateinstance id="instanceslot_15" ref="S_MN_FactionOutpost" pos="0 -8 -240">
     <activelayer id="Layer_03" />
   </templateinstance>
-  <templateinstance id="instanceslot_16" ref="S_MN_FactionTradingOutpost" pos="280 8 280" rot="90">
+  <templateinstance id="instanceslot_16" ref="S_MN_FactionTradingOutpost" pos="280 8 280">
     <activelayer id="Layer_02" />
   </templateinstance>
   <templateinstance id="instanceslot_17" ref="S_MN_FactionOutpost" pos="100 0 280">
