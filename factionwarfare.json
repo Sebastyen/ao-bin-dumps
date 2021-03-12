@@ -173,7 +173,7 @@
     },
     "activityquotient": {
       "@min": "0.75",
-      "@max": "1.5",
+      "@max": "5.0",
       "@perioddays": "7",
       "@interval": "900"
     },

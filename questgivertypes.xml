@@ -228,24 +228,24 @@
    </quest>
   </questgroup>
   <questgroup locatag="@MISSION_GROUP_SWAMP">
-   <quest uniquename="MISSIONS_LIGHT_TRADE_PACK_TO_OUTPOST_DISTANCE_D">
+   <quest uniquename="MISSIONS_LIGHT_TRADE_PACK_TO_OUTPOST_DISTANCE_C">
     <factionvariable name="FACTION_B" value="Swamp" />
    </quest>
-   <quest uniquename="MISSIONS_MEDIUM_TRADE_PACK_TO_OUTPOST_DISTANCE_D">
+   <quest uniquename="MISSIONS_MEDIUM_TRADE_PACK_TO_OUTPOST_DISTANCE_C">
     <factionvariable name="FACTION_B" value="Swamp" />
    </quest>
-   <quest uniquename="MISSIONS_HEAVY_TRADE_PACK_TO_OUTPOST_DISTANCE_D">
+   <quest uniquename="MISSIONS_HEAVY_TRADE_PACK_TO_OUTPOST_DISTANCE_C">
     <factionvariable name="FACTION_B" value="Swamp" />
    </quest>
   </questgroup>
   <questgroup locatag="@MISSION_GROUP_HIGHLAND">
-   <quest uniquename="MISSIONS_LIGHT_TRADE_PACK_TO_OUTPOST_DISTANCE_C">
+   <quest uniquename="MISSIONS_LIGHT_TRADE_PACK_TO_OUTPOST_DISTANCE_D">
     <factionvariable name="FACTION_B" value="Highland" />
    </quest>
-   <quest uniquename="MISSIONS_MEDIUM_TRADE_PACK_TO_OUTPOST_DISTANCE_C">
+   <quest uniquename="MISSIONS_MEDIUM_TRADE_PACK_TO_OUTPOST_DISTANCE_D">
     <factionvariable name="FACTION_B" value="Highland" />
    </quest>
-   <quest uniquename="MISSIONS_HEAVY_TRADE_PACK_TO_OUTPOST_DISTANCE_C">
+   <quest uniquename="MISSIONS_HEAVY_TRADE_PACK_TO_OUTPOST_DISTANCE_D">
     <factionvariable name="FACTION_B" value="Highland" />
    </quest>
   </questgroup>

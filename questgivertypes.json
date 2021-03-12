@@ -475,21 +475,21 @@
             "@locatag": "@MISSION_GROUP_SWAMP",
             "quest": [
               {
-                "@uniquename": "MISSIONS_LIGHT_TRADE_PACK_TO_OUTPOST_DISTANCE_D",
+                "@uniquename": "MISSIONS_LIGHT_TRADE_PACK_TO_OUTPOST_DISTANCE_C",
                 "factionvariable": {
                   "@name": "FACTION_B",
                   "@value": "Swamp"
                 }
               },
               {
-                "@uniquename": "MISSIONS_MEDIUM_TRADE_PACK_TO_OUTPOST_DISTANCE_D",
+                "@uniquename": "MISSIONS_MEDIUM_TRADE_PACK_TO_OUTPOST_DISTANCE_C",
                 "factionvariable": {
                   "@name": "FACTION_B",
                   "@value": "Swamp"
                 }
               },
               {
-                "@uniquename": "MISSIONS_HEAVY_TRADE_PACK_TO_OUTPOST_DISTANCE_D",
+                "@uniquename": "MISSIONS_HEAVY_TRADE_PACK_TO_OUTPOST_DISTANCE_C",
                 "factionvariable": {
                   "@name": "FACTION_B",
                   "@value": "Swamp"
@@ -501,21 +501,21 @@
             "@locatag": "@MISSION_GROUP_HIGHLAND",
             "quest": [
               {
-                "@uniquename": "MISSIONS_LIGHT_TRADE_PACK_TO_OUTPOST_DISTANCE_C",
+                "@uniquename": "MISSIONS_LIGHT_TRADE_PACK_TO_OUTPOST_DISTANCE_D",
                 "factionvariable": {
                   "@name": "FACTION_B",
                   "@value": "Highland"
                 }
               },
               {
-                "@uniquename": "MISSIONS_MEDIUM_TRADE_PACK_TO_OUTPOST_DISTANCE_C",
+                "@uniquename": "MISSIONS_MEDIUM_TRADE_PACK_TO_OUTPOST_DISTANCE_D",
                 "factionvariable": {
                   "@name": "FACTION_B",
                   "@value": "Highland"
                 }
               },
               {
-                "@uniquename": "MISSIONS_HEAVY_TRADE_PACK_TO_OUTPOST_DISTANCE_C",
+                "@uniquename": "MISSIONS_HEAVY_TRADE_PACK_TO_OUTPOST_DISTANCE_D",
                 "factionvariable": {
                   "@name": "FACTION_B",
                   "@value": "Highland"
