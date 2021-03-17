@@ -35,9 +35,9 @@
       
       pvplootchestspawnpoint="HELL_HRD_PVP_NORMAL"
 
-      rewardconstant="1.0"
-      rewardceiling="0.0"
-      rewardscaling="1.0"
+      rewardconstant="583.9552444"
+      rewardceiling="1.0"
+      rewardscaling="0.483"
       ratingscaling="0.5"
 
       infamymin="-0.1" 
@@ -75,9 +75,9 @@
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="241.1029227"
+      rewardconstant="583.9552444"
       rewardceiling="1.0"
-      rewardscaling="0.456"
+      rewardscaling="0.483"
       ratingscaling="0.5"
       
       infamymin="-0.2" 
@@ -113,9 +113,9 @@
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="241.1029227"
+      rewardconstant="583.9552444"
       rewardceiling="1.0"
-      rewardscaling="0.456"
+      rewardscaling="0.483"
       ratingscaling="0.5"
       
       infamymin="-0.4" 
@@ -151,9 +151,9 @@
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="241.1029227"
+      rewardconstant="583.9552444"
       rewardceiling="1.0"
-      rewardscaling="0.456"
+      rewardscaling="0.483"
       ratingscaling="0.5"
       
       infamymin="-0.4" 
@@ -190,9 +190,9 @@
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="115.7369819"
+      rewardconstant="268.3966254"
       rewardceiling="1.0"
-      rewardscaling="0.456"
+      rewardscaling="0.483"
       ratingscaling="0.5"
       
         
@@ -229,9 +229,9 @@
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="115.7369819"
+      rewardconstant="268.3966254"
       rewardceiling="1.0"
-      rewardscaling="0.456"
+      rewardscaling="0.483"
       ratingscaling="0.5"
       
       infamymin="-0.4" 
@@ -267,9 +267,9 @@
       finalarearestrictionvelocity="0.2"
       finalarearestrictionbreak="120"
 
-      rewardconstant="115.7369819"
+      rewardconstant="268.3966254"
       rewardceiling="1.0"
-      rewardscaling="0.456"
+      rewardscaling="0.483"
       ratingscaling="0.5"
       
       infamymin="-0.4" 
