@@ -140,7 +140,7 @@
       
       pvplootchestspawnpoint="HELL_HRD_PVP_ELITE"
       pointsrequirement="500"
-      itempowerrequirement="1200"
+      itempowerrequirement="1100"
       mapset="10v10"
       
       arearestrictiondelay="90"
