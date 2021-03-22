@@ -341,7 +341,7 @@
         "rewardtrigger": [
           {
             "@id": "FACTIONCAMPAIGN_TRIGGER_DAILY_01",
-            "@pointrequirement": "5000",
+            "@pointrequirement": "1250",
             "rewards": {
               "standingreward": {
                 "@id": "FACTIONCAMPAIGN_REWARD_DAILY_01",
@@ -354,7 +354,7 @@
           },
           {
             "@id": "FACTIONCAMPAIGN_TRIGGER_DAILY_02",
-            "@pointrequirement": "10000",
+            "@pointrequirement": "2500",
             "rewards": {
               "standingreward": {
                 "@id": "FACTIONCAMPAIGN_REWARD_DAILY_02",
@@ -367,7 +367,7 @@
           },
           {
             "@id": "FACTIONCAMPAIGN_REWARD_DAILY_03",
-            "@pointrequirement": "20000",
+            "@pointrequirement": "5000",
             "rewards": {
               "standingreward": {
                 "@id": "FACTIONCAMPAIGN_TRIGGER_DAILY_03",
@@ -385,7 +385,7 @@
           {
             "@id": "FACTIONCAMPAIGN_TRIGGER_01",
             "@unlockday": "0",
-            "@pointrequirement": "50000",
+            "@pointrequirement": "25000",
             "rewards": {
               "itemreward": {
                 "@id": "FACTIONCAMPAIGN_REWARD_01",
@@ -404,7 +404,7 @@
           {
             "@id": "FACTIONCAMPAIGN_TRIGGER_02",
             "@unlockday": "7",
-            "@pointrequirement": "100000",
+            "@pointrequirement": "50000",
             "rewards": {
               "itemreward": {
                 "@id": "FACTIONCAMPAIGN_REWARD_02",
@@ -423,7 +423,7 @@
           {
             "@id": "FACTIONCAMPAIGN_TRIGGER_03",
             "@unlockday": "14",
-            "@pointrequirement": "150000",
+            "@pointrequirement": "75000",
             "rewards": {
               "itemreward": {
                 "@id": "FACTIONCAMPAIGN_REWARD_03",
@@ -440,12 +440,12 @@
             }
           },
           {
-            "@id": "FACTIONCAMPAIGN_TRIGGER_03",
+            "@id": "FACTIONCAMPAIGN_TRIGGER_04",
             "@unlockday": "21",
-            "@pointrequirement": "200000",
+            "@pointrequirement": "100000",
             "rewards": {
               "itemreward": {
-                "@id": "FACTIONCAMPAIGN_REWARD_03",
+                "@id": "FACTIONCAMPAIGN_REWARD_04",
                 "@highlanditem": "UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_04",
                 "@steppeitem": "UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_04",
                 "@forestitem": "UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_04",

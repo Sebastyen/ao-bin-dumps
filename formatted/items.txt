@@ -7390,13 +7390,13 @@
 7390: UNIQUE_SHOES_VANITY_BARBARIAN                                    : Barbarian's Boots
 7391: UNIQUE_CAPE_VANITY_BARBARIAN                                     : Barbarian's Cape
 7392: SKIN_DIREWOLF_BARBARIAN                                          : War Beast
-7393: UNIQUE_HEAD_VANITY_SOULKEEPER                                    
-7394: UNIQUE_ARMOR_VANITY_SOULKEEPER                                   
-7395: UNIQUE_SHOES_VANITY_SOULKEEPER                                   
-7396: UNIQUE_CAPE_VANITY_SOULKEEPER                                    
-7397: UNIQUE_VANITY_2H_PHYLACTERY_SOULKEEPER                           
-7398: SKIN_STAG_SOULKEEPER                                             
-7399: SKIN_HORSE_HELL                                                  
+7393: UNIQUE_HEAD_VANITY_SOULKEEPER                                    : Keeper of Souls Cowl
+7394: UNIQUE_ARMOR_VANITY_SOULKEEPER                                   : Keeper of Souls Armor
+7395: UNIQUE_SHOES_VANITY_SOULKEEPER                                   : Keeper of Souls Boots
+7396: UNIQUE_CAPE_VANITY_SOULKEEPER                                    : Keeper of Souls Cape
+7397: UNIQUE_VANITY_2H_PHYLACTERY_SOULKEEPER                           : Phylactery of Souls
+7398: SKIN_STAG_SOULKEEPER                                             : Keeper of Souls Stag
+7399: SKIN_HORSE_HELL                                                  : Hell Mare
 7400: T7_MAIN_SUMMONERSTAFF_PROTOTYPE                                  
 7401: T7_MAIN_SUMMONERSTAFF_PROTOTYPE@1                                
 7402: T7_MAIN_SUMMONERSTAFF_PROTOTYPE@2                                

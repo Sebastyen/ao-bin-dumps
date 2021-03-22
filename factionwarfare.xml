@@ -105,46 +105,46 @@
   <!-- campaign -->
   <factioncampaign>
     <dailyrewards>
-      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_DAILY_01" pointrequirement="5000">
+      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_DAILY_01" pointrequirement="1250">
         <rewards>
           <standingreward id="FACTIONCAMPAIGN_REWARD_DAILY_01" amount="1250" boughtpremium="false" premium="false" nonpremium="false"/>
         </rewards>
       </rewardtrigger>
 
-      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_DAILY_02" pointrequirement="10000">
+      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_DAILY_02" pointrequirement="2500">
         <rewards>
           <standingreward id="FACTIONCAMPAIGN_REWARD_DAILY_02" amount="2500" boughtpremium="false" premium="false" nonpremium="false"/>
         </rewards>
       </rewardtrigger>
 
-      <rewardtrigger id="FACTIONCAMPAIGN_REWARD_DAILY_03" pointrequirement="20000">
+      <rewardtrigger id="FACTIONCAMPAIGN_REWARD_DAILY_03" pointrequirement="5000">
         <rewards>
           <standingreward id="FACTIONCAMPAIGN_TRIGGER_DAILY_03" amount="5000" boughtpremium="false" premium="false" nonpremium="false"/>
         </rewards>
       </rewardtrigger>
     </dailyrewards>
     <campaignrewards>
-      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_01" unlockday="0" pointrequirement="50000">
+      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_01" unlockday="0" pointrequirement="25000">
         <rewards>
           <itemreward id="FACTIONCAMPAIGN_REWARD_01" highlanditem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_01" steppeitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_01" forestitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_01" mountainitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_01" swampitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_01" caerleonitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_01" boughtpremium="true" premium="false" nonpremium="false"/>
         </rewards>
       </rewardtrigger>
 
-      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_02" unlockday="7" pointrequirement="100000">
+      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_02" unlockday="7" pointrequirement="50000">
         <rewards>
           <itemreward id="FACTIONCAMPAIGN_REWARD_02" highlanditem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_02" steppeitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_02" forestitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_02" mountainitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_02" swampitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_02" caerleonitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_02" boughtpremium="true" premium="false" nonpremium="false"/>
         </rewards>
       </rewardtrigger>
 
-      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_03" unlockday="14" pointrequirement="150000">
+      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_03" unlockday="14" pointrequirement="75000">
         <rewards>
           <itemreward id="FACTIONCAMPAIGN_REWARD_03" highlanditem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_03" steppeitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_03" forestitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_03" mountainitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_03" swampitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_03" caerleonitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_03" boughtpremium="true" premium="false" nonpremium="false"/>
         </rewards>
       </rewardtrigger>
 
-      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_03" unlockday="21" pointrequirement="200000">
+      <rewardtrigger id="FACTIONCAMPAIGN_TRIGGER_04" unlockday="21" pointrequirement="100000">
         <rewards>
-          <itemreward id="FACTIONCAMPAIGN_REWARD_03" highlanditem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_04" steppeitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_04" forestitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_04" mountainitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_04" swampitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_04" caerleonitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_04" boughtpremium="true" premium="false" nonpremium="false"/>
+          <itemreward id="FACTIONCAMPAIGN_REWARD_04" highlanditem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_HIGHLAND_04" steppeitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_STEPPE_04" forestitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_FOREST_04" mountainitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_MOUNTAIN_04" swampitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_SWAMP_04" caerleonitem="UNIQUE_LOOTCHEST_FACTIONCAMPAIGN_REWARD_CAERLEON_04" boughtpremium="true" premium="false" nonpremium="false"/>
         </rewards>
       </rewardtrigger>
     </campaignrewards>
