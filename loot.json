@@ -19082,7 +19082,7 @@
       {
         "@name": "MOB_GIANTSTAG_RARE_LOOT",
         "Item": {
-          "@type": "T6_FARM_GIANTSTAG_BABY",
+          "@type": "T6_FARM_GIANTSTAG_MOOSE_BABY",
           "@amount": "1"
         }
       },

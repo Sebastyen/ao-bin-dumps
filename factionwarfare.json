@@ -139,9 +139,9 @@
     },
     "global": {
       "@bonuspointmodifier": "0.25",
-      "@killbonuspointmodifier": "0.6",
+      "@killbonuspointmodifier": "0.25",
       "@killvalue": "0.05",
-      "@maxkillvalue": "300",
+      "@maxkillvalue": "500",
       "@killatrophy": "0.2",
       "@defensecap": "10000",
       "@payoutinterval": "900",
