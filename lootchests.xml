@@ -930,8 +930,8 @@
         <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="2.334761" />
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.008234" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="44.542097" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.121836" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="1.843834" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.121836" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.843834" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -945,8 +945,8 @@
         <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="4.669521" />
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.016468" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="89.084195" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.243672" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="3.687667" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.243672" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="3.687667" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -960,8 +960,8 @@
         <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="9.339043" />
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.032936" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="178.16839" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.487344" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="7.375334" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.487344" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="7.375334" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -975,8 +975,8 @@
         <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="18.678091" />
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.065872" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="356.336895" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.974689" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="14.750674" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.974689" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="14.750674" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -990,8 +990,8 @@
         <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="9.339043" />
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.032936" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="178.16839" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.487344" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="7.375334" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.487344" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="7.375334" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -1005,8 +1005,8 @@
         <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="18.678091" />
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.065872" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="356.336895" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.974689" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="14.750674" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.974689" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="14.750674" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -1020,8 +1020,8 @@
         <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="37.356183" />
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.131745" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="712.673789" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.949378" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="29.501347" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="1.949378" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="29.501347" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -1035,8 +1035,8 @@
         <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="10.174243" />
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.023735" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="128.381524" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.351164" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="5.314141" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.351164" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="5.314141" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -1049,8 +1049,8 @@
         <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="20.348486" />
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.047469" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="256.763048" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="0.702328" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="10.628283" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="0.702328" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="10.628283" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -1063,8 +1063,8 @@
         <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="40.696972" />
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.094938" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="513.526095" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.404656" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="21.256565" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="1.404656" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="21.256565" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -1078,8 +1078,8 @@
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.189877" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="999" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="28.052521" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="2.809313" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="42.513144" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="2.809313" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="42.513144" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -1092,8 +1092,8 @@
         <LootListReference name="T8_DIRECTLOOTDROP_WHITE" chance="40.696972" />
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.094938" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="513.526095" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="1.404656" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="21.256565" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="1.404656" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="21.256565" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -1107,8 +1107,8 @@
         <LootListReference name="T6_LOOT_EXPEDITION_TOKEN" chance="0.189877" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="999" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="28.052521" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="2.809313" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="42.513144" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="2.809313" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="42.513144" />
       </LootByTier>
     </Loot>
   </LootChest>
@@ -1124,8 +1124,8 @@
         <LootListReference name="T6_FRAGMENT_LOOT" chance="999" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="999" />
         <LootListReference name="T6_FRAGMENT_LOOT" chance="56.105043" />
-        <LootListReference name="TREASURES_STANDARD_LOOT" chance="5.618627" />
-        <LootListReference name="T6_LOOT_RD_TOKEN" chance="85.026289" />
+        <LootListReference name="T6_LOOT_RD_TOKEN" chance="5.618627" />
+        <LootListReference name="TREASURES_STANDARD_LOOT" chance="85.026289" />
       </LootByTier>
     </Loot>
   </LootChest>

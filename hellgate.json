@@ -126,7 +126,7 @@
           "@teamamount": "2",
           "@pvplootchestspawnpoint": "HELL_HRD_PVP_ELITE",
           "@pointsrequirement": "500",
-          "@itempowerrequirement": "1100",
+          "@itempowerrequirement": "1000",
           "@mapset": "10v10",
           "@arearestrictiondelay": "90",
           "@arearestrictionvelocity": "0.30",

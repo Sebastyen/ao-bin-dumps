@@ -3452,11 +3452,11 @@
                 "@chance": "44.542097"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "0.121836"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "1.843834"
               }
             ]
@@ -3508,11 +3508,11 @@
                 "@chance": "89.084195"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "0.243672"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "3.687667"
               }
             ]
@@ -3564,11 +3564,11 @@
                 "@chance": "178.16839"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "0.487344"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "7.375334"
               }
             ]
@@ -3620,11 +3620,11 @@
                 "@chance": "356.336895"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "0.974689"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "14.750674"
               }
             ]
@@ -3676,11 +3676,11 @@
                 "@chance": "178.16839"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "0.487344"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "7.375334"
               }
             ]
@@ -3732,11 +3732,11 @@
                 "@chance": "356.336895"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "0.974689"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "14.750674"
               }
             ]
@@ -3788,11 +3788,11 @@
                 "@chance": "712.673789"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "1.949378"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "29.501347"
               }
             ]
@@ -3840,11 +3840,11 @@
                 "@chance": "128.381524"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "0.351164"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "5.314141"
               }
             ]
@@ -3892,11 +3892,11 @@
                 "@chance": "256.763048"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "0.702328"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "10.628283"
               }
             ]
@@ -3944,11 +3944,11 @@
                 "@chance": "513.526095"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "1.404656"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "21.256565"
               }
             ]
@@ -4000,11 +4000,11 @@
                 "@chance": "28.052521"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "2.809313"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "42.513144"
               }
             ]
@@ -4052,11 +4052,11 @@
                 "@chance": "513.526095"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "1.404656"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "21.256565"
               }
             ]
@@ -4108,11 +4108,11 @@
                 "@chance": "28.052521"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "2.809313"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "42.513144"
               }
             ]
@@ -4172,11 +4172,11 @@
                 "@chance": "56.105043"
               },
               {
-                "@name": "TREASURES_STANDARD_LOOT",
+                "@name": "T6_LOOT_RD_TOKEN",
                 "@chance": "5.618627"
               },
               {
-                "@name": "T6_LOOT_RD_TOKEN",
+                "@name": "TREASURES_STANDARD_LOOT",
                 "@chance": "85.026289"
               }
             ]
