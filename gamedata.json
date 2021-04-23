@@ -810,7 +810,7 @@
           "@horn": "0",
           "@cane": "0",
           "@lamp": "0",
-          "@talisman": "2.50",
+          "@talisman": "1.2",
           "@book": "0",
           "@orb": "0",
           "@demonskull": "0",
@@ -1850,6 +1850,9 @@
       },
       "DuelAreaRadius": {
         "@value": "25"
+      },
+      "DuelMaxAllowedHeightDifference": {
+        "@value": "5"
       },
       "AcceptDuelCountDownInSeconds": {
         "@value": "13"
@@ -3924,35 +3927,6 @@
     },
     "PersonalStatement": {
       "@characterlimit": "270"
-    },
-    "FeaturedFeature": {
-      "FeatureDetail": [
-        {
-          "@id": "SoulKeeperBundle",
-          "@utcstartdate": "2021-04-21T10:15:00",
-          "@utcenddate": "2022-02-10T10:00:00",
-          "@showad": "SoulKeeperBundle",
-          "@showcount": "1",
-          "@counttype": "peraccount"
-        },
-        {
-          "@id": "LuxuryCart",
-          "@utcstartdate": "2021-04-01T10:15:00",
-          "@utcenddate": "2021-06-01T10:00:00",
-          "@showad": "LuxuryCart",
-          "@showcount": "1",
-          "@counttype": "peraccount"
-        },
-        {
-          "@id": "extragoldnative2",
-          "@utcstartdate": "2020-11-04T10:15:00",
-          "@utcenddate": "2020-12-31T10:00:00",
-          "@showhint": "EXTRA_GOLD_ON_NATIVE",
-          "@showcount": "2",
-          "@nativeonly": "true",
-          "@counttype": "peraccount"
-        }
-      ]
     },
     "SiegeCampBank": {
       "@size": "64",

@@ -27,7 +27,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_STD_PVP_NORMAL_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+  <LootChest uniquename="HELL_STD_PVP_NORMAL_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON" groupfame="8500">
     <Loot>
       <LootByTier tier="5">
         <Item type="T1_SILVERBAG_NONTRADABLE" chance="1.216736" />
@@ -47,7 +47,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_STD_PVP_NORMAL_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+  <LootChest uniquename="HELL_STD_PVP_NORMAL_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE" groupfame="17000">
     <Loot>
       <LootByTier tier="5">
         <Item type="T1_SILVERBAG_NONTRADABLE" chance="2.43347" />
@@ -67,7 +67,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_STD_PVP_NORMAL_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+  <LootChest uniquename="HELL_STD_PVP_NORMAL_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY" groupfame="34000">
     <Loot>
       <LootByTier tier="5">
         <Item type="T1_SILVERBAG_NONTRADABLE" chance="4.866941" />
@@ -108,7 +108,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_STD_PVP_VETERAN_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+  <LootChest uniquename="HELL_STD_PVP_VETERAN_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON" groupfame="25500">
     <Loot>
       <LootByTier tier="5">
         <Item type="T1_SILVERBAG_NONTRADABLE" chance="4.500335" />
@@ -128,7 +128,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_STD_PVP_VETERAN_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+  <LootChest uniquename="HELL_STD_PVP_VETERAN_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE" groupfame="51100">
     <Loot>
       <LootByTier tier="5">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="9.000665" />
@@ -148,7 +148,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_STD_PVP_VETERAN_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+  <LootChest uniquename="HELL_STD_PVP_VETERAN_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY" groupfame="102200">
     <Loot>
       <LootByTier tier="5">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="18.001336" />
@@ -189,7 +189,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_STD_PVP_ELITE_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+  <LootChest uniquename="HELL_STD_PVP_ELITE_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON" groupfame="83800">
     <Loot>
       <LootByTier tier="5">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="11.917663" />
@@ -209,7 +209,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_STD_PVP_ELITE_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+  <LootChest uniquename="HELL_STD_PVP_ELITE_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE" groupfame="167600">
     <Loot>
       <LootByTier tier="5">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="23.83531" />
@@ -229,7 +229,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_STD_PVP_ELITE_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+  <LootChest uniquename="HELL_STD_PVP_ELITE_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY" groupfame="335100">
     <Loot>
       <LootByTier tier="5">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="4.767064" />
@@ -269,7 +269,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_HRD_PVP_NORMAL_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+  <LootChest uniquename="HELL_HRD_PVP_NORMAL_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON" groupfame="17600">
     <Loot>
       <LootByTier tier="6">
         <Item type="T1_SILVERBAG_NONTRADABLE" chance="3.894879" />
@@ -288,7 +288,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_HRD_PVP_NORMAL_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+  <LootChest uniquename="HELL_HRD_PVP_NORMAL_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE" groupfame="35100">
     <Loot>
       <LootByTier tier="6">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="0.778975" />
@@ -307,7 +307,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_HRD_PVP_NORMAL_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+  <LootChest uniquename="HELL_HRD_PVP_NORMAL_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY" groupfame="70200">
     <Loot>
       <LootByTier tier="6">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="1.557951" />
@@ -346,7 +346,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_HRD_PVP_VETERAN_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+  <LootChest uniquename="HELL_HRD_PVP_VETERAN_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON" groupfame="42300">
     <Loot>
       <LootByTier tier="7">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="3.622128" />
@@ -365,7 +365,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_HRD_PVP_VETERAN_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+  <LootChest uniquename="HELL_HRD_PVP_VETERAN_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE" groupfame="84600">
     <Loot>
       <LootByTier tier="7">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="7.244252" />
@@ -384,7 +384,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_HRD_PVP_VETERAN_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+  <LootChest uniquename="HELL_HRD_PVP_VETERAN_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY" groupfame="169300">
     <Loot>
       <LootByTier tier="7">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="14.488509" />
@@ -422,7 +422,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_HRD_PVP_ELITE_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON">
+  <LootChest uniquename="HELL_HRD_PVP_ELITE_UNCOMMON" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@HELL_CHEST_UNCOMMON" groupfame="173700">
     <Loot>
       <LootByTier tier="8">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="17.734813" />
@@ -440,7 +440,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_HRD_PVP_ELITE_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE">
+  <LootChest uniquename="HELL_HRD_PVP_ELITE_RARE" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@HELL_CHEST_RARE" groupfame="347400">
     <Loot>
       <LootByTier tier="8">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="35.469603" />
@@ -459,7 +459,7 @@
       </LootByTier>
     </Loot>
   </LootChest>
-  <LootChest uniquename="HELL_HRD_PVP_ELITE_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY">
+  <LootChest uniquename="HELL_HRD_PVP_ELITE_LEGENDARY" avatar="CD_LOOTCHEST_DEMON" faction="PVP" maximumwatchersallowed="10" alertradius="10" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@HELL_CHEST_LEGENDARY" groupfame="694800">
     <Loot>
       <LootByTier tier="8">
         <Item type="T4_SILVERBAG_NONTRADABLE" chance="70.93923" />
@@ -3797,6 +3797,9 @@
   <!--Heretic-->
   <LootChest uniquename="HERETIC_SOLO_BOOKCHEST_STANDARD" avatar="RD_BOOKCHEST" faction="HERETIC" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@BOOKCHEST_NAME_STANDARD">
     <Loot>
+      <LootByTier tier="2">
+        <Item type="T1_SKILLBOOK_NONTRADABLE" chance="0.8"/>
+      </LootByTier>
       <LootByTier tier="3">
         <Item type="T1_SKILLBOOK_NONTRADABLE" chance="0.8"/>
       </LootByTier>
@@ -3819,6 +3822,9 @@
   </LootChest>
   <LootChest uniquename="HERETIC_SOLO_BOOKCHEST_UNCOMMON" avatar="RD_BOOKCHEST" faction="HERETIC" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@BOOKCHEST_NAME_UNCOMMON">
     <Loot>
+      <LootByTier tier="2">
+        <Item type="T1_SKILLBOOK_NONTRADABLE" chance="1.466484"/>
+      </LootByTier>
       <LootByTier tier="3">
         <Item type="T1_SKILLBOOK_NONTRADABLE" chance="1.466484"/>
       </LootByTier>
@@ -3841,6 +3847,9 @@
   </LootChest>
   <LootChest uniquename="HERETIC_SOLO_BOOKCHEST_RARE" avatar="RD_BOOKCHEST" faction="HERETIC" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@BOOKCHEST_NAME_RARE">
     <Loot>
+      <LootByTier tier="2">
+        <Item type="T1_SKILLBOOK_NONTRADABLE" chance="4.399452"/>
+      </LootByTier>
       <LootByTier tier="3">
         <Item type="T1_SKILLBOOK_NONTRADABLE" chance="4.399452"/>
       </LootByTier>
@@ -3863,6 +3872,9 @@
   </LootChest>
   <LootChest uniquename="HERETIC_SOLO_BOOKCHEST_LEGENDARY" avatar="RD_BOOKCHEST" faction="HERETIC" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@BOOKCHEST_NAME_LEGENDARY">
     <Loot>
+      <LootByTier tier="2">
+        <Item type="T1_SKILLBOOK_NONTRADABLE" chance="8.691482"/>
+      </LootByTier>
       <LootByTier tier="3">
         <Item type="T1_SKILLBOOK_NONTRADABLE" chance="8.691482"/>
       </LootByTier>
@@ -5032,6 +5044,12 @@
   <LootChest uniquename="HERETIC_SOLO_CHEST_BOSS_UNCOMMON" avatar="RD_CHEST_BOSS" faction="HERETIC" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST_SOLO" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@LOOTCHEST_NAME_UNCOMMON">
     <Loot>
       <LootListReference name="HERETIC_SOLO_BOSS_LOOT" chance="0.52"/>
+      <LootByTier tier="2">
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="0.8"/>
+        <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.000296"/>
+
+        <LootListReference name="T2_RANDOM_DUNGEON_UNCOMMON"/>
+      </LootByTier>
       <LootByTier tier="3">
         <Item type="T1_SILVERBAG_NONTRADABLE" chance="0.867075"/>
         <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.000321"/>
@@ -5073,6 +5091,11 @@
   <LootChest uniquename="HERETIC_SOLO_CHEST_BOSS_RARE" avatar="RD_CHEST_BOSS" faction="HERETIC" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST_SOLO" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@LOOTCHEST_NAME_RARE">
     <Loot>
       <LootListReference name="HERETIC_SOLO_BOSS_LOOT" chance="1.74"/>
+      <LootByTier tier="2">
+        <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.000513"/>
+
+        <LootListReference name="T2_RANDOM_DUNGEON_RARE"/>
+      </LootByTier>
       <LootByTier tier="3">
         <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.000963"/>
 
@@ -5113,6 +5136,11 @@
   <LootChest uniquename="HERETIC_SOLO_CHEST_BOSS_LEGENDARY" avatar="RD_CHEST_BOSS" faction="HERETIC" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST_SOLO" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@LOOTCHEST_NAME_LEGENDARY">
     <Loot>
       <LootListReference name="HERETIC_SOLO_BOSS_LOOT" chance="6.96"/>
+      <LootByTier tier="2">
+        <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.001368"/>
+
+        <LootListReference name="T2_RANDOM_DUNGEON_LEGENDARY"/>
+      </LootByTier>
       <LootByTier tier="3">
         <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.002569"/>
 
@@ -5153,6 +5181,12 @@
   <!--normal-->
   <LootChest uniquename="HERETIC_SOLO_CHEST_STANDARD" avatar="RD_CHEST_BOSS" faction="HERETIC" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST_SOLO" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_standard" spawnsoundevent="Play_spawn_loot_standard" namelocatag="@LOOTCHEST_NAME_STANDARD">
     <Loot>
+      <LootByTier tier="2">
+        <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.000296"/>
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="0.8"/>
+
+        <LootListReference name="T2_RANDOM_DUNGEON_STANDARD"/>
+      </LootByTier>
       <LootByTier tier="3">
         <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.000296"/>
         <Item type="T1_SILVERBAG_NONTRADABLE" chance="0.8"/>
@@ -5197,6 +5231,12 @@
   </LootChest>
   <LootChest uniquename="HERETIC_SOLO_CHEST_UNCOMMON" avatar="RD_CHEST_BOSS" faction="HERETIC" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST_SOLO" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_uncommon" spawnsoundevent="Play_spawn_loot_uncommon" namelocatag="@LOOTCHEST_NAME_UNCOMMON">
     <Loot>
+      <LootByTier tier="2">
+        <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.000296"/>
+        <Item type="T1_SILVERBAG_NONTRADABLE" chance="0.8"/>
+
+        <LootListReference name="T2_RANDOM_DUNGEON_UNCOMMON"/>
+      </LootByTier>
       <LootByTier tier="3">
         <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.000321"/>
         <Item type="T1_SILVERBAG_NONTRADABLE" chance="0.867075"/>
@@ -5237,6 +5277,11 @@
   </LootChest>
   <LootChest uniquename="HERETIC_SOLO_CHEST_RARE" avatar="RD_CHEST_BOSS" faction="HERETIC" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST_SOLO" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_rare" spawnsoundevent="Play_spawn_loot_rare" namelocatag="@LOOTCHEST_NAME_RARE">
     <Loot>
+      <LootByTier tier="2">
+        <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.000513"/>
+
+        <LootListReference name="T2_RANDOM_DUNGEON_RARE"/>
+      </LootByTier>
       <LootByTier tier="3">
         <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.000963"/>
 
@@ -5276,6 +5321,11 @@
   </LootChest>
   <LootChest uniquename="HERETIC_SOLO_CHEST_LEGENDARY" avatar="RD_CHEST_BOSS" faction="HERETIC" maximumwatchersallowed="5" alertradius="20" spell="OPEN_LOOTCHEST_SOLO" respawntimesecondsmin="84000" respawntimesecondsmax="84000" opensoundevent="Play_open_chest_legendary" spawnsoundevent="Play_spawn_loot_legendary" namelocatag="@LOOTCHEST_NAME_LEGENDARY">
     <Loot>
+      <LootByTier tier="2">
+        <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.001368"/>
+
+        <LootListReference name="T2_RANDOM_DUNGEON_LEGENDARY"/>
+      </LootByTier>
       <LootByTier tier="3">
         <LootListReference name="LOOT_HERETIC_FURNITURE" chance="0.002569"/>
 

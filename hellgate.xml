@@ -7,6 +7,7 @@
     individualchanneltime="3.0"
     mobdespawndelay="2.4"
     mobdespawnspell="HELLGATE_MOBDESPAWN_SPELL"
+    pvpmatchstartspell="HELLGATE_MATCH_START_SPELL"
     enteringstarteffectprefab="FX/ClientPrefabs/fx_hellgate_cast_loop"
     enteringsuccesseffectprefab="FX/ClientPrefabs/fx_hellgate_teleport"
     exitprefab="Prefabs/ENV_PREFABS/SHARED/BUILDINGS/PORTALS/SHARED_HELLGATE_DUNGEON_EXIT_10x10_PORTAL_02"

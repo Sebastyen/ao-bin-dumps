@@ -105,10 +105,13 @@
       <Vfx prefabName="FX/ClientPrefabs/fx_mount_direwolf_barbarian_01_eyes_glow" />
     </AssetVfx>
   </AssetVfxInfo>
-    <AssetVfxInfo uniquename="UNIQUE_MOUNT_UNIQUE_MOUNT_STAG_SOULKEEPER">
+    <AssetVfxInfo uniquename="UNIQUE_MOUNT_STAG_SOULKEEPER">
     <AssetVfx socketname="head_mount">
       <Vfx prefabName="FX/ClientPrefabs/fx_mount_stag_soulkeeper_01_eyes_glow" />
     </AssetVfx>
+    <AssetVfx socketname="lantern">
+      <Vfx prefabName="FX/ClientPrefabs/fx_mount_stag_soulkeeper_01_phylactery" />
+    </AssetVfx> 
   </AssetVfxInfo>
   <AssetVfxInfo uniquename="UNIQUE_MOUNT_ARMORED_HORSE_MARE">
     <AssetVfx socketname="head_mount">
@@ -119,6 +122,11 @@
     </AssetVfx>
     <AssetVfx socketname="tail">
       <Vfx prefabName="FX/ClientPrefabs/fx_mount_horse_hell_mere_01_tail" />
+    </AssetVfx>
+  </AssetVfxInfo>
+  <AssetVfxInfo uniquename="UNIQUE_MOUNT_COUGAR_DARK">
+    <AssetVfx socketname="head_mount">
+      <Vfx prefabName="FX/ClientPrefabs/fx_mount_cougar_dark_01_head" />
     </AssetVfx>
   </AssetVfxInfo>
   <AssetVfxInfo uniquename="MOUNT_ARMORED_HORSE_UNDEAD">

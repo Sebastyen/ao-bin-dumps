@@ -95,6 +95,7 @@
         "@opensoundevent": "Play_open_chest_uncommon",
         "@spawnsoundevent": "Play_spawn_loot_uncommon",
         "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "@groupfame": "8500",
         "Loot": {
           "LootByTier": {
             "@tier": "5",
@@ -171,6 +172,7 @@
         "@opensoundevent": "Play_open_chest_rare",
         "@spawnsoundevent": "Play_spawn_loot_rare",
         "@namelocatag": "@HELL_CHEST_RARE",
+        "@groupfame": "17000",
         "Loot": {
           "LootByTier": {
             "@tier": "5",
@@ -247,6 +249,7 @@
         "@opensoundevent": "Play_open_chest_legendary",
         "@spawnsoundevent": "Play_spawn_loot_legendary",
         "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "@groupfame": "34000",
         "Loot": {
           "LootByTier": {
             "@tier": "5",
@@ -399,6 +402,7 @@
         "@opensoundevent": "Play_open_chest_uncommon",
         "@spawnsoundevent": "Play_spawn_loot_uncommon",
         "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "@groupfame": "25500",
         "Loot": {
           "LootByTier": {
             "@tier": "5",
@@ -475,6 +479,7 @@
         "@opensoundevent": "Play_open_chest_rare",
         "@spawnsoundevent": "Play_spawn_loot_rare",
         "@namelocatag": "@HELL_CHEST_RARE",
+        "@groupfame": "51100",
         "Loot": {
           "LootByTier": {
             "@tier": "5",
@@ -551,6 +556,7 @@
         "@opensoundevent": "Play_open_chest_legendary",
         "@spawnsoundevent": "Play_spawn_loot_legendary",
         "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "@groupfame": "102200",
         "Loot": {
           "LootByTier": {
             "@tier": "5",
@@ -703,6 +709,7 @@
         "@opensoundevent": "Play_open_chest_uncommon",
         "@spawnsoundevent": "Play_spawn_loot_uncommon",
         "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "@groupfame": "83800",
         "Loot": {
           "LootByTier": {
             "@tier": "5",
@@ -779,6 +786,7 @@
         "@opensoundevent": "Play_open_chest_rare",
         "@spawnsoundevent": "Play_spawn_loot_rare",
         "@namelocatag": "@HELL_CHEST_RARE",
+        "@groupfame": "167600",
         "Loot": {
           "LootByTier": {
             "@tier": "5",
@@ -855,6 +863,7 @@
         "@opensoundevent": "Play_open_chest_legendary",
         "@spawnsoundevent": "Play_spawn_loot_legendary",
         "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "@groupfame": "335100",
         "Loot": {
           "LootByTier": {
             "@tier": "5",
@@ -1003,6 +1012,7 @@
         "@opensoundevent": "Play_open_chest_uncommon",
         "@spawnsoundevent": "Play_spawn_loot_uncommon",
         "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "@groupfame": "17600",
         "Loot": {
           "LootByTier": {
             "@tier": "6",
@@ -1075,6 +1085,7 @@
         "@opensoundevent": "Play_open_chest_rare",
         "@spawnsoundevent": "Play_spawn_loot_rare",
         "@namelocatag": "@HELL_CHEST_RARE",
+        "@groupfame": "35100",
         "Loot": {
           "LootByTier": {
             "@tier": "6",
@@ -1147,6 +1158,7 @@
         "@opensoundevent": "Play_open_chest_legendary",
         "@spawnsoundevent": "Play_spawn_loot_legendary",
         "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "@groupfame": "70200",
         "Loot": {
           "LootByTier": {
             "@tier": "6",
@@ -1291,6 +1303,7 @@
         "@opensoundevent": "Play_open_chest_uncommon",
         "@spawnsoundevent": "Play_spawn_loot_uncommon",
         "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "@groupfame": "42300",
         "Loot": {
           "LootByTier": {
             "@tier": "7",
@@ -1363,6 +1376,7 @@
         "@opensoundevent": "Play_open_chest_rare",
         "@spawnsoundevent": "Play_spawn_loot_rare",
         "@namelocatag": "@HELL_CHEST_RARE",
+        "@groupfame": "84600",
         "Loot": {
           "LootByTier": {
             "@tier": "7",
@@ -1435,6 +1449,7 @@
         "@opensoundevent": "Play_open_chest_legendary",
         "@spawnsoundevent": "Play_spawn_loot_legendary",
         "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "@groupfame": "169300",
         "Loot": {
           "LootByTier": {
             "@tier": "7",
@@ -1575,6 +1590,7 @@
         "@opensoundevent": "Play_open_chest_uncommon",
         "@spawnsoundevent": "Play_spawn_loot_uncommon",
         "@namelocatag": "@HELL_CHEST_UNCOMMON",
+        "@groupfame": "173700",
         "Loot": {
           "LootByTier": {
             "@tier": "8",
@@ -1643,6 +1659,7 @@
         "@opensoundevent": "Play_open_chest_rare",
         "@spawnsoundevent": "Play_spawn_loot_rare",
         "@namelocatag": "@HELL_CHEST_RARE",
+        "@groupfame": "347400",
         "Loot": {
           "LootByTier": {
             "@tier": "8",
@@ -1715,6 +1732,7 @@
         "@opensoundevent": "Play_open_chest_legendary",
         "@spawnsoundevent": "Play_spawn_loot_legendary",
         "@namelocatag": "@HELL_CHEST_LEGENDARY",
+        "@groupfame": "694800",
         "Loot": {
           "LootByTier": {
             "@tier": "8",
@@ -11862,6 +11880,13 @@
         "Loot": {
           "LootByTier": [
             {
+              "@tier": "2",
+              "Item": {
+                "@type": "T1_SKILLBOOK_NONTRADABLE",
+                "@chance": "0.8"
+              }
+            },
+            {
               "@tier": "3",
               "Item": {
                 "@type": "T1_SKILLBOOK_NONTRADABLE",
@@ -11920,6 +11945,13 @@
         "@namelocatag": "@BOOKCHEST_NAME_UNCOMMON",
         "Loot": {
           "LootByTier": [
+            {
+              "@tier": "2",
+              "Item": {
+                "@type": "T1_SKILLBOOK_NONTRADABLE",
+                "@chance": "1.466484"
+              }
+            },
             {
               "@tier": "3",
               "Item": {
@@ -11980,6 +12012,13 @@
         "Loot": {
           "LootByTier": [
             {
+              "@tier": "2",
+              "Item": {
+                "@type": "T1_SKILLBOOK_NONTRADABLE",
+                "@chance": "4.399452"
+              }
+            },
+            {
               "@tier": "3",
               "Item": {
                 "@type": "T1_SKILLBOOK_NONTRADABLE",
@@ -12038,6 +12077,13 @@
         "@namelocatag": "@BOOKCHEST_NAME_LEGENDARY",
         "Loot": {
           "LootByTier": [
+            {
+              "@tier": "2",
+              "Item": {
+                "@type": "T1_SKILLBOOK_NONTRADABLE",
+                "@chance": "8.691482"
+              }
+            },
             {
               "@tier": "3",
               "Item": {
@@ -15367,6 +15413,22 @@
           },
           "LootByTier": [
             {
+              "@tier": "2",
+              "Item": {
+                "@type": "T1_SILVERBAG_NONTRADABLE",
+                "@chance": "0.8"
+              },
+              "LootListReference": [
+                {
+                  "@name": "LOOT_HERETIC_FURNITURE",
+                  "@chance": "0.000296"
+                },
+                {
+                  "@name": "T2_RANDOM_DUNGEON_UNCOMMON"
+                }
+              ]
+            },
+            {
               "@tier": "3",
               "Item": {
                 "@type": "T1_SILVERBAG_NONTRADABLE",
@@ -15484,6 +15546,18 @@
           },
           "LootByTier": [
             {
+              "@tier": "2",
+              "LootListReference": [
+                {
+                  "@name": "LOOT_HERETIC_FURNITURE",
+                  "@chance": "0.000513"
+                },
+                {
+                  "@name": "T2_RANDOM_DUNGEON_RARE"
+                }
+              ]
+            },
+            {
               "@tier": "3",
               "LootListReference": [
                 {
@@ -15597,6 +15671,18 @@
           },
           "LootByTier": [
             {
+              "@tier": "2",
+              "LootListReference": [
+                {
+                  "@name": "LOOT_HERETIC_FURNITURE",
+                  "@chance": "0.001368"
+                },
+                {
+                  "@name": "T2_RANDOM_DUNGEON_LEGENDARY"
+                }
+              ]
+            },
+            {
               "@tier": "3",
               "LootListReference": [
                 {
@@ -15705,6 +15791,22 @@
         "@namelocatag": "@LOOTCHEST_NAME_STANDARD",
         "Loot": {
           "LootByTier": [
+            {
+              "@tier": "2",
+              "LootListReference": [
+                {
+                  "@name": "LOOT_HERETIC_FURNITURE",
+                  "@chance": "0.000296"
+                },
+                {
+                  "@name": "T2_RANDOM_DUNGEON_STANDARD"
+                }
+              ],
+              "Item": {
+                "@type": "T1_SILVERBAG_NONTRADABLE",
+                "@chance": "0.8"
+              }
+            },
             {
               "@tier": "3",
               "LootListReference": [
@@ -15835,6 +15937,22 @@
         "Loot": {
           "LootByTier": [
             {
+              "@tier": "2",
+              "LootListReference": [
+                {
+                  "@name": "LOOT_HERETIC_FURNITURE",
+                  "@chance": "0.000296"
+                },
+                {
+                  "@name": "T2_RANDOM_DUNGEON_UNCOMMON"
+                }
+              ],
+              "Item": {
+                "@type": "T1_SILVERBAG_NONTRADABLE",
+                "@chance": "0.8"
+              }
+            },
+            {
               "@tier": "3",
               "LootListReference": [
                 {
@@ -15948,6 +16066,18 @@
         "Loot": {
           "LootByTier": [
             {
+              "@tier": "2",
+              "LootListReference": [
+                {
+                  "@name": "LOOT_HERETIC_FURNITURE",
+                  "@chance": "0.000513"
+                },
+                {
+                  "@name": "T2_RANDOM_DUNGEON_RARE"
+                }
+              ]
+            },
+            {
               "@tier": "3",
               "LootListReference": [
                 {
@@ -16056,6 +16186,18 @@
         "@namelocatag": "@LOOTCHEST_NAME_LEGENDARY",
         "Loot": {
           "LootByTier": [
+            {
+              "@tier": "2",
+              "LootListReference": [
+                {
+                  "@name": "LOOT_HERETIC_FURNITURE",
+                  "@chance": "0.001368"
+                },
+                {
+                  "@name": "T2_RANDOM_DUNGEON_LEGENDARY"
+                }
+              ]
+            },
             {
               "@tier": "3",
               "LootListReference": [

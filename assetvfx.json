@@ -214,13 +214,21 @@
         }
       },
       {
-        "@uniquename": "UNIQUE_MOUNT_UNIQUE_MOUNT_STAG_SOULKEEPER",
-        "AssetVfx": {
-          "@socketname": "head_mount",
-          "Vfx": {
-            "@prefabName": "FX/ClientPrefabs/fx_mount_stag_soulkeeper_01_eyes_glow"
+        "@uniquename": "UNIQUE_MOUNT_STAG_SOULKEEPER",
+        "AssetVfx": [
+          {
+            "@socketname": "head_mount",
+            "Vfx": {
+              "@prefabName": "FX/ClientPrefabs/fx_mount_stag_soulkeeper_01_eyes_glow"
+            }
+          },
+          {
+            "@socketname": "lantern",
+            "Vfx": {
+              "@prefabName": "FX/ClientPrefabs/fx_mount_stag_soulkeeper_01_phylactery"
+            }
           }
-        }
+        ]
       },
       {
         "@uniquename": "UNIQUE_MOUNT_ARMORED_HORSE_MARE",
@@ -244,6 +252,15 @@
             }
           }
         ]
+      },
+      {
+        "@uniquename": "UNIQUE_MOUNT_COUGAR_DARK",
+        "AssetVfx": {
+          "@socketname": "head_mount",
+          "Vfx": {
+            "@prefabName": "FX/ClientPrefabs/fx_mount_cougar_dark_01_head"
+          }
+        }
       },
       {
         "@uniquename": "MOUNT_ARMORED_HORSE_UNDEAD",
