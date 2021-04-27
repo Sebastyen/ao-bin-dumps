@@ -80037,28 +80037,8 @@
         "OR": {
           "LootListReference": [
             {
-              "@name": "MELD_4_1_ALL_LOOT",
-              "@weight": "675"
-            },
-            {
-              "@name": "MELD_4_2_ALL_LOOT",
-              "@weight": "225"
-            },
-            {
-              "@name": "MELD_4_3_ALL_LOOT",
-              "@weight": "75"
-            },
-            {
               "@name": "MELD_4_4_ALL_LOOT",
               "@weight": "25"
-            },
-            {
-              "@name": "MELD_5_1_ALL_LOOT",
-              "@weight": "675"
-            },
-            {
-              "@name": "MELD_5_2_ALL_LOOT",
-              "@weight": "225"
             },
             {
               "@name": "MELD_5_3_ALL_LOOT",
@@ -80067,10 +80047,6 @@
             {
               "@name": "MELD_5_4_ALL_LOOT",
               "@weight": "25"
-            },
-            {
-              "@name": "MELD_6_1_ALL_LOOT",
-              "@weight": "675"
             },
             {
               "@name": "MELD_6_2_ALL_LOOT",

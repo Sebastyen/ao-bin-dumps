@@ -3824,25 +3824,46 @@
           "@mobsilverlootfactor": "3"
         },
         {
-          "@type": "hell",
-          "@icon": "black",
-          "@famefactor": "3.5",
-          "@moblootfactor": "2.6",
-          "@mobsilverlootfactor": "3"
-        },
-        {
-          "@type": "hell_yellow",
+          "@type": "hell_nonlethal_2v2",
           "@icon": "yellow",
           "@famefactor": "2",
           "@moblootfactor": "1.33",
           "@mobsilverlootfactor": "1.53"
         },
         {
-          "@type": "hell_green",
+          "@type": "hell_nonlethal_5v5",
           "@icon": "yellow",
-          "@famefactor": "1.8",
-          "@moblootfactor": "1.75",
-          "@mobsilverlootfactor": "2"
+          "@famefactor": "2",
+          "@moblootfactor": "1.33",
+          "@mobsilverlootfactor": "1.53"
+        },
+        {
+          "@type": "hell_nonlethal_10v10",
+          "@icon": "yellow",
+          "@famefactor": "2",
+          "@moblootfactor": "1.33",
+          "@mobsilverlootfactor": "1.53"
+        },
+        {
+          "@type": "hell_lethal_2v2",
+          "@icon": "black",
+          "@famefactor": "3.5",
+          "@moblootfactor": "2.6",
+          "@mobsilverlootfactor": "3"
+        },
+        {
+          "@type": "hell_lethal_5v5",
+          "@icon": "black",
+          "@famefactor": "3.5",
+          "@moblootfactor": "2.6",
+          "@mobsilverlootfactor": "3"
+        },
+        {
+          "@type": "hell_lethal_10v10",
+          "@icon": "black",
+          "@famefactor": "3.5",
+          "@moblootfactor": "2.6",
+          "@mobsilverlootfactor": "3"
         },
         {
           "@type": "corrupted_beginner",

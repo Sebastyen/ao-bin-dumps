@@ -1392,9 +1392,12 @@
     <ClusterDangerBonus type="yellow" icon="yellow" famefactor="2" moblootfactor="1.33" mobsilverlootfactor="1.53"/>
     <ClusterDangerBonus type="red" icon="red" famefactor="2.75" moblootfactor="2.25" mobsilverlootfactor="2.6"/>
     <ClusterDangerBonus type="black" icon="black" famefactor="3.5" moblootfactor="2.6" mobsilverlootfactor="3"/>
-    <ClusterDangerBonus type="hell" icon="black" famefactor="3.5" moblootfactor="2.6" mobsilverlootfactor="3"/>
-    <ClusterDangerBonus type="hell_yellow" icon="yellow" famefactor="2" moblootfactor="1.33" mobsilverlootfactor="1.53"/>
-    <ClusterDangerBonus type="hell_green" icon="yellow" famefactor="1.8" moblootfactor="1.75" mobsilverlootfactor="2"/>
+    <ClusterDangerBonus type="hell_nonlethal_2v2" icon="yellow" famefactor="2" moblootfactor="1.33" mobsilverlootfactor="1.53"/>
+    <ClusterDangerBonus type="hell_nonlethal_5v5" icon="yellow" famefactor="2" moblootfactor="1.33" mobsilverlootfactor="1.53"/>
+    <ClusterDangerBonus type="hell_nonlethal_10v10" icon="yellow" famefactor="2" moblootfactor="1.33" mobsilverlootfactor="1.53"/>
+    <ClusterDangerBonus type="hell_lethal_2v2" icon="black" famefactor="3.5" moblootfactor="2.6" mobsilverlootfactor="3"/>
+    <ClusterDangerBonus type="hell_lethal_5v5" icon="black" famefactor="3.5" moblootfactor="2.6" mobsilverlootfactor="3"/>
+    <ClusterDangerBonus type="hell_lethal_10v10" icon="black" famefactor="3.5" moblootfactor="2.6" mobsilverlootfactor="3"/>
     <ClusterDangerBonus type="corrupted_beginner" icon="corruptedbeginner" famefactor="2" moblootfactor="1.33" mobsilverlootfactor="1.53"/>
     <ClusterDangerBonus type="corrupted_intermediate" icon="corruptedintermediate" famefactor="3.5" moblootfactor="2.6" mobsilverlootfactor="3"/>
     <ClusterDangerBonus type="corrupted_pro" icon="corruptedpro" famefactor="3.5" moblootfactor="2.6" mobsilverlootfactor="3"/>

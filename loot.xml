@@ -20552,17 +20552,23 @@
   </Lootlist>
   <!--Artifact Lootlist for Crystal League-->
   <Lootlist name="CRYSTALLEAGUE_ARTEFACT_LOOT">
-    <!--current est. value: 27,864 Silver-->
+    <!--current est. value: 110,539 Silver-->
     <OR>
+      <!--
       <LootListReference name="MELD_4_1_ALL_LOOT" weight="675" />
-      <LootListReference name="MELD_4_2_ALL_LOOT" weight="225" />
+      <LootListReference name="MELD_4_2_ALL_LOOT" weight="225" />      
       <LootListReference name="MELD_4_3_ALL_LOOT" weight="75" />
+      -->
       <LootListReference name="MELD_4_4_ALL_LOOT" weight="25" />
+      <!--
       <LootListReference name="MELD_5_1_ALL_LOOT" weight="675" />
       <LootListReference name="MELD_5_2_ALL_LOOT" weight="225" />
+      -->      
       <LootListReference name="MELD_5_3_ALL_LOOT" weight="75" />
       <LootListReference name="MELD_5_4_ALL_LOOT" weight="25" />
+      <!--
       <LootListReference name="MELD_6_1_ALL_LOOT" weight="675" />
+      -->
       <LootListReference name="MELD_6_2_ALL_LOOT" weight="225" />
       <LootListReference name="MELD_6_3_ALL_LOOT" weight="75" />
       <LootListReference name="MELD_6_4_ALL_LOOT" weight="25" />
