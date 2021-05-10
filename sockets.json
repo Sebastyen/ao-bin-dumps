@@ -9849,6 +9849,10 @@
             "@bonename": "mount|RightLegToeBase",
             "@positionOffset": "0.22 0.05 0",
             "@rotationOffset": "-215 270 0"
+          },
+          {
+            "@socketname": "head_mount_chimera",
+            "@bonename": "mount|Neck_Head"
           }
         ]
       },

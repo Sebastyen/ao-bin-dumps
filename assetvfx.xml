@@ -3,6 +3,11 @@
   <!--*************************************************************************************************************************************************************-->
   <!--MOUNTS-->
   <!--*************************************************************************************************************************************************************-->
+  <AssetVfxInfo uniquename="MOUNT_HORSE_QUESTING_BEAST">
+    <AssetVfx socketname="head_mount_chimera">
+      <Vfx prefabName="FX/ClientPrefabs/fx_questing_beast_eyeglow" />
+    </AssetVfx>
+  </AssetVfxInfo>
   <AssetVfxInfo uniquename="UNIQUE_MOUNT_BASTION_SILVER">
     <AssetVfx socketname="bastion_front">
       <Vfx prefabName="FX/ClientPrefabs/fx_bastion_gem_front" />
