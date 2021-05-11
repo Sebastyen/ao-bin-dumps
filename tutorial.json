@@ -2288,7 +2288,6 @@
           {
             "@imagepath": "Gui/TutorialExplanations/TUTORIAL_CARRYWEIGHT_1",
             "@scale": "1.2",
-            "@setplatformflag": "true",
             "content": {
               "@title": "@TUTORIAL_BIGHINT_CARRYWEIGHT_TEXT1_TITLE",
               "@text": "@TUTORIAL_BIGHINT_CARRYWEIGHT_TEXT1_INFO"

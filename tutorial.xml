@@ -650,7 +650,7 @@
     </entry>
   </hint>
   <hint uniquename="CARRYWEIGHT" explanation="VerticalTemplate" title="@TUTORIAL_BIGHINT_CARRYWEIGHT_TITLE" blockworldinteraction="true" completebutton="true" >
-    <entry imagepath="Gui/TutorialExplanations/TUTORIAL_CARRYWEIGHT_1"  scale="1.2" setplatformflag="true">
+    <entry imagepath="Gui/TutorialExplanations/TUTORIAL_CARRYWEIGHT_1"  scale="1.2">
       <content title="@TUTORIAL_BIGHINT_CARRYWEIGHT_TEXT1_TITLE" text="@TUTORIAL_BIGHINT_CARRYWEIGHT_TEXT1_INFO" />
     </entry>
     <entry imagepath="Gui/TutorialExplanations/TUTORIAL_CARRYWEIGHT_2"  scale="1.2">
