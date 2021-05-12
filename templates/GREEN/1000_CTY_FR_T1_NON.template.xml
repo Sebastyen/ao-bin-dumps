@@ -506,7 +506,7 @@
       </tile>
     </criticalscenemember>
     <criticalscenemember id="questgiverobject_02" type="questgiverobject" layerId="">
-      <tile name="T2_AGENT_TUTORIAL_ROYAL_EXPLORER" pos="26.5 -4 -4.5">
+      <tile name="T2_AGENT_TUTORIAL_ROYAL_EXPLORER" pos="27.5 -4 -4.5" roty="341.86">
         <questgiverobject reference="ROYALEXPLORER" />
       </tile>
     </criticalscenemember>
@@ -6387,7 +6387,7 @@
     <tile name="ROYAL_EXPLORER_LIGHT" pos="27.69 -0.13 -4.85">
       <pointlight range="7" intensity="4" color="1 0.5137255 0.1411765" />
     </tile>
-    <criticaltile name="T2_AGENT_TUTORIAL_ROYAL_EXPLORER" pos="26.5 -4 -4.5" id="questgiverobject_02" type="questgiverobject">
+    <criticaltile name="T2_AGENT_TUTORIAL_ROYAL_EXPLORER" pos="27.5 -4 -4.5" roty="341.86" id="questgiverobject_02" type="questgiverobject">
       <questgiverobject reference="ROYALEXPLORER" />
     </criticaltile>
     <tile name="BLOCK_CONSTRUCTIONS_30x30" pos="-20 -40 -10" />

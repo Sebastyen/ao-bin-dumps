@@ -853,8 +853,8 @@
       </extendedmissionstep>
       <missionstep>
         <or  textloca="@MISSIONS_T2_TUTORIAL_RETURN_TO_COMMANDER_SIDETEXT" hideindetailsui="true" locationmarkerid ="EXPEDITION" markedinworld="false" markedonminimap="false">
-          <gotolocation locationmarkerid ="EXPEDITION" seconds="2" markedinworld="false" markedonminimap="false"/>
-          <gotolocation locationmarkerid ="EXPEDITION" triggeronleave="true" seconds="2" markedinworld="false" markedonminimap="false"/>
+          <gotolocation locationmarkerid="EXPEDITION" seconds="2" markedinworld="false" markedonminimap="false"/>
+          <gotolocation locationmarkerid="COMMANDER"  markedinworld="false" markedonminimap="false"/>
         </or>  
       </missionstep>
       <extendedcompletionstep>

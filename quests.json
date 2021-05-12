@@ -1756,9 +1756,7 @@
                     "@markedonminimap": "false"
                   },
                   {
-                    "@locationmarkerid": "EXPEDITION",
-                    "@triggeronleave": "true",
-                    "@seconds": "2",
+                    "@locationmarkerid": "COMMANDER",
                     "@markedinworld": "false",
                     "@markedonminimap": "false"
                   }
