@@ -617,6 +617,15 @@
         }
       },
       {
+        "@name": "MOUNT_JUGGERNAUT",
+        "CharType": {
+          "@name": "mount"
+        },
+        "MountType": {
+          "@name": "juggernaut"
+        }
+      },
+      {
         "@name": "MOUNT_LYNX",
         "CharType": {
           "@name": "mount"
@@ -9790,6 +9799,57 @@
         },
         "OnCastFinished": {
           "@name": "Play_melee_impact_rock_medium"
+        }
+      },
+      {
+        "@name": "SPELL_JUGGERNAUT_GROUND_SMASH",
+        "OnCastFinished": {
+          "@name": "Play_juggernaut_ground_smash"
+        }
+      },
+      {
+        "@name": "SPELL_JUGGERNAUT_ASSAULT",
+        "OnCastStart": {
+          "@name": "Play_juggernaut_spell_load_assault"
+        },
+        "OnCastCanceled": {
+          "@name": "Stop_juggernaut_spell_load_assault"
+        },
+        "OnCastInterrupted": {
+          "@name": "Stop_juggernaut_spell_load_assault"
+        },
+        "OnCastFinished": {
+          "@name": "Play_melee_swoosh_dash_mob"
+        }
+      },
+      {
+        "@name": "SPELL_JUGGERNAUT_TORNADO_CAST",
+        "OnCastStart": {
+          "@name": "Play_juggernaut_cast_tornado"
+        },
+        "OnCastCanceled": {
+          "@name": "Stop_juggernaut_cast_tornado"
+        },
+        "OnCastInterrupted": {
+          "@name": "Stop_juggernaut_cast_tornado"
+        },
+        "OnCastFinished": {
+          "@name": "Play_juggernaut_smash_swoosh"
+        }
+      },
+      {
+        "@name": "SPELL_JUGGERNAUT_TORNADO_CHANNEL",
+        "OnChannelingStart": {
+          "@name": "Play_rockaura_loop"
+        },
+        "OnChannelingCancelled": {
+          "@name": "Stop_rockaura_loop"
+        },
+        "OnChannelingEnd": {
+          "@name": "Stop_rockaura_loop"
+        },
+        "OnChannelingInterrupted": {
+          "@name": "Stop_rockaura_loop"
         }
       },
       {

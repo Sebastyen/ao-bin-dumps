@@ -2250,6 +2250,15 @@
   <!--*************************************************************************************************************************************************************-->
   <!--MOUNTS-->
   <!--*************************************************************************************************************************************************************-->
+  <SocketInfo name="MOUNT_JUGGERNAUT">
+    <Socket socketname="root_mount" bonename="mount|Skeleton_Root" />
+    <Socket socketname="head_mount" bonename="mount|Head" />
+    <Socket socketname="head_mount_crystal" bonename="mount|Head" positionOffset="0 -0.04 -0.17" />
+    <Socket socketname="chest_mount" bonename="mount|Chest" />
+    <Socket socketname="leftarm_mount" bonename="mount|LeftArm_3" />
+    <Socket socketname="rightarm_mount" bonename="mount|RightArm_3" />
+    <Socket socketname="leftshoulder_mount" bonename="mount|LeftShoulderPlate" />
+  </SocketInfo>
   <SocketInfo name="MOUNT_SPIDER">
     <Socket socketname="mount" bonename="mount|Mount" />
     <Socket socketname="fx_eyes_silver_mount" bonename="mount|Spine_1" positionOffset="-0.023 -0.01 0" />
